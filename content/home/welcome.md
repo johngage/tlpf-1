@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The Tegla Loroupe Peace Foundation has been a world center for peace initiatives in conflict areas since its founding in 2006.
