@@ -1,29 +1,22 @@
 ---
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 68
-
+date: 2021-01-26T01:44:01.262Z
+subtitle: null
 title: The Team
-subtitle:
-
+weight: 68
 content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigators
-  - Researchers
-  - Grad Students
-  - Administration
-  - Visitors
-  - Alumni
+    - Principal Investigators
+    - Researchers
+    - Grad Students
+    - Administration
+    - Visitors
+    - Alumni
+headless: true
+description: modify people
 design:
   show_interests: false
   show_role: true
   show_social: true
 ---
+This  is under The Team
