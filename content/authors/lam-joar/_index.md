@@ -6,3 +6,4 @@ bio: South Sudan
 social: []
 superuser: false
 ---
+From province north of Juba, on river
