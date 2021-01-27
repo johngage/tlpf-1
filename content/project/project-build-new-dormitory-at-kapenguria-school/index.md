@@ -5,7 +5,7 @@ date: 2021-01-26T06:39:15.719Z
 draft: false
 featured: false
 authors:
-  - JohnGage
+  - Lam Joar
 external_link: https://web.archive.org/web/20190221072505/http://teglapeacefoundation.org/
 links: []
 image:
