@@ -3,7 +3,7 @@ widget: pages
 widget_id: Location
 headless: true
 weight: 20
-title: Kapenguria Peace Academy
+title: Kapenguria Peace Academy News
 subtitle: null
 content:
   count: 5
