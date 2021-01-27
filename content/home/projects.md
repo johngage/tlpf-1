@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'Athletic Training and Educational Sites'
 
 content:
   # Page type to display. E.g. project.
@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Athletic Training
+    tag: Athletic Training
   - name: Other
     tag: Demo
 
