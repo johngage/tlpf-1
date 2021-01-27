@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: Text slug
 headless: true
-weight: 5
+weight: 1
 title: Tegla Loroupe Peace Foundation
 subtitle: ""
 design:
