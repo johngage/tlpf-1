@@ -10,10 +10,10 @@ headless: true
 weight: 25
 
 # Section title
-title: Hello
+title: Partnerships
 
 # Section subtitle
-subtitle:
+subtitle: Sports for Peace
 
 # Section design
 design:
