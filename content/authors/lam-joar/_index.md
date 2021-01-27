@@ -8,4 +8,4 @@ superuser: false
 user_groups:
   - TLPF
 ---
-From province north of Juba, on river
+From province north of Juba, on river.
