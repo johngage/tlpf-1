@@ -12,7 +12,7 @@ content:
     - Administration
     - Visitors
     - Alumni
-    -TLPF
+    - TLPF
 headless: true
 description: modify people
 design:
