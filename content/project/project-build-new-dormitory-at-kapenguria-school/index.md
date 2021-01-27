@@ -1,5 +1,5 @@
 ---
-title: "Project: Build new dormitory at Kapenguria School"
+title: "Build new dormitory at Kapenguria School"
 subtitle: Add drawings and cost estimates
 date: 2021-01-26T06:39:15.719Z
 draft: false
