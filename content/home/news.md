@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: Location
+widget_id: News Posts
 headless: true
 weight: 20
-title: Kapenguria Peace Academy News
+title: Tegla Loroupe Peace Foundation News
 subtitle: null
 content:
   count: 5
