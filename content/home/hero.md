@@ -1,6 +1,7 @@
 ---
 widget: hero
 headless: true
+active: true
 weight: 10
 title: Hugo Academic Starter
 hero_media: hero-academic.png
