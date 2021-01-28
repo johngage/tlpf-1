@@ -3,7 +3,9 @@ title: Tegla Loroupe Peace Academy Early Plans
 date: 2007-11-25
 ---
 
-The Tegla Loroupe Peace Academy is a model school being constructed by Tegla Loroupe Peace Foundation with assistance from various donors and well wishers locally and abroad. The Academy consists of a Primary and Secondary Boarding School, A Dispensary, A sports training centre and a conference facility.
+The Tegla Loroupe Peace Academy is a model school being constructed by Tegla Loroupe Peace Foundation with assistance from various donors and well wishers locally and abroad. 
+
+The Academy consists of a Primary and Secondary Boarding School, a Dispensary, a sports training centre and a conference facility.
 The school will have the following objectives:-
 (a)  It will offer Educational opportunities to children displaced and / or orphaned as       result of conflict and HIV AIDS in the Pastoral communities of the Greater Horn of       Africa Region.This will give them opportunities in life and ensure that they don’t go       back to these practices again.
 (b)  It will act as a peace building institution bringing children from various communities       to learn together under the same roof in peaceful environment. This will help to       demystify conflict and change the mentality of these young people as they grow       together to appreciate their diverse backgrounds. The academy will draw children       from Pokot, Turkana, Marakwet, Samburu, North Eastern Districts of Kenya       (Mandera, wajir, Garrissa, Ijara e.t.c.), Karamoja of Uganda, Southern Sudan and       Ethiopia.
