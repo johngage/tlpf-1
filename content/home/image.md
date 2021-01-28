@@ -2,10 +2,10 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: ref
+widget_id: IOC Refugee
 headless: true
 weight: 30
-title: null
+title: Refugee Olympic Team Initiatives
 subtitle: null
 active: true
 design:
