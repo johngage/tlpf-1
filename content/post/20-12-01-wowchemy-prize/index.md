@@ -1,6 +1,8 @@
 ---
 title: Tegla Loroupe Plans November Kapenguria Peace Race
 date: 2021-1-25
+authors:
+  - JohnGage
 image:
   filename: kap.race.2019.png
 ---
