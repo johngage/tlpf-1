@@ -10,7 +10,7 @@
 
 [[main]]
   name = "News"
-  url = "post"
+  url = "#posts"
   weight = 19
   
 [[main]]
@@ -20,7 +20,7 @@
 
 [[main]]
   name = "People"
-  url = "people"
+  url = "#people"
   weight = 30
   
 [[main]]
@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Events"
-  url = "event"
+  url = "#event"
   weight = 40
   
 [[main]]
@@ -40,18 +40,18 @@
 
 [[main]]
   name = "Publications"
-  url = "publication"
+  url = "#publication"
   weight = 50
   
 [[main]]
   name = "Courses"
-  url = "courses/"
+  url = "#courses/"
   weight = 60
 
 
 [[main]]
   name = "Contact"
-  url = "contact"
+  url = "#contact"
   weight = 70
   
   # Link to a PDF of your resume/CV from the menu.
