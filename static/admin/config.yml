@@ -1,7 +1,9 @@
 backend:
-  name: git-gateway
-  branch: main
+ # name: git-gateway
+ # branch: main
   squash_merges: true
+  name: github
+  repo: johngage/tlpf-1
 media_folder: 'static/media'
 public_folder: '/media'
 collections:
