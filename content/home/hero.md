@@ -3,7 +3,7 @@ widget: hero
 headless: true
 active: true
 weight: 10
-title: Hugo Academic Starter
+title: Hugo Academic Starter Mod
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
