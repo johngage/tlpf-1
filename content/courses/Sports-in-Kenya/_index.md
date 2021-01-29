@@ -1,11 +1,10 @@
 ---
 # Course title, summary, and position in the list.
-linktitle: First Course
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+linktitle: Sports in Kenya
+summary: Athletics: Track and Field, Soccer, Rugby
 
 # Page metadata.
-title: Overview of Intro Course
+title: Overview of Course on Kenyan Sports
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
