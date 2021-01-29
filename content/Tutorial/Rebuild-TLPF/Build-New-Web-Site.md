@@ -1,3 +1,11 @@
+---
+title: First Steps in building new web site
+toc: true
+date: 2019-05-05
+type: book
+---
+
+
 ## Major steps
 1. Get domain name
 2. Get mail account
