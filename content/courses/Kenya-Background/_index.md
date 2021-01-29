@@ -1,15 +1,15 @@
 ---
 # Page title
-title: An Example Course
+title: Survey of Kenyan Communities
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: Course
+linktitle: Kenya Communities
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Kenya, nomadic tribes, marathon
 
 # Date page published
-date: 2018-09-09
+date: 2021-1-28
 
 # Academic page type (do not modify).
 type: book
