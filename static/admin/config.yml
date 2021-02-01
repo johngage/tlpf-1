@@ -1,7 +1,7 @@
 backend:
-  name: git-gateway: #disabled because "don't have sufficient permissions"
+  name: git-gateway #disabled because "don't have sufficient permissions"
   branch: main
-  squash_merges: true
+  #squash_merges: true
  # name: github
   repo: johngage/tlpf-1
 media_folder: 'static/media'
