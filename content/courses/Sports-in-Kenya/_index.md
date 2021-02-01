@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position in the list.
 linktitle: Sports in Kenya
-summary: Athletics: Track and Field, Soccer, Rugby
+summary: "Athletics: Track and Field, Soccer, Rugby"
 
 # Page metadata.
 title: Overview of Course on Kenyan Sports
