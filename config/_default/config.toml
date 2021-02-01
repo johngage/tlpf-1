@@ -1,4 +1,4 @@
-# Configuration of Hugo 25 Jan 2021
+# Configuration of Hugo 31 Jan 2021
 # Guide: https://wowchemy.com/docs/get-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 #
@@ -30,7 +30,7 @@ defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
-paginate = 10  # Number of items per page in paginated lists.
+paginate = 20  # Number of items per page in paginated lists.
 enableEmoji = true
 enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -46,11 +46,11 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_types = "/publication-type/:slug/"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects" ]
   section = [ "HTML", "RSS" ]
 
-[mediaTypes."application/manifest+json"]
-  suffixes = ["webmanifest"]
+#[mediaTypes."application/manifest+json"]
+# suffixes = ["webmanifest"]
 
 [outputFormats.WebAppManifest]
   mediaType = "application/manifest+json"
