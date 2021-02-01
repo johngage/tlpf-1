@@ -1,6 +1,6 @@
 ---
 title: Courses
-type: page
+type: book
 
 header:
   caption: ""
@@ -8,5 +8,5 @@ header:
 ---
 
 We teach the following courses:
-- Web site design
-- Multi-language health interventions
+- Web site design and rebuilding from archive
+- Kenyan history as it relates to Tegla Loroupe Peace Foundation

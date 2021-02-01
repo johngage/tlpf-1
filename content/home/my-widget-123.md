@@ -2,7 +2,7 @@
 widget: blank
 widget_id: competition
 headless: true
-weight: 20
+weight: 90
 title: "Kisii Cross Country Meet: Dominic Lokinyomo"
 active: true
 design:
