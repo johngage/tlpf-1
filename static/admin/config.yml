@@ -492,8 +492,6 @@ collections:
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false, required: false}
   - name: pages
     label: "Pages"
-    folder: 'content/courses'
-    path: '{{slug}}/_index'
     files:
       - file: "content/privacy.md"
         label: "Privacy Policy"
@@ -523,4 +521,22 @@ collections:
             widget: "boolean"
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
- 
+  - name: courses
+    label: "Courses"
+    folder: 'content/courses'
+    path: '{{slug}}/_index'
+    create: true
+    filter: {field: "cms_exclude"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: false
+      - {label: "Body", name: "body", widget: "markdown"}
+
+    
