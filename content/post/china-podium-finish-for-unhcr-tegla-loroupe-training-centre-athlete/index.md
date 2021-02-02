@@ -8,6 +8,8 @@ summary: >-
   PODIUM FINISH FOR TEGLA LOROUPE TRAINING CENTRE ATHLETE A Kenyan athlete, Hosea Simotwo, who is part of the UNHCR/ Tegla Loroupe Athletics Project in Ngong, Kenya, came second at the Cross-strait (Kunshan) Marathon.
 draft: false
 featured: false
+authors:
+  - LamJoar
 image:
   filename: https://web.archive.org/web/20190626144353im_/http://teglapeacefoundation.org/wp-content/uploads/2019/03/image002-1.jpg
   focal_point: Smart
