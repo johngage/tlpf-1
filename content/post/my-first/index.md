@@ -18,6 +18,7 @@ gallery_item:
   image: purbiel.jpg
   caption: A caption
 ---
+{{< figure library="true" src="tl.logo.png" title="A caption" >}}
 ![Tegla logo](/tl.logo.png 'Tegla Running')
 ## How are images displayed?
 With the alias tab, going to /....., when it does not exist in the local folder?

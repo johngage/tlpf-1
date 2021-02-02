@@ -1,14 +1,14 @@
 backend:
- # name: git-gateway
- # branch: main
-  squash_merges: true
-  name: github
-  repo: johngage/tlpf-1
+ name: git-gateway #get personal authenticatiom from github
+ branch: main
+ #squash_merges: true
+ #name: github
+ repo: johngage/tlpf-1
 media_folder: 'static/media'
 public_folder: '/media'
 collections:
   - name: home
-    label: "Homepage"
+    label: "Homepage Elements"
     folder: 'content/home'
     path: '{{slug}}'
     # When specifying a path on a folder collection, media_folder defaults to an empty string, so make it explicit.
@@ -521,3 +521,39 @@ collections:
             widget: "boolean"
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
+  - name: books
+    label: "Books"
+    folder: 'content/courses'
+    path: '{{slug}}/_index'
+    create: true
+    filter: {field: "cms_exclude"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: false
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: blogs
+    label: "Blogs"
+    folder: 'content/blog'
+    path: '{{slug}}/_index'
+    create: true
+    filter: {field: "cms_exclude"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: false
+      - {label: "Body", name: "body", widget: "markdown"}
+
+    
