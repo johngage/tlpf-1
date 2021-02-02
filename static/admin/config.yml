@@ -1,9 +1,9 @@
 backend:
-  name: git-gateway #disabled because "don't have sufficient permissions"
-  branch: main
-  #squash_merges: true
-  #name: github
-  repo: johngage/tlpf-1
+ name: git-gateway #disabled because "don't have sufficient permissions"
+ branch: main
+ #squash_merges: true
+ #name: github
+ repo: johngage/tlpf-1
 media_folder: 'static/media'
 public_folder: '/media'
 collections:
@@ -521,10 +521,10 @@ collections:
             widget: "boolean"
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
- - name: books
-   label: "Books"
-   folder: 'content/courses'
-   files:
+  - name: books
+    label: "Books"
+    folder: 'content/courses'
+    files:
      - file: "content/privacy.md"
        label: "Privacy Policy"
        name: "privacy"
