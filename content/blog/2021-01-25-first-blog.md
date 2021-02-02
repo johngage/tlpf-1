@@ -1,17 +1,33 @@
 ---
-title: first blog
+title: Describe process of setting up teglapeace.org on Netlify as a static site
+  generated web site, or SSG
 date: 2021-01-25T22:07:45.581Z
 description: "try to see content in Academic "
+subtitle: Enable cloud editing using the Netlify CMS, a form-based editing tool
+summary: >-
+  1. Get domain name from Cheapnames
+
+
+  2. Set up Github repository to hold content in johngage/tlpf-1.
+
+
+  3. Generate content in a content framework using the Hugo website generator together with the free, open source Wowchemy Website Builder, either on local machine or on Github.
+
+
+  3. Link Github repository to Netlify to  serve as web server. (could use Github Pages or Cloudflare) following the Wowchemy instructions.
+
+
+  4. Link Github repository to local machine, to mirror development environments using Git.
 ---
-The first round of building the Netlify site used Wowchemy to create the Github repository, and link it to Netlify.  Then, configuring the Netlify CMS editor relies on a config.yml file in the site to allow the editor to see all the Academic content on the Github site.
+The first round of building the Netlify site used Wowchemy to create the Github repository, and to link it to Netlify.  Then, configuring the Netlify CMS editor, building a config.yml file in the Github site to allow the NetlifyCMS editor to see all the Academic content on the Github site.
 
 But that file was missing.
 
-So I downloaded it from a Github site that displays a sample site. Suddenly, I could see the home page, see the authors, see people....and now I have to learn how to add new images to existing pages.
+So I downloaded it from a Wowchemy Github site that displays a sample site. Suddenly, I could see the home page, see the authors, see people.  The YML file contains sections that refer to each directory of content  inside the  content directory inside the Wowchemy structured repository on Github. Without that section, the CMS cannot see the content. I added sections in the config.yml file for blog, for book, etc.
 
-Separately, I downloaded an Academic site to my computer; installed Hugo, and executed "hugo server", which created a site, and put it up on a web page at "localhost:49840".  It shows a 2019 page, so I expect the config.yml file to be old.
+Now to add new images to existing pages.
 
-Editing on Github does not show up on the Netlify site.  Why?
+Separately, I downloaded an Academic site to my computer; installed Hugo, and executed "hugo server", which created a site, and put it up on a web page at "localhost:49840".  It shows a 2019 page, so I expect its config.yml file to be old.
 
-And the Netlifycms error has come back:
+There are occasional NetlifyCMS access errors. Fix them by looking at the config /_default/config.toml file to be sure the branch is "main". Then, go to the Netlify dashboard, find the Identity section, and update the Git Gateway token.
 Git Gateway Error: Please ask your site administrator to reissue the Git Gateway token.
