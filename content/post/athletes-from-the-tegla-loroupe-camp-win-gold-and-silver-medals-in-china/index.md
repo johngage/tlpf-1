@@ -4,7 +4,7 @@ date: 2021-02-01T22:19:14.370Z
 draft: false
 featured: false
 image:
-  filename: china-podium.jpg
+  filename: 2018.beverly.lihulake.jpg
   focal_point: Smart
   preview_only: false
 ---
