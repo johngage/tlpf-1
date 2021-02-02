@@ -1,5 +1,5 @@
 backend:
- name: git-gateway #disabled because "don't have sufficient permissions"
+ name: git-gateway #get personal authenticatiom from github
  branch: main
  #squash_merges: true
  #name: github
@@ -540,7 +540,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: blogs
     label: "Blogs"
-    folder: 'content/blogs'
+    folder: 'content/blog'
     path: '{{slug}}/_index'
     create: true
     filter: {field: "cms_exclude"}
