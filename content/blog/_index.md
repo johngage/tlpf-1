@@ -1,6 +1,5 @@
 ---
-title: Latest News
-
+title: blog
 # View.
 #   1 = List
 #   2 = Compact
