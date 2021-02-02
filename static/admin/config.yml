@@ -492,6 +492,8 @@ collections:
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false, required: false}
   - name: pages
     label: "Pages"
+    folder: 'content/courses'
+    path: '{{slug}}/_index'
     files:
       - file: "content/privacy.md"
         label: "Privacy Policy"
