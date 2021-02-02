@@ -1,12 +1,12 @@
-# This file controls what content Netlify CMS can see, and edit.
-# Each "Collection" corresponds to a directory
-# in the base content directory, e.g., "home", "authors", "blog",
 backend:
  name: git-gateway #get personal authenticatiom from github
  branch: main
  #  squash_merges: true
  #  name: github
  repo: johngage/tlpf-1
+ # This file controls what content Netlify CMS can see, and edit.
+ # Each "Collection" corresponds to a directory
+ # in the base content directory, e.g., "home", "authors", "blog",
 media_folder: 'static/media'
 public_folder: '/media'
 collections:
