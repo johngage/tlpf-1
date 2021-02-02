@@ -1,5 +1,6 @@
-#This file controls what content Netlify CMS can see, and edit. 
-#Each "Collection" corresponds to a directory in the base content directory,e.g., "home", "authors", "blog", 
+#This file controls what content Netlify CMS can see, and edit.
+#Each "Collection" corresponds to a directory
+#in the base content directory,e.g., "home", "authors", "blog", 
 backend:
  name: git-gateway #get personal authenticatiom from github
  branch: main
@@ -574,5 +575,3 @@ collections:
         widget: "boolean"
         default: false
       - {label: "Body", name: "body", widget: "markdown"}
-
-    
