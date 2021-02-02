@@ -558,7 +558,7 @@ collections:
         widget: "boolean"
         default: false
       - {label: "Body", name: "body", widget: "markdown"}
-- name: contact
+  - name: contact
     label: "Contact"
     folder: 'content/contact'
     path: '{{slug}}/index'
