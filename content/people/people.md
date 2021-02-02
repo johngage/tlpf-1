@@ -6,9 +6,9 @@ title: The Team
 weight: 68
 content:
   user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
+    - Staff
+    - Board
+    - Advisory Board
     - Administration
     - Visitors
     - Alumni
