@@ -16,7 +16,7 @@ image:
   preview_only: false
   caption: Podium Award for Hosea Simotwo
 ---
-{{ image }}
+{{< figure library="true" src="kunshansimotwo.jpg" title="Simotwo in Kunshan City: March 24,2019" >}}
 
 PODIUM FINISH FOR TEGLA LOROUPE TRAINING CENTRE ATHLETE A Kenyan athlete, Hosea Simotwo, who is part of the UNHCR/ Tegla Loroupe Athletics Project in Ngong, Kenya, came second at the Cross-strait (Kunshan) Marathon
 
