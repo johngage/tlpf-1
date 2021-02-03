@@ -1,5 +1,5 @@
 ---
-title: Outline of editing procedures for Nairobi TLPF staff
+title: How the TLPF website is built, and how Nairobi TLPF staff can edit it
 date: 2021-01-30
 gallery_item:
   - album: gallery
@@ -17,6 +17,7 @@ gallery_item:
   - album: gallery
     image: purbiel.jpg
     caption: A caption
+subtitle: What our Webmaster needs to know
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
