@@ -49,20 +49,22 @@ And, as a practical matter, this could be the beginning of a course for the athl
 
 **Here's a tiny taste of how a page is built**
 
-Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ .  }}
+Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ put words here  }}
 
-\    {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
+words: < figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >
+
+This  is the result: {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
+
+Another  image, putting *< figure library="true" src="tl.logo.png" title="A caption" >* inside {{ }}
 
 
-
-```
-is tjs a cpde block
-```
-
-The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things 
 
 *{{< figure library="true" src="tl.logo.png" title="A caption" >}}*
 ![Tegla logo](/tl.logo.png "Tegla Running")
+
+
+
+The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things 
 
 ##### How are images displayed?
 
