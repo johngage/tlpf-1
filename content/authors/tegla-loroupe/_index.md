@@ -8,4 +8,5 @@ social: []
 superuser: false
 user_groups:
   - Board
+  - KapenguriaSchool
 ---
