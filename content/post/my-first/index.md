@@ -51,6 +51,10 @@ And, as a practical matter, this could be the beginning of a course for the athl
 
 Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ .  }}
 
+\    {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
+
+
+
 ````
 ```{{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}```
 ````
