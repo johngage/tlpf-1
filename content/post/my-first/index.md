@@ -55,9 +55,9 @@ Write text in the text field for a page.  When you want to insert an image, put 
 
 
 
-````
-```{{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}```
-````
+```
+is tjs a cpde block
+```
 
 The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things 
 
