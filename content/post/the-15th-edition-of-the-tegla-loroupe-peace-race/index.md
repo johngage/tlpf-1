@@ -1,5 +1,5 @@
 ---
-title: "The 15th Edition of the Tegla Loroupe Peace Race: November, 2018"
+title: "The 15th Tegla Loroupe Peace Race: November, 2018"
 subtitle: The 15th Edition of the Tegla Loroupe Peace Race was held on the 11th
   of November 2018 in Kapenguria.
 date: 2021-02-01T22:12:32.058Z
@@ -17,6 +17,8 @@ image:
   alt_text: Runners assemble in Kapenguria with the Governor and Ambassador Tegla Loroupe
 ---
 2018/11/11
+
+{{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
 
 The 15th Edition of the Tegla Loroupe Peace Race was held on the 11th of November 2018 in Kapenguria.  
 
@@ -40,7 +42,7 @@ The peace race brought together various reformed warriors from different warring
 
 The peace race saw over 200 reformed warriors from the warring communities from **Karamojong** and **Sabei** in Uganda as well as the **Turkana**, **Pokot**, **Marakwet** from Kenya. These tribes frequently conflict over issues of land and cattle rustling.
 
-Inspector General Boinett called on the communities in the region to embrace peace, pointing out that there was need for neighboring communities in the region to do away with the outdated culture of cattle rustling and banditry activities. **Boinnet** said the government will use alternative ways of solving disputes in the region and asked the leaders from the region to support government efforts.
+**Inspector General Boinett** called on the communities in the region to embrace peace, pointing out that there was need for neighboring communities in the region to do away with the outdated culture of cattle rustling and banditry activities. **Boinnet** said the government will use alternative ways of solving disputes in the region and asked the leaders from the region to support government efforts.
 
 “We want warriors to change and engage in other meaningful activities. The government is ready to assist them,” he said.
 
