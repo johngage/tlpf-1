@@ -51,9 +51,9 @@ And, as a practical matter, this could be the beginning of a course for the athl
 
 Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ .  }}
 
-```
-{{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
-```
+````
+```{{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}```
+````
 
 The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things 
 
