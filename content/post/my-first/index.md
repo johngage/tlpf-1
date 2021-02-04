@@ -19,8 +19,6 @@ gallery_item:
     caption: A caption
 subtitle: What our Webmaster needs to know
 ---
-
-
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/
@@ -78,4 +76,4 @@ The important thing for the Wowchemy software to know is exactly where the image
 
 Here's an  illustration of the  "gallery" shortcode
 
-`{{` `< gallery album="<static/media>" >}}`
+`{{` `< gallery album="<../../../static/media>" >}}`
