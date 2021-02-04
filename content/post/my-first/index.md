@@ -19,6 +19,8 @@ gallery_item:
     caption: A caption
 subtitle: What our Webmaster needs to know
 ---
+
+
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/
@@ -49,7 +51,9 @@ And, as a practical matter, this could be the beginning of a course for the athl
 
 **Here's a tiny taste of how a page is built**
 
-Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ put words here  }}
+Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ put words here  }}. Things  inside curly brackets can be very complicated and powerful.  They're called "shortcodes".   I'll find the complete listing of them.  They combine into "widgets". 
+
+Here's an  example. Put the words below inside curly brackets: {{ words }}. When you do, it will make something happen.  
 
 words: < figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >
 
@@ -69,3 +73,9 @@ The curly brackets are the magical commands that the Wowchemy software looks for
 ##### How are images displayed?
 
 The important thing for the Wowchemy software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
+
+
+
+Here's an  illustration of the  "gallery" shortcode
+
+`{{` `< gallery album="<static/media>" >}}`
