@@ -76,4 +76,4 @@ The important thing for the Wowchemy software to know is exactly where the image
 
 Here's an  illustration of the  "gallery" shortcode
 
-`{{` `< gallery album="<../../static/media>" >}}`
+`{{` `< gallery album="<../static/media>" >}}`
