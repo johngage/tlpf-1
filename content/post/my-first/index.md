@@ -63,10 +63,32 @@ This  is the result: {{< figure library="true" src="kap.race.2019.png" title="Ka
 
 Another  image, putting *< figure library="true" src="tl.logo.png" title="A caption" >* inside {{ }}
 
-
-
 *{{< figure library="true" src="tl.logo.png" title="A caption" >}}*
 ![Tegla logo](/tl.logo.png "Tegla Running")
+
+<hl>
+
+Let's try markdown varieties of code blocks.
+
+\`\`\` Try one. on same line \`\`\`
+
+\`\``  Try two. on two
+
+lines
+
+\`\``
+
+Try three.  Inline \`quoted text\` in a line.
+
+
+
+\    Try four.  Indented four spaces  on one line. 
+
+And a regular line
+
+\    And two lines, indented.
+
+\    second indented line.
 
 
 
@@ -75,8 +97,6 @@ The curly brackets are the magical commands that the Wowchemy software looks for
 ##### How are images displayed?
 
 The important thing for the Wowchemy software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
-
-
 
 Here's an  illustration of the  "gallery" shortcode
 
