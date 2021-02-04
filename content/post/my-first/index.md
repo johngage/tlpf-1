@@ -18,6 +18,10 @@ gallery_item:
     image: purbiel.jpg
     caption: A caption
 subtitle: What our Webmaster needs to know
+authors:
+  - lamloar
+image:
+  filename: china-podium.jpg
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
@@ -76,4 +80,4 @@ The important thing for the Wowchemy software to know is exactly where the image
 
 Here's an  illustration of the  "gallery" shortcode
 
-`{{` `< gallery album="<../static/media>" >}}`
+`{{` `< gallery  >}}`
