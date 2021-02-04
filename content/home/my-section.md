@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-Add any content to the body of the section here.
+my-section.md on homepage: widget blank
