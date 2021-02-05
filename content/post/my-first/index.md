@@ -68,7 +68,7 @@ There is a directory "gallery" with three  images:  asia.group.jpg, boxing.jpg, 
 
 {{< gallery album="gallery">}} : this should result in three pics in a gallery; add .yml for titles.
 
-Or, add images to static/media. And add yml to say "gallery_item: album: gallery, which seems to indicate that there should be an album named "gallery" inside static/media., and name the image: image: ......jpg;
+Or, add images to static/media. And add yml to say "gallery_item: album: gallery, which seems to indicate that there should be an album named "gallery" inside static/media., and name the image: image: something.jpg;
 
 
 
