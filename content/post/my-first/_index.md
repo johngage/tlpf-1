@@ -16,6 +16,9 @@ gallery_item:
   - album: gallery
     image: boxing.jpg
     caption: New
+  - album: gallery
+    image: g1.jpg
+    caption: down one dir
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
@@ -76,7 +79,7 @@ There is a directory "gallery" with three  images:  asia.group.jpg, boxing.jpg, 
 
 {{< gallery  >}}
 
-This succeeded in diplaying similarly sized images that reside in static/media, and are specifically named in the yml front material, with the odd assignment of an "album" whose name seems to be required to be "gallery".
+This succeeded in displaying similarly sized images that reside in static/media, and are specifically named in the yml front material, with the odd assignment of an "album" whose name seems to be required to be "gallery".
 
 Now, try this--find images in leaf folder.
 
