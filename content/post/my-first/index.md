@@ -6,19 +6,7 @@ authors:
   - lamloar
 image:
   filename: china-podium.jpg
-gallery_item:
-  - album: gallery
-    image: coders.jpg
-    caption: I'm in static
-  - album: gallery
-    image: dominic.1.jpg
-    caption: A caption
-  - album: gallery
-    image: boxing.jpg
-    caption: New
-  - album: gallery
-    image: 'gallery/g1.jpg'
-    caption: down one dir
+
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
@@ -77,7 +65,7 @@ This document is in content/post/my-first/index.md . As a "leaf bundle", used in
 
 There is a directory "gallery" with three  images:  asia.group.jpg, boxing.jpg, and china-podium.jpg.  The same three  are inside my-first directory at the same level as index.md.  How to show them  as a gallery?
 
-{{< gallery  >}}
+{{< gallery album="gallery-album" >}}
 
 This succeeded in displaying similarly sized images that reside in static/media, and are specifically named in the yml front material, with the odd assignment of an "album" whose name seems to be required to be "gallery".
 
