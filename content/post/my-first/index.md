@@ -1,5 +1,5 @@
 ---
-title: How the TLPF website is built, and how Nairobi TLPF staff can edit it
+title: How the TLPF website is built, and how Nairobi TLPF staff build and edit it
 subtitle: What our Webmaster needs to know
 date: 2021-01-30
 authors:
@@ -58,13 +58,13 @@ The curly brackets are the magical commands that the Wowchemy software looks for
 
 The important thing for the Wowchemy software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
 
-Here's an  illustration of the  "gallery" shortcode.  Is something keeping Hugo from working? No, haven't saved repository.
+Here's an  illustration of the  "gallery" shortcode.  Is something keeping Hugo from working?
 
 This document is in content/post/my-first/index.md . As a "leaf bundle", used in Hugo, with index.md, it should allow access to anything at any directory level in the same directory, as opposed  to "Branch Bundle", with _index.md, with access only in the directory level **of** the branch bundle directory i.e. the directory containing the `_index.md` ([ref](https://discourse.gohugo.io/t/question-about-content-folder-structure/11822/4?u=kaushalmodi)).  
 
 There is a directory "gallery" with three  images:  asia.group.jpg, boxing.jpg, and china-podium.jpg.  The same three  are inside my-first directory at the same level as index.md.  How to show them  as a gallery?
 
-{{ < gallery  >}} should go to static/media, find images, either in main directory, or in "gallery" directory.
+`{{` `< gallery  >}} should go to static/media, find images.`
 
 {{< gallery album="gallery">}} : this should result in three pics in a gallery; add .yml for titles.
 
@@ -84,6 +84,6 @@ Or, add images to static/media. And add yml to say "gallery_item: album: gallery
 
 {{< gallery album="./gallery">}}
 
-
+``
 
 {{% callout note %}} If you are not familiar with the International System of Units (SI) I recommend you to check out this page of the Bureau International des Poids et Mesures (BIPM). {{% /callout %}}
