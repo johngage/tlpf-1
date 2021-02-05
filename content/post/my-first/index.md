@@ -101,3 +101,21 @@ The important thing for the Wowchemy software to know is exactly where the image
 Here's an  illustration of the  "gallery" shortcode
 
 `{{` `< gallery library="true" album="gallery" >}}`
+
+`{{` `< gallery album="gallery" >}}`
+
+``
+
+`{{` `< gallery >}}`
+
+``
+
+`{{` `< gallery library="true" album="gallery" >}}`
+
+``
+
+``
+
+``
+
+{{% callout note %}} If you are not familiar with the **International System of Units (SI)** I recommend you to check out [this page](https://www.bipm.org/en/measurement-units/) of the [*Bureau International des Poids et Mesures* (BIPM)](https://www.bipm.org/en/about-us/). {{% /callout %}}
