@@ -98,13 +98,25 @@ The curly brackets are the magical commands that the Wowchemy software looks for
 
 The important thing for the Wowchemy software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
 
-Here's an  illustration of the  "gallery" shortcode
+Here's an  illustration of the  "gallery" shortcode     
 
-`{{` `< gallery library="true" album="<gallery>" >}}`
+`{{` `< gallery library="true" album="gallery" >}}`
 
-`{{` `< gallery album="<gallery>" >}}`
+`{{` `< gallery album="gallery" >}}`
+
+`{{` `< gallery album="gallery/" >}}`
 
 ``
+
+`{{` `< gallery album="./gallery" >}}`
+
+`{{` `< gallery album="/content/post/my-first/gallery" >}}`
+
+`{{` `< gallery album="post/my-first/gallery" >}}`
+
+`{{` `< gallery album="../my-first/gallery" >}}`
+
+`{{` `< gallery album="." >}}`
 
 `{{` `< gallery >}}`
 
