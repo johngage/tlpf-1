@@ -17,7 +17,7 @@ gallery_item:
     image: boxing.jpg
     caption: New
   - album: gallery
-    image: './gallery/g1.jpg'
+    image: 'gallery/g1.jpg'
     caption: down one dir
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
