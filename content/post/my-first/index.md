@@ -70,13 +70,11 @@ Another  image, putting *< figure library="true" src="tl.logo.png" title="A capt
 
 Let's try markdown varieties of code blocks.
 
-\`\`\` Try one. on same line \`\`\`
+Try one. on same line 
 
-\`\``  Try two. on two
+ Try two. on two
 
 lines
-
-\`\``
 
 Try three.  Inline \`quoted text\` in a line.
 
@@ -106,8 +104,6 @@ Here's an  illustration of the  "gallery" shortcode
 
 `{{` `< gallery album="gallery/" >}}`
 
-``
-
 `{{` `< gallery album="./gallery" >}}`
 
 `{{` `< gallery album="/content/post/my-first/gallery" >}}`
@@ -120,14 +116,6 @@ Here's an  illustration of the  "gallery" shortcode
 
 `{{` `< gallery >}}`
 
-``
-
 `{{` `< gallery library="true" album="gallery" >}}`
-
-``
-
-``
-
-``
 
 {{% callout note %}} If you are not familiar with the **International System of Units (SI)** I recommend you to check out [this page](https://www.bipm.org/en/measurement-units/) of the [*Bureau International des Poids et Mesures* (BIPM)](https://www.bipm.org/en/about-us/). {{% /callout %}}
