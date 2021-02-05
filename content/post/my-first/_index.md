@@ -11,7 +11,7 @@ gallery_item:
     image: coders.jpg
     caption: A caption
   - album: gallery
-    image: dominic1.jpg
+    image: dominic.1.jpg
     caption: A caption
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
