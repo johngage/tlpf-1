@@ -7,7 +7,7 @@ authors:
 image:
   filename: china-podium.jpg
 gallery_item:
-  - album: gallery
+  - album: album
     image: coders.jpg
     caption: A caption
 ---
