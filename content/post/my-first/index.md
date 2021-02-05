@@ -1,22 +1,7 @@
 ---
 title: How the TLPF website is built, and how Nairobi TLPF staff can edit it
 date: 2021-01-30
-gallery_item:
-  - album: gallery
-    image: kap.race.2019.png
-    caption: A caption
-    gallery_item: null
-  - album: gallery
-    image: National-Cross-Country_Eldoret_9-800x600.jpg
-    caption: A caption
-    gallery_item: null
-  - album: gallery
-    image: oneyoungworldsummit.jpg
-    caption: A caption
-    gallery_item: null
-  - album: gallery
-    image: purbiel.jpg
-    caption: A caption
+
 subtitle: What our Webmaster needs to know
 authors:
   - lamloar
@@ -31,7 +16,7 @@ To access the editor, you log in to **Netlify**.  We'll set that up.
 
 You are presented with *NetlifyCMS*, the content-management system  (CMS) supported by **Netlify**.  The interface displays a form for each page, allowing you to edit the text, the title, and the images displayed on the page.
 
-*NetlifyCMS* is structured by an outline created by **Wowchemy**, a non-profit open source provider of tools to build websites. 
+*NetlifyCMS* is structured by an outline created by **Wowchemy**, a non-profit open source provider of tools to build websites.
 
 Content is divided into categories: homepage, posts, blogs, slides, books, projects, events, publications, and content, and the categories match the physical arrangement of the directories that hold the content.  That is, each of these categories is a directory inside the overall directory named "content".  For example, all the posts are inside "content/post".  The homepage is inside "content/home". The events are inside "content/events".
 
@@ -53,9 +38,9 @@ And, as a practical matter, this could be the beginning of a course for the athl
 
 **Here's a tiny taste of how a page is built**
 
-Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ put words here  }}. Things  inside curly brackets can be very complicated and powerful.  They're called "shortcodes".   I'll find the complete listing of them.  They combine into "widgets". 
+Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ put words here  }}. Things  inside curly brackets can be very complicated and powerful.  They're called "shortcodes".   I'll find the complete listing of them.  They combine into "widgets".
 
-Here's an  example. Put the words below inside curly brackets: {{ words }}. When you do, it will make something happen.  
+Here's an  example. Put the words below inside curly brackets: {{ words }}. When you do, it will make something happen.
 
 words: < figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >
 
@@ -63,59 +48,21 @@ This  is the result: {{< figure library="true" src="kap.race.2019.png" title="Ka
 
 Another  image, putting *< figure library="true" src="tl.logo.png" title="A caption" >* inside {{ }}
 
+
+
 *{{< figure library="true" src="tl.logo.png" title="A caption" >}}*
 ![Tegla logo](/tl.logo.png "Tegla Running")
 
-<hl>
-
-Let's try markdown varieties of code blocks.
-
-Try one. on same line 
-
- Try two. on two
-
-lines
-
-Try three.  Inline \`quoted text\` in a line.
 
 
-
-\    Try four.  Indented four spaces  on one line. 
-
-And a regular line
-
-\    And two lines, indented.
-
-\    second indented line.
-
-
-
-The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things 
+The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things
 
 ##### How are images displayed?
 
 The important thing for the Wowchemy software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
 
-Here's an  illustration of the  "gallery" shortcode     
 
-`{{` `< gallery library="true" album="gallery" >}}`
 
-`{{` `< gallery album="gallery" >}}`
+Here's an  illustration of the  "gallery" shortcode
 
-`{{` `< gallery album="gallery/" >}}`
-
-`{{` `< gallery album="./gallery" >}}`
-
-`{{` `< gallery album="/content/post/my-first/gallery" >}}`
-
-`{{` `< gallery album="post/my-first/gallery" >}}`
-
-`{{` `< gallery album="../my-first/gallery" >}}`
-
-`{{` `< gallery album="." >}}`
-
-`{{` `< gallery >}}`
-
-`{{` `< gallery library="true" album="gallery" >}}`
-
-{{% callout note %}} If you are not familiar with the **International System of Units (SI)** I recommend you to check out [this page](https://www.bipm.org/en/measurement-units/) of the [*Bureau International des Poids et Mesures* (BIPM)](https://www.bipm.org/en/about-us/). {{% /callout %}}
+`{{` `< gallery  >}}`
