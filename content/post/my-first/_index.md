@@ -13,7 +13,7 @@ gallery_item:
   - album: gallery
     image: dominic.1.jpg
     caption: A caption
-  - album: gallery-album
+  - album: gallery
     image: boxing.jpg
     caption: New
 ---
