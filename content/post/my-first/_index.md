@@ -9,10 +9,13 @@ image:
 gallery_item:
   - album: gallery
     image: coders.jpg
-    caption: A caption
+    caption: I'm in static
   - album: gallery
     image: dominic.1.jpg
     caption: A caption
+  - album: gallery-album
+    image: boxing.jpg
+    caption: New
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
