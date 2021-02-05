@@ -6,6 +6,10 @@ authors:
   - lamloar
 image:
   filename: china-podium.jpg
+  gallery_item:
+   - album: gallery
+     image: g1.jpg
+     caption: A caption
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
