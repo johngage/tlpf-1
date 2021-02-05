@@ -64,6 +64,7 @@ This document is in content/post/my-first/index.md . As a "leaf bundle", used in
 
 There is a directory "gallery" with three  images:  asia.group.jpg, boxing.jpg, and china-podium.jpg.  The same three  are inside my-first directory at the same level as index.md.  How to show them  as a gallery?
 
+{{< gallery  >}} should go to static/media, find images.
 
 
 {{% callout note %}} If you are not familiar with the International System of Units (SI) I recommend you to check out this page of the Bureau International des Poids et Mesures (BIPM). {{% /callout %}}
