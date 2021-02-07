@@ -6,7 +6,6 @@ authors:
   - lamloar
 image:
   filename: china-podium.jpg
-
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
@@ -50,7 +49,6 @@ Another  image, putting *< figure library="true" src="tl.logo.png" title="A capt
 
 *{{< figure library="true" src="tl.logo.png" title="A caption" >}}*
 
-
 ![Tegla logo](/tl.logo.png "Tegla Running")
 
 The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things
@@ -59,7 +57,10 @@ The curly brackets are the magical commands that the Wowchemy software looks for
 
 The important thing for the Wowchemy software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
 
-Here's an  illustration of the  "gallery" shortcode.  Is something keeping Hugo from working?
+{{% callout note %}}
+Found the source code for gallery. It's either local or static/media. Here's location. https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/wowchemy/layouts/shortcodes/gallery.html There's a second one: {{% /callout %}}
+
+Here's an  illustration of the  "gallery" shortcode.  
 
 This document is in content/post/my-first/index.md . As a "leaf bundle", used in Hugo, with index.md, it should allow access to anything at any directory level in the same directory, as opposed  to "Branch Bundle", with _index.md, with access only in the directory level **of** the branch bundle directory i.e. the directory containing the `_index.md` ([ref](https://discourse.gohugo.io/t/question-about-content-folder-structure/11822/4?u=kaushalmodi)).
 
@@ -72,7 +73,5 @@ This succeeded in displaying similarly sized images that reside in static/media,
 Now, try this--find images in leaf folder.
 
 Since the front material is the  same, it's either one way or the other way. they do not coexist.
-
-
 
 {{% callout note %}} If you are not familiar with the International System of Units (SI) I recommend you to check out this page of the Bureau International des Poids et Mesures (BIPM). {{% /callout %}}
