@@ -22,11 +22,11 @@ gallery_item:
   - album: gallery
     image: dominic.1.jpg
     caption: Dominic
-  - album: /content/post/my_first/gallery
-    image: nature.png
-    caption: New
   - album: gallery
-    image: './gallery/science.png'
+    image: /content/post/my-first/gallerynature.png
+    caption: New
+  - album: /content/post/my-first/gallery
+    image: gallery/science.png
     caption: down one dir
 ---
 {{< figure library="true" src="kunshansimotwo.jpg" title="Simotwo in Kunshan City: March 24,2019" >}}
