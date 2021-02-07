@@ -22,7 +22,7 @@ gallery_item:
   - album: gallery
     image: dominic.1.jpg
     caption: Dominic
-  - album: gallery
+  - album: /content/post/my_first/gallery
     image: nature.png
     caption: New
   - album: gallery
