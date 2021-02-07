@@ -17,7 +17,7 @@ image:
   caption: Podium Award for Hosea Simotwo
 gallery_item:
   - album: gallery
-    image: https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png
+    image: https://static.nc-img.com/ap/cdn/1051/assets/img/logos/pdns.png
     caption: I'm in static
   - album: gallery
     image: dominic.1.jpg
