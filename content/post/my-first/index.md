@@ -65,7 +65,7 @@ Another  image, putting < figure library="true" src="tl.logo.png" title="A capti
 
 {{< figure library="true" src="tl.logo.png" title="A caption" >}}
 
-![Nature](nature.png "Nature")
+![Nature](./gallery/nature.png "Nature")
 
 The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things.
 
@@ -83,7 +83,6 @@ The important thing for the Wowchemy software to know is exactly where the image
 
 Here's an  illustration of the local "gallery" shortcode.  Images  are not the same size.
 
-{{< gallery album="gallery" >}}.
 
 This document is in content/post/my-first/index.md . As a "leaf bundle", used in Hugo, with index.md, it should allow access to anything at any directory level in the same directory, as opposed  to "Branch Bundle", with _index.md, with access only in the directory level **of** the branch bundle directory i.e. the directory containing the `_index.md` ([ref](https://discourse.gohugo.io/t/question-about-content-folder-structure/11822/4?u=kaushalmodi)).
 
