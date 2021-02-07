@@ -17,10 +17,32 @@ image:
   caption: Podium Award for Hosea Simotwo
 gallery_item:
   - album: gallery
-    image: https://www.google.com/search?rlz=1C5CHFA_enUS814US819&sxsrf=ALeKk00pL2kyQ5U5AQRezK5rjMw8NOsVWg:1612734718524&q=nytimes+logo&tbm=isch&chips=q:nytimes+logo,g_1:vector:1KrFKRyiTCQ%3D&usg=AI4_-kQ6w8jIDybzG1fnZZctXrPO2ex6MA&sa=X&ved=2ahUKEwimsY6A4djuAhVgHTQIHWU4CE4QgIoDKAF6BAgHEA8
+    image: kap.race.2019.png
+    caption: A caption
+    gallery_item: null
+  - album: gallery
+    image: National-Cross-Country_Eldoret_9-800x600.jpg
+    caption: A caption
+    gallery_item: null
+  - album: gallery
+    image: oneyoungworldsummit.jpg
+    caption: A caption
+    gallery_item: null
+  - album: gallery
+    image: 'china-podi'
+    caption: A caption
+  - album: gallery
+    image: 'asia.group.jpg'
+    caption: Paris Peace
+  - album: gallery
+    image: boxing.jpg
+    caption: boxing
+  - album: gallery
+    image: https://commons.wikimedia.org/wiki/File:NewYorkTimes.svg
     caption: I'm in static
   - album: gallery
     image: dominic.1.jpg
+  -
     caption: Dominic
   - album: gallery
     image: '../post/my-first/gallery/nature.png'
