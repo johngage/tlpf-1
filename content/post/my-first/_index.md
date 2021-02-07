@@ -69,6 +69,8 @@ There is a directory "gallery" with three  images:  asia.group.jpg, boxing.jpg, 
 
 {{< gallery album="gallery" >}}
 
+Without the album citation, it worked, but needed frontal material  to name  the pictures.
+
 This succeeded in displaying similarly sized images that reside in static/media, and are specifically named in the yml front material, with the odd assignment of an "album" whose name seems to be required to be "gallery".
 
 Now, try this--find images in leaf folder.
