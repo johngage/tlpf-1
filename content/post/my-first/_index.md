@@ -44,13 +44,13 @@ Here's an  example. Put the words below inside curly brackets: {{ words }}. When
 
 words: < figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >
 
-This  is the result: {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
+This shortcode is the result: {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
 
-Another  image, putting *< figure library="true" src="tl.logo.png" title="A caption" >* inside {{ }}
+Another  image, putting < figure library="true" src="tl.logo.png" title="A caption" > inside {{ }}
 
-*{{< figure library="true" src="tl.logo.png" title="A caption" >}}*
+{{< figure library="true" src="tl.logo.png" title="A caption" >}}
 
-![Tegla logo](/tl.logo.png "Tegla Running")
+![Markdown to local image ](./asia.group.jpg "Local asia image")
 
 The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things.
 
