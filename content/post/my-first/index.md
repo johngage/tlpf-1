@@ -8,6 +8,20 @@ authors:
 image:
   filename: latimes.png
 album: "gallery"
+gallery_item:
+  - album: gallery
+    image: coders.jpg
+    caption: I'm in static
+  - album: gallery
+    image: dominic.1.jpg
+    caption: A caption
+  - album: gallery
+    image: nature.png
+    caption: New
+  - album: gallery
+    image: './gallery/science.png'
+    caption: down one dir
+
 ---
 album is now gallery
 ### How the **Tegla Loroupe Peace Foundation** website is structured
