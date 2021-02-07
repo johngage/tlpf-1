@@ -9,6 +9,7 @@ image:
   filename: latimes.png
 album: "gallery"
 ---
+album is now gallery
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/
