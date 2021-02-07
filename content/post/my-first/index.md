@@ -66,9 +66,9 @@ The important thing for the Wowchemy software to know is exactly where the image
 
 {{% callout note %}} Found the source code for gallery. It's either local or static/media. Here's location. https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/wowchemy/layouts/shortcodes/gallery.html There's a second one: {{% /callout %}}
 
-Here's an  illustration of the  "gallery" shortcode.
+Here's an  illustration of the local "gallery" shortcode.  Images  are not the same size.
 
-{{< gallery album="gallery" >}}
+{{< gallery album="gallery" >}}.
 
 This document is in content/post/my-first/index.md . As a "leaf bundle", used in Hugo, with index.md, it should allow access to anything at any directory level in the same directory, as opposed  to "Branch Bundle", with _index.md, with access only in the directory level **of** the branch bundle directory i.e. the directory containing the `_index.md` ([ref](https://discourse.gohugo.io/t/question-about-content-folder-structure/11822/4?u=kaushalmodi)).
 
