@@ -1,6 +1,6 @@
 ---
 title: "How the TLPF website is built, and how Nairobi TLPF staff build and edit
-  it: Sat"
+  it: Sun"
 subtitle: What our Webmaster needs to know
 date: 2021-01-30
 authors:
@@ -9,11 +9,11 @@ image:
   filename: latimes.png
 gallery_item:
   - album: gallery
-    image: coders.jpg
+    image: https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png
     caption: I'm in static
   - album: gallery
     image: dominic.1.jpg
-    caption: A caption
+    caption: Dominic
   - album: gallery
     image: nature.png
     caption: New
