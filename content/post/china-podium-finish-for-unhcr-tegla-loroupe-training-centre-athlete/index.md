@@ -17,16 +17,16 @@ image:
   caption: Podium Award for Hosea Simotwo
 gallery_item:
   - album: gallery
-    image: https://static.nc-img.com/ap/cdn/1051/assets/img/logos/pdns.png
+    image: https://www.google.com/search?rlz=1C5CHFA_enUS814US819&sxsrf=ALeKk00pL2kyQ5U5AQRezK5rjMw8NOsVWg:1612734718524&q=nytimes+logo&tbm=isch&chips=q:nytimes+logo,g_1:vector:1KrFKRyiTCQ%3D&usg=AI4_-kQ6w8jIDybzG1fnZZctXrPO2ex6MA&sa=X&ved=2ahUKEwimsY6A4djuAhVgHTQIHWU4CE4QgIoDKAF6BAgHEA8
     caption: I'm in static
   - album: gallery
     image: dominic.1.jpg
     caption: Dominic
   - album: gallery
-    image: '/post/my-first/gallery/nature.png'
+    image: '../post/my-first/gallery/nature.png'
     caption: New
-  - album: ../../content/post/my-first/gallery
-    image: science.png
+  - album: gallery
+    image: ../post/my-first/gallery/science.png
     caption: down one dir
 ---
 {{< figure library="true" src="kunshansimotwo.jpg" title="Simotwo in Kunshan City: March 24,2019" >}}
