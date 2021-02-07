@@ -52,7 +52,13 @@ Another  image, putting *< figure library="true" src="tl.logo.png" title="A capt
 
 ![Tegla logo](/tl.logo.png "Tegla Running")
 
-The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things
+The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things.
+
+##### Here are more figure examples:
+
+{{< figure src="boxing.jpg" title="In folder" >}}
+
+{{< figure src="./gallery/china-podium.jpg" title="In subfolder" >}}
 
 ##### How are images displayed?
 
