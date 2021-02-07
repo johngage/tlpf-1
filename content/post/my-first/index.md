@@ -6,7 +6,7 @@ date: 2021-01-30
 authors:
   - lamloar
 image:
-  filename: china-podium.jpg
+  filename: latimes.png
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
@@ -50,7 +50,7 @@ Another  image, putting < figure library="true" src="tl.logo.png" title="A capti
 
 {{< figure library="true" src="tl.logo.png" title="A caption" >}}
 
-![Markdown to local image ](./asia.group.jpg "Local asia image")
+![Nature](nature.png "Nature")
 
 The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things.
 
@@ -73,7 +73,6 @@ Here's an  illustration of the  "gallery" shortcode.
 This document is in content/post/my-first/index.md . As a "leaf bundle", used in Hugo, with index.md, it should allow access to anything at any directory level in the same directory, as opposed  to "Branch Bundle", with _index.md, with access only in the directory level **of** the branch bundle directory i.e. the directory containing the `_index.md` ([ref](https://discourse.gohugo.io/t/question-about-content-folder-structure/11822/4?u=kaushalmodi)).
 
 There is a directory "gallery" with three  images:  asia.group.jpg, boxing.jpg, and china-podium.jpg.  The same three  are inside my-first directory at the same level as index.md.  How to show them  as a gallery?
-
 
 Without the album citation, it worked, but needed frontal material  to name  the pictures.
 
