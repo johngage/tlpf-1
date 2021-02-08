@@ -29,10 +29,10 @@ gallery_item:
     caption: A caption
     gallery_item: null
   - album: gallery
-    image: 'china-podi'
+    image: '../jg.jpg'
     caption: A caption
   - album: gallery
-    image: 'asia.group.jpg'
+    image: asia.group.jpg
     caption: Paris Peace
   - album: gallery
     image: boxing.jpg
