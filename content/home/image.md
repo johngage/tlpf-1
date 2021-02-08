@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: https://web.archive.org/web/20190221072505im_/http://teglapeacefoundation.org/wp-content/uploads/2019/01/4e2c2e0e-6298-45e6-920e-706b36dfc61d.jpg
+    image: 
     image_darken: 0
     image_parallax: false
     image_position: center
