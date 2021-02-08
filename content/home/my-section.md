@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 50
 
 # Section title
 title: Partnerships
@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-my-section.md on homepage: widget blank
+How do we add images here?
