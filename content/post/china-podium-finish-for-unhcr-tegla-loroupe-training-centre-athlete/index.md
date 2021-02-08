@@ -29,7 +29,7 @@ gallery_item:
     caption: A caption
     gallery_item: null
   - album: gallery
-    image: '../jg.jpg'
+    image: '../img/jg.jpg'
     caption: A caption
   - album: gallery
     image: asia.group.jpg
