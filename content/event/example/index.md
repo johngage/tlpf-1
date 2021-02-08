@@ -18,7 +18,7 @@ abstract: "Coached by Olympic coaches and IAAF coaches"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-02-01T13:00:00Z"
-date_end: "2021-02-014T15:00:00Z"
+date_end: "2021-02-14T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
