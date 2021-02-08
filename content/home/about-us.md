@@ -32,12 +32,9 @@ To promote peaceful building, livelihood and resilience of poor people affected 
 A peaceful prosperous and just world in which sports is the unifying and livelihood factor
 
 # Board Members
-
 John Gage
 
 Partner, Kleiner, Perkins, Caulfield & Byers Member, Markle Foundation Board of Directors
-
- 
 
 ![](http://web.archive.org/web/20200812034243im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/480/assets/images/iW=143&iH=205&oX=0&oY=0&cW=143&cH=180/23069139f735e9acff2ab2810bf1d44b.jpg)
 
