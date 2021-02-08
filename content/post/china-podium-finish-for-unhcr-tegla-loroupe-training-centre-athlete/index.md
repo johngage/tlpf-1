@@ -26,16 +26,11 @@ gallery_item:
     image: oneyoungworldsummit.jpg
     caption: A caption
   - album: gallery
-    image: '../img/jg.jpg'
-    caption: A caption
-  - album: gallery
     image: asia.group.jpg
     caption: Paris Peace
   - album: gallery
     image: boxing.jpg
     caption: boxing
-  - album: gallery
-    image: https://commons.wikimedia.org/wiki/File:NewYorkTimes.svg
     caption: I'm in static
   - album: gallery
     image: dominic.1.jpg
