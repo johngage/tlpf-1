@@ -11,6 +11,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2017/08/wacrefugee1008ab-e1502716280601.jpg)
+
 Published: 2017/08/14
 
 Capture: November 21, 2018
@@ -40,8 +42,6 @@ The athletes and coaches have travelled to London thanks to flights and accommod
 Founder Tegla Loroupe said: “Before we came we were received very well in Kenya by the British embassy. They made it very easy for us to come and compete and already we were made to feel at home by the British.”
 
 Team manager Ladislav Demko, 43, a former triathlete, said: “Sport is a way out for them. When they step into the stadium, they don’t feel like refugees any more. These people literally ran away on their feet from fear of death.”
-
-
 
 * [Ahmed Bashir Farah, 20 Somalia, 800m](https://web.archive.org/web/20181121030900/http://teglapeacefoundation.org/2017/08/14/no-home-no-flag-and-no-national-anthem-the-first-refugee-squad-at-the-world-athletics-championships/#tabs-1502716501779)
 * [Angelina Nadi, 23 South Sudan, 1500m](https://web.archive.org/web/20181121030900/http://teglapeacefoundation.org/2017/08/14/no-home-no-flag-and-no-national-anthem-the-first-refugee-squad-at-the-world-athletics-championships/#tabs-1502716547395)
