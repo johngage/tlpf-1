@@ -15,32 +15,6 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Podium Award for Hosea Simotwo
-gallery_item:
-  - album: gallery
-    image: kap.race.2019.png
-    caption: A caption
-  - album: gallery
-    image: National-Cross-Country_Eldoret_9-800x600.jpg
-    caption: A caption
-  - album: gallery
-    image: oneyoungworldsummit.jpg
-    caption: A caption
-  - album: gallery
-    image: asia.group.jpg
-    caption: Paris Peace
-  - album: gallery
-    image: boxing.jpg
-    caption: boxing
-    caption: I'm in static
-  - album: gallery
-    image: dominic.1.jpg
-    caption: Dominic
-  - album: gallery
-    image: '../post/my-first/gallery/nature.png'
-    caption: New
-  - album: gallery
-    image: ../post/my-first/gallery/science.png
-    caption: down one dir
 ---
 {{< figure library="true" src="kunshansimotwo.jpg" title="Simotwo in Kunshan City: March 24,2019" >}}
 
