@@ -7,7 +7,6 @@ authors:
   - lamloar
 image:
   filename: latimes.png
-album : 'gallery'
 gallery_item:
   - album: gallery
     image: kap.race.2019.png
