@@ -1,5 +1,5 @@
 ---
-title: "THE TEGLA LOROUPE SPORTS TRAINING CENTER "
+title: "THE TEGLA LOROUPE SPORTS TRAINING CENTER: Ngong, Kenya"
 subtitle: International Olympic Refugee Team, Ngong, Kenya
 date: 2021-02-02T01:53:15.664Z
 draft: false
