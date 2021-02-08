@@ -6,7 +6,7 @@ weight: 70
 title: ABOUT US
 subtitle: null
 content:
-  page_type: event
+  page_type: pages
   count: 5
   filters:
     author: ""
