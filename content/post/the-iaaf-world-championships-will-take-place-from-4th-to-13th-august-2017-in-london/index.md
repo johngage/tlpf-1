@@ -1,7 +1,7 @@
 ---
 title: The IAAF World Championships will take place from 4th to 13th August 2017
   in London.
-date: 2021-02-08T06:19:14.646Z
+date: 2017-04-02T05:19:14.646Z
 draft: false
 featured: false
 image:
