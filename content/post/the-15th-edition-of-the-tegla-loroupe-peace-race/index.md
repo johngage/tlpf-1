@@ -16,6 +16,8 @@ image:
     flag of Kenya in West Pokot
   alt_text: Runners assemble in Kapenguria with the Governor and Ambassador Tegla Loroupe
 ---
+![](https://web.archive.org/web/20200812031858im_/http://teglapeacefoundation.org/wp-content/uploads/2018/11/UntitledYY8.png)
+
 2018/11/11
 
 {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
@@ -35,8 +37,6 @@ In the *Reformed Warriors* men’s category **Luke Shatukei** from West Pokot Co
 While in the *Women* ten kilometer reformed women’s race, **Rosyline Lomuria** from West Pokot county emerged victorious, followed by **Nachap Sunti** from Uganda and the third position was taken by **Dorcas Cherop** from Sebei in Uganda.
 
 ## BOXING 
-
-
 
 Boxing was also introduced in this year’s edition of the Tegla Loroupe Kapenguria Peace Race. It was seen as an effective form of supporting peace through sports since the sport has been used world wide as a way for supporting talent, as well as social and emotional development of the youth. 
 
