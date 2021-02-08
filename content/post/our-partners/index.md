@@ -27,3 +27,4 @@ image:
   Twitter: [https://twitter.com/loroupetegla](https://web.archive.org/web/20181118120724/https://twitter.com/loroupetegla)
 
   Telephone: +254 0728 697 328
+* Tegla Loroupe Peace foundation is an international humanitarian charity founded by Tegla Loroupe, a renowned international track and athletics icon. It is registered under the Perpetual Succession Act, CHAPTER 164, LAWS OF KENYA.
