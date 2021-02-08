@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: recent-posts
+widget_id: about-us
 headless: true
 weight: 70
 title: ABOUT US
@@ -32,9 +32,8 @@ To promote peaceful building, livelihood and resilience of poor people affected 
 A peaceful prosperous and just world in which sports is the unifying and livelihood factor
 
 # Board Members
-John Gage
 
-Partner, Kleiner, Perkins, Caulfield & Byers Member, Markle Foundation Board of Directors
+
 
 ![](http://web.archive.org/web/20200812034243im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/480/assets/images/iW=143&iH=205&oX=0&oY=0&cW=143&cH=180/23069139f735e9acff2ab2810bf1d44b.jpg)
 
@@ -46,4 +45,6 @@ President of the The Tegla Loroupe Peace Foundation 
 
 ##### Lucas Leperes Ole Naikuni
 
-Chairman Board of Trustees (TLPF)
+Former Chairman Board of Trustees (TLPF)
+
+![John Gage](john_gage.jpg "Partner, Kleiner, Perkins, Caulfield & Byers Member, Markle Foundation Board of Directors")
