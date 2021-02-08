@@ -19,15 +19,12 @@ gallery_item:
   - album: gallery
     image: kap.race.2019.png
     caption: A caption
-    gallery_item: null
   - album: gallery
     image: National-Cross-Country_Eldoret_9-800x600.jpg
     caption: A caption
-    gallery_item: null
   - album: gallery
     image: oneyoungworldsummit.jpg
     caption: A caption
-    gallery_item: null
   - album: gallery
     image: '../img/jg.jpg'
     caption: A caption
