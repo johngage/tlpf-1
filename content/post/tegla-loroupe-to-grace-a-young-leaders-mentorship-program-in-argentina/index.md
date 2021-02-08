@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2018/10/44895603_10156938288069917_2625928788432650240_o-800x534.jpg)
+![](https://web.archive.org/web/20200812031858im_/http://teglapeacefoundation.org/wp-content/uploads/2017/08/1.jpg)
 
 ### TEGLA LOROUPE TO GRACE A YOUNG LEADERS MENTORSHIP PROGRAM IN ARGENTINA
 
