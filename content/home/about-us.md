@@ -47,4 +47,4 @@ President of the The Tegla Loroupe Peace Foundation 
 
 Former Chairman Board of Trustees (TLPF)
 
-![John Gage]( "Partner, Kleiner, Perkins, Caulfield & Byers Member, Markle Foundation Board of Directors")
+![John Gage](john_gage.jpg "Partner, Kleiner, Perkins, Caulfield & Byers Member, Markle Foundation Board of Directors")
