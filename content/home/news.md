@@ -2,7 +2,7 @@
 widget: pages
 widget_id: News Posts
 headless: true
-weight: 20
+weight: 10
 title: Tegla Loroupe Peace Foundation News
 subtitle: null
 content:
@@ -18,5 +18,5 @@ content:
   page_type: post
 design:
   view: 3
-  columns: "1"
+  columns: "2"
 ---
