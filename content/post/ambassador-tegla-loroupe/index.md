@@ -8,6 +8,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](https://web.archive.org/web/20190823120100im_/https://pbs.twimg.com/profile_images/822347102378397696/_-CY2ccB_400x400.jpg)
+
+![](https://web.archive.org/web/20190823120100im_/https://pbs.twimg.com/media/Dtq8acaXgAE33aK.jpg)
+
+![](https://web.archive.org/web/20190823120100im_/https://pbs.twimg.com/media/Dtq8ab5W4AAmN2M.jpg)
+
+![](https://web.archive.org/web/20190823120100im_/https://pbs.twimg.com/media/Dr5GG76X4AAchrp.jpg)
+
 # **TEGLA LOROUPE**
 
 Tegla Loroupe (9 May 1973 – ) is a former Kenyan long-distance track and road runner. She was the first African woman to win the New York City Marathon and has held many world records.
@@ -38,23 +46,9 @@ Tegla Loroupe (9 May 1973 – ) is a former Kenyan long-distance track and road 
 
 Loroupe holds the world records for 20, 25 and 30 kilometres and previously held the world marathon record. She is the three-time World Half-Marathon champion. She was the first African woman to win the New York City Marathon, which she has won twice. She has won marathons in London, Boston, Rotterdam, Hong Kong, Berlin, Rome and many of other cities
 
- 
-
- 
-
- 
-
- 
-
 In 2003, she started the Tegla Loroupe Peace Foundation and has been an active advocate foR peace. She has been successful in bringing members of warring tribes together. In 2006, she founded the 10km Peace Race, which included 2,000 warriors from six different tribes. Loroupe said the motivation for the race was to use her fame to help bring about greater harmony.
 
- 
-
- 
-
 ![](https://web.archive.org/web/20181118120802im_/http://teglapeacefoundation.org/wp-content/uploads/2017/07/fundraising-race-300x199.jpg)
-
- 
 
 Powered by teglapeacefoundation.org
 
