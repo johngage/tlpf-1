@@ -4,7 +4,7 @@ date: 2021-02-08T05:05:30.955Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2018/10/un-rose-lokonyen_0-1-800x533.jpg
   focal_point: Smart
   preview_only: false
 ---
