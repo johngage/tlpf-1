@@ -3,7 +3,7 @@ widget: pages
 widget_id: recent-events
 headless: true
 weight: 70
-title: ABOUT US
+title: EVENTS
 subtitle: null
 content:
   page_type: event
