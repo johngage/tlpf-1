@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2017/08/1.jpg)
+![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2018/10/5-800x600.jpg)
 
 Tegla Loroupe Peace Foundation will have yet another opportunity to present  a refugee team in the 2020 Olympics which will be held in Tokyo Japan
 
