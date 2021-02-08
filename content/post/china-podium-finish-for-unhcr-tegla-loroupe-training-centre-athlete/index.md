@@ -34,7 +34,6 @@ gallery_item:
     caption: I'm in static
   - album: gallery
     image: dominic.1.jpg
-  -
     caption: Dominic
   - album: gallery
     image: '../post/my-first/gallery/nature.png'
