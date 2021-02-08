@@ -1,6 +1,6 @@
 ---
-title: "Build new dormitory at Kapenguria School"
-subtitle: Add drawings and cost estimates
+title: New dormitory at Kapenguria School
+subtitle: Show drawings and cost estimates to add new three-story dormitory
 date: 2021-01-26T06:39:15.719Z
 draft: false
 featured: false
@@ -20,3 +20,4 @@ image:
   Show plan, model, drawings
 * Italian kitchen
 * First dormitory
+* Second dormitory
