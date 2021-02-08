@@ -7,11 +7,11 @@ headless: false
 weight: 30
 title: Refugee Olympic Team Initiatives
 subtitle: null
-active: true
+active: false
 design:
   columns: "1"
   background:
-    image:
+    image: null
     image_darken: 0
     image_parallax: false
     image_position: center
