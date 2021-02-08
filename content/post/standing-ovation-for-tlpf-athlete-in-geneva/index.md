@@ -9,7 +9,7 @@ image:
   preview_only: false
   caption: refugee Olympian Rose Nathike,
 ---
-![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2018/10/1-800x600.jpg)
+
 
 ![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2018/10/un-rose-lokonyen_0-1-800x533.jpg "Refugee Olympian **Rose Nathike**")
 
