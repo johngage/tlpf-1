@@ -1,6 +1,6 @@
 ---
 widget: people
-headless: true  # This file represents a page section.
+headless: true  
 
 title: Our Teams
 
@@ -20,4 +20,4 @@ design:
   show_role: true
   show_organizations: true
   
-  ---
+---
