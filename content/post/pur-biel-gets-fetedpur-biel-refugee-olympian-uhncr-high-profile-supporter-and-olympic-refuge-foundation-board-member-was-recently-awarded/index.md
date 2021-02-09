@@ -1,6 +1,7 @@
 ---
-title: Pur Biel gets FetedPur Biel, refugee Olympian, UHNCR High Profile
-  Supporter and Olympic Refuge Foundation board member, was recently awarded ..
+title: Pur Biel Is Feted
+subtitle: Pur Biel, refugee Olympian, UHNCR High Profile Supporter and Olympic
+  Refuge Foundation board member, was recently awarded ..
 date: 2021-02-08T05:59:30.849Z
 draft: false
 featured: false
