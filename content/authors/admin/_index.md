@@ -35,7 +35,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Management
 highlight_name: false
