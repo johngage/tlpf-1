@@ -1,5 +1,6 @@
 ---
 title: Yiech Pur Biel
+role: Olympic Athlete
 avatar_filename: avatar
 social: []
 superuser: false
