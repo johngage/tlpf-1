@@ -1,5 +1,6 @@
 ---
 widget: people
+active: true
 date: 2021-01-26T01:44:01.262Z
 subtitle: null
 title: Our Athletes, Our Leaders, Our Students

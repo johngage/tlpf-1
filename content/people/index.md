@@ -1,7 +1,6 @@
 ---
 type: widget_page
-title: John Gage
+title:
 date: 2021-01-26T01:47:44.334Z
-description: new person
+description:
 ---
-On board
