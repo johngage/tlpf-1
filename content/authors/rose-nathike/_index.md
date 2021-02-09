@@ -1,7 +1,5 @@
 ---
 title: Rose Nathike Lokonyen
-authors:
-- rose-nathike
 role: Olympic Athlete
 avatar_filename: rosenathikelokonyen.jpg
 social: []
@@ -11,6 +9,3 @@ user_groups:
   - NgongTrainingCamp
   - Olympics
 ---
-author:
-
-\-rose-nathike
