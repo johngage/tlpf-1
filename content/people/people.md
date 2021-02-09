@@ -16,6 +16,7 @@ content:
     - SouthSudan
     - NgongTrainingCamp
     - KapenguriaAcademy
+    - Olympics
 headless: true
 description: modify people
 design:
