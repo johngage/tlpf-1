@@ -1,6 +1,6 @@
 ---
 title: STANDING OVATION FOR TLPF ATHLETE IN GENEVA
-date: 2019-10-02T04:05:30.955Z
+date: 2018-10-03T04:05:30.955Z
 draft: false
 featured: false
 image:
@@ -11,7 +11,7 @@ image:
 ---
 ![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2018/10/un-rose-lokonyen_0-1-800x533.jpg "Refugee Olympian **Rose Nathike**")
 
-Tegla Loroupe Peace foundation refugee Olympian **Rose Nathike** has stolen the show in the ongoing UN Office of the High Commissioner for Human Rights (OHCHR) **Social Forum** at the Palais des Nations. 
+Tegla Loroupe Peace foundation refugee Olympian **Rose Nathike** has stolen the show in the ongoing UN Office of the High Commissioner for Human Rights (OHCHR) **[Social Forum](https://www.ohchr.org/EN/Issues/Poverty/SForum/Pages/SForum2018.aspx)** at the Palais des Nations. 
 
 The young athlete drawn from the Kakuma refugee camp to take up training in the Tegla Loroupe track training camp repeatedly brought the crowd to applause when she narrated her life story. A dramatic story of a life journey which saw her flee violence in her home country,South Sudan to seek refuge in the Kakuma Refugee Camp, before finally landing in the TLPF training camp. 
 
