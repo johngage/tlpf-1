@@ -11,10 +11,12 @@ content:
     - Management
     - Athletes
     - Trainers
-    - South Sudan
+    - SouthSudan
     - Visitors
     - Alumni
     - Somalia
+    - NgongTrainingCamp
+    - KapenguriaPeaceAcademy
 design:
   # Show user's social networking links? (true/false)
   show_social: false

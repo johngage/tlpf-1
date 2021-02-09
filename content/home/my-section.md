@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-How do we add images here?
+Gallery of UNHCR, IOC, Safaricom, UNICEF
