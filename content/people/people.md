@@ -8,11 +8,14 @@ content:
   user_groups:
     - Staff
     - Board
-    - Advisory Board
+    - Management
     - Administration
     - Visitors
     - Alumni
-    - TLPF
+    - Athletes
+    - SouthSudan
+    - NgongTrainingCamp
+    - KapenguriaAcademy
 headless: true
 description: modify people
 design:
