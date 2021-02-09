@@ -1,5 +1,5 @@
 ---
-widget: people
+widget: people #section
 headless: true  
 
 title: Our Teams
