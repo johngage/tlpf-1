@@ -1,5 +1,5 @@
 ---
-title: Board Member 1
+title: TLPF Board Member 1
 avatar_filename: avatar
 social: []
 superuser: false
