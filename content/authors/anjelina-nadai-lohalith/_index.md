@@ -1,13 +1,12 @@
 ---
-title: Yiech Pur Biel
+title: " Anjelina Nadai Lohalith"
 role: Olympic Athlete
 avatar_filename: avatar
 social: []
 superuser: false
 user_groups:
-  - Athletes
+  - Athlete
+  - Olympics
   - SouthSudan
   - NgongTrainingCamp
-  - Olympics
 ---
-South Sudan

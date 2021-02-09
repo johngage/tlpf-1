@@ -1,13 +1,11 @@
 ---
-title: Yiech Pur Biel
+title: James Nyang Chiengjiek
 role: Olympic Athlete
 avatar_filename: avatar
 social: []
 superuser: false
 user_groups:
-  - Athletes
   - SouthSudan
-  - NgongTrainingCamp
   - Olympics
+  - Athlete
 ---
-South Sudan

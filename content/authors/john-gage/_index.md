@@ -9,5 +9,5 @@ organizations:
     url: kiberawater.com
 superuser: false
 user_groups:
-  - management
+  - Board
 ---
