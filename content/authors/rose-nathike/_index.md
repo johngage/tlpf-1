@@ -9,3 +9,6 @@ user_groups:
   - NgongTrainingCamp
   - Olympics
 ---
+author:
+
+\-rose-nathike
