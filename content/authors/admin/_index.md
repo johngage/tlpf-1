@@ -1,7 +1,7 @@
 ---
 title: Tegla Loroupe Peace Foundation Editor
 role: Web Site Editor
-avatar_filename: img_0918-2.jpg
+avatar_filename: ./img_0918-2.jpg
 bio: I am dedicated to bringing peace through sports to refugee camps, conflict
   areas, and nomadic areas.
 interests:
