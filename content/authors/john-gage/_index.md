@@ -8,4 +8,6 @@ organizations:
   - name: Kibera Town Centre
     url: kiberawater.com
 superuser: false
+user_groups:
+  - management
 ---
