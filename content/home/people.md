@@ -1,8 +1,10 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
-title: Our Teams, Our Athletes
-# ... Put Your Section Options Here (title etc.) ...
+
+title: Our Teams
+
+#  Put Your Section Options Here (title etc.) ...
 
 content:
   # Choose which groups/teams of users to display.
