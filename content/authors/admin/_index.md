@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: "Tegla Loroupe Peace Foundation: Nairobi Main Office"
     url: ""
 education:
   courses:
@@ -36,7 +36,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Management
 highlight_name: false
 ---
 

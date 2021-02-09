@@ -4,8 +4,10 @@ role: Chief of Staff
 avatar_filename: avatar
 bio: South Sudan
 social: []
+organizations:
+  - name: Tegla Loroupe Peace Foundation
 superuser: false
 user_groups:
-  - TLPF
+  - Management
 ---
-From province north of Juba, on river., which floods often.
+From province north of Juba, on river, which floods often.
