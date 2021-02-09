@@ -1,5 +1,5 @@
 ---
-title: Rose Nathike
+title: Rose Nathike Lokonyen
 role: Olympic Athlete
 avatar_filename: avatar
 social: []
