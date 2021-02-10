@@ -1,7 +1,7 @@
 ---
 title: " Anjelina Nadai Lohalith"
 role: Olympic Athlete
-avatar_filename: avatar
+avatar_filename: anjelina-avatar.jpg
 social: []
 superuser: false
 user_groups:
