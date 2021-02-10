@@ -2,7 +2,6 @@
 # Display name
 title: John Gage
 
-
 # Username (this should match the folder name)
 authors:
 - john-gage
@@ -37,7 +36,7 @@ education:
     year:  1970
 
 
-# avatar_filename: https://en.wikipedia.org/wiki/File:John_Gage.jpg
+avatar_filename: https://en.wikipedia.org/wiki/File:John_Gage.jpg
 
 # Short bio (displayed in user profile at end of posts)
 bio: Founder, Sun Microsystems
