@@ -15,7 +15,7 @@ role: Member of the Board
 # Organizations/Affiliations
 organizations:
 - name: Tegla Loroupe Peace Foundation
-  url: ""
+  url: "https://teglaloroupepeacefoundation.netlify.app"
 - name: Human Needs Project: Kibera Town Centre
   url: "https://kiberawater.com"
   
