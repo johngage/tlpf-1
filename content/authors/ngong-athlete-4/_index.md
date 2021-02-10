@@ -39,4 +39,5 @@ education:
 superuser: false
 user_groups:
   - Athlete
+  - NgongTrainingCamp
 ---
