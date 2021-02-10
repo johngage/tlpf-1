@@ -15,12 +15,12 @@ role: Member of the Board
 # Organizations/Affiliations
 organizations:
 - name: Tegla Loroupe Peace Foundation
-  url: "https://teglaloroupepeacefoundation.netlify.app"
+  url:  "https://teglaloroupepeacefoundation.netlify.app"
 - name: Human Needs Project: Kibera Town Centre
-  url: "https://kiberawater.com"
+  url:  "https://kiberawater.com"
   
 
-#avatar_filename: https://en.wikipedia.org/wiki/File:John_Gage.jpg
+# avatar_filename: https://en.wikipedia.org/wiki/File:John_Gage.jpg
 
 # Short bio (displayed in user profile at end of posts)
 bio: Founder, Sun Microsystems
