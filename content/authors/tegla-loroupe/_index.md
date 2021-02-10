@@ -1,6 +1,6 @@
 ---
 title: Tegla Loroupe
-role: Chairman, Olympic Athlete, Word Record Holder
+role: Chairman, Olympic Athlete, World Record Holder
 avatar_filename: tl-avatar.jpg
 bio: "Amb., Dr., OGW, SS Tegla Loroupe, President of the The Tegla Loroupe Peace
   Foundation "
