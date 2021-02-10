@@ -18,6 +18,24 @@ organizations:
 - name: Tegla Loroupe Peace Foundation
   url:  "https://teglaloroupepeacefoundation.netlify.app"
 
+education:
+  courses:
+  - course:  Data Science 8, Data Science 100
+    institution:  University of California, Berkeley
+    year:  2018
+  - course:  BSc in Agricultural Economics
+    institution:  University of California, Berkeley
+    year:  1975
+  - course:  California Water Quality Technical Certificate/ Waste Water Treatment Level II
+    institution:  California Water Institute
+    year:  2018
+  - course:  MBA
+    institution:  Harvard Business School
+    year:  1968
+  - course:  Masters in Public Policy
+    institution:  Harvard Kennedy School
+    year:  1970
+
 
 # avatar_filename: https://en.wikipedia.org/wiki/File:John_Gage.jpg
 
@@ -79,23 +97,6 @@ interests:
 - Sports for Peace in Conflict Zones
 - Humanitarian Relief and Economic Development
 
-education:
-  courses:
-  - course:  Data Science 8, Data Science 100
-    institution:  University of California, Berkeley
-    year:  2018
-  - course:  BSc in Agricultural Economics
-    institution:  University of California, Berkeley
-    year:  1975
-  - course:  California Water Quality Technical Certificate/ Waste Water Treatment Level II
-    institution:  California Water Institute
-    year:  2018
-  - course:  MBA
-    institution:  Harvard Business School
-    year:  1968
-  - course:  Masters in Public Policy
-    institution:  Harvard Kennedy School
-    year:  1970
 
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
