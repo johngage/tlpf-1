@@ -92,8 +92,10 @@ education:
     year: 2018
   - course: MBA
     institution: Harvard Business School
+    year: 1968
   - course: Masters in Public Policy
     institution: Harvard Kennedy School
+    year: 1970
 
 
 
