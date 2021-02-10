@@ -1,10 +1,11 @@
 ---
 # Display name
-title: John Gage
+title: "{{ replace .Name "-" " " | title }}"
+
 
 # Username (this should match the folder name)
 authors:
-- john-gage
+- "{{ urlize .Name }}"
 
 # Is this the primary user of the site?
 superuser: false
