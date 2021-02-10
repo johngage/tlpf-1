@@ -1,11 +1,11 @@
 ---
 # Display name
-title: "{{ replace .Name "-" " " | title }}"
+title: John Gage
 
 
 # Username (this should match the folder name)
 authors:
-- "{{ urlize .Name }}"
+- john-gage
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,9 +17,7 @@ role: Member of the Board
 organizations:
 - name: Tegla Loroupe Peace Foundation
   url:  "https://teglaloroupepeacefoundation.netlify.app"
-- name: Human Needs Project: Kibera Town Centre
-  url:  "https://kiberawater.com"
-  
+
 
 # avatar_filename: https://en.wikipedia.org/wiki/File:John_Gage.jpg
 
