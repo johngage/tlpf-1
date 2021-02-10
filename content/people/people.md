@@ -14,7 +14,7 @@ content:
     - Visitors
     - Alumni
     - Athletes
-    - SouthSudan
+    - South Sudan
     - NgongTrainingCamp
     - KapenguriaAcademy
     - Olympics
