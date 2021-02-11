@@ -1,6 +1,6 @@
 ---
 title: Paulo Amotun Lokoro
-role: Olympic Athlete
+role: Olympic Athlete -1500 metres
 avatar_filename: paoloamotun-avatar.jpg
 social: []
 superuser: false
