@@ -1,6 +1,6 @@
 ---
 title: James Nyang Chiengjiek
-role: Olympic Athlete
+role: Olympic Athlete - 400 metre
 avatar_filename: jamesnyang-avatar.jpg
 social: []
 superuser: false
