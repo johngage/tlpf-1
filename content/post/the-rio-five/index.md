@@ -63,38 +63,3 @@ These athletes were victims of unimaginable hardship, forced to leave their home
   Paulo Amotun Lokoro:
 
   South Sudan, 1500m
-
-   
-
-   
-
-  ## T – together
-
-  ## E – everyone
-
-  ## A – achieves 
-
-  ## M – more 
-
-  ## “Where there is unity there is always Victory” 
-
-  ## T – together
-
-  ## E – everyone
-
-  ## A – achieves 
-
-  ## M – more 
-
-  ## “Where there is unity there is always Victory” 
-
-  ## T – together
-
-  ## E – everyone
-
-  ## A – achieves 
-
-  ## M – more 
-
-  * 1
-  * 2
