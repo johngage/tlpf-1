@@ -1,6 +1,6 @@
 ---
 title: Yiech Pur Biel
-role: Olympic Athlete
+role: Olympic Athlete - 800 metre
 avatar_filename: purbiel-avatar.jpg
 social: []
 superuser: false
