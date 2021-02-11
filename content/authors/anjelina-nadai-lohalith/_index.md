@@ -1,6 +1,6 @@
 ---
 title: " Anjelina Nadai Lohalith"
-role: Olympic Athlete - 1500 Metre
+role: Olympic Athlete - 1500 Metres
 avatar_filename: anjelina-avatar.jpg
 social: []
 superuser: false
