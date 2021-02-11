@@ -7,5 +7,6 @@ social: []
 superuser: false
 user_groups:
   - Athlete
+  - NgongTrainingCamp
 ---
 South Sudan
