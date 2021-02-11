@@ -6,6 +6,7 @@ bio: South Sudan
 social: []
 organizations:
   - name: Tegla Loroupe Peace Foundation
+email: lamjoar@gmail.com
 superuser: false
 user_groups:
   - Management
