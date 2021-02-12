@@ -1,6 +1,6 @@
 ---
 title: Tegla Loroupe Peace Academy Early Plans
-date: 2007-11-25
+date: 2007-11-25T08:00:00.000Z
 ---
 The Tegla Loroupe Peace Academy is a model school being constructed by Tegla Loroupe Peace Foundation with assistance from various donors and well wishers locally and abroad. 
 
