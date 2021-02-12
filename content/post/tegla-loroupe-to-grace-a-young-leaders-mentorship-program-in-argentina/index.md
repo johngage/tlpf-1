@@ -1,6 +1,6 @@
 ---
 title: TEGLA LOROUPE TO GRACE A YOUNG LEADERS MENTORSHIP PROGRAM IN ARGENTINA
-date: 2021-02-08T05:06:45.385Z
+date: 2018-10-04T04:06:45.385Z
 draft: false
 featured: false
 image:
@@ -12,9 +12,9 @@ image:
 
 ### TEGLA LOROUPE TO GRACE A YOUNG LEADERS MENTORSHIP PROGRAM IN ARGENTINA
 
-TLPF President Amb. Tegla Loroupe jes out of the country tonight to attend the launch of a young leaders mentorship program in Buenos Aires Argentina.
+TLPF President Amb. Tegla Loroupe jets out of the country tonight, October 4, 2018 to attend the launch of a young leaders mentorship program in Buenos Aires, Argentina.
 
-The event which has been organized by Sport at the Service of Humanity SSH kicks off tomorrow having attracted support from the ISPS HANDA foundation.
+The event, organized by Sport at the Service of Humanity, SSH, with the Vatican and the IOC, kicks off tomorrow having attracted support from the ISPS HANDA foundation.
 
 Tegla Loroupe is honored for having a refugee athlete drawn from her refugee training camp in Kenya as one of the celebrated young leaders who will prominently feature in the mentorship event
 
