@@ -1,7 +1,8 @@
 ---
-title: REFUGEE TEAM FLOORS REGIONAL GIANTS IN NATIONAL CHAMPIONSHIPS It was all
-  systems go for the Athletics Kenya National Cross Country ...
-date: 2021-02-08T05:55:07.050Z
+title: "REFUGEE TEAM FLOORS REGIONAL GIANTS IN NATIONAL CHAMPIONSHIPS "
+subtitle: It was all systems go for the Athletics Kenya National Cross Country
+  Championships
+date: 2018-02-07T05:55:07.050Z
 draft: false
 featured: false
 image:
