@@ -1,6 +1,6 @@
 ---
 title: PUR BIEL SPEAKS ON BEHALF OF THE REFUGEE OLYMPIC TEAM
-date: 2021-02-08T05:04:17.762Z
+date: 2018-10-06T04:04:17.762Z
 draft: false
 featured: false
 image:
@@ -10,7 +10,9 @@ image:
 ---
 ![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2018/10/1-800x600.jpg "Pur Biel and Yusra Mardini, who are members of the Refugee Olympic Team")
 
-### OUR VERY OWN PUR BIEL AND YUSRA MARDINI, SPOKE AT THE OLYMPISM IN ACTION FORUM IN BUENOS AIRES,
+### OUR VERY OWN PUR BIEL AND YUSRA MARDINI, SPOKE AT THE OLYMPISM IN ACTION FORUM IN BUENOS AIRES
+
+October 5, 2018
 
 Our very own Pur Biel and Yusra Mardini, who are members of the Refugee Olympic Team, spoke at the Olympism in Action Forum in Buenos Aires, and emotionally moved the audience, with their stories of hope and resilience in view of their participation at the Rio 2016 Olympic Games.
 
