@@ -26,19 +26,12 @@ Loroupe holds the world records for 20, 25 and 30 kilometres and previously held
 
 [](https://web.archive.org/web/20181118120802/http://web.archive.org/screenshot/http://teglapeacefoundation.org/who-is-tegla/ "screenshot")[](https://web.archive.org/web/20181118120802/http://teglapeacefoundation.org/who-is-tegla/# "Share on Facebook")[](https://web.archive.org/web/20181118120802/http://teglapeacefoundation.org/who-is-tegla/# "Share on Twitter")
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-
-[ About this capture](https://web.archive.org/web/20181118120802/http://teglapeacefoundation.org/who-is-tegla/#expand)
+| United Nations Peace Ambassador     |     |     |
+| ----------------------------------- | --- | --- |
+| Oxfam Peace Ambassador              |     |     |
+| United Nations Darfur Special Envoy |     |     |
 
 # [Tegla Loroupe Peace Foundation](https://web.archive.org/web/20181118120802/http://teglapeacefoundation.org/)
-
-# WHO IS TEGLA
-
-1. [](https://web.archive.org/web/20181118120802/http://teglapeacefoundation.org/)
-2. WHO IS TEGLA
 
 # **TEGLA LOROUPE**
 
