@@ -31,7 +31,7 @@ To promote peaceful building, livelihood and resilience of poor people affected 
 
 A peaceful prosperous and just world in which sports is the unifying and livelihood factor
 
-# Board Members
+# Our President
 
 ![](http://web.archive.org/web/20200812034243im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/480/assets/images/iW=143&iH=205&oX=0&oY=0&cW=143&cH=180/23069139f735e9acff2ab2810bf1d44b.jpg)
 
@@ -39,14 +39,3 @@ A peaceful prosperous and just world in which sports is the unifying and livelih
 
 President of the The Tegla Loroupe Peace Foundation 
 
-![](http://web.archive.org/web/20200812034243im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/480/assets/images/iW=143&iH=177&oX=0&oY=0&cW=143&cH=143/b11596dcf040d3a849830f595e6396f2.jpg)
-
-##### Lucas Leperes Ole Naikuni
-
-Former Chairman Board of Trustees (TLPF)
-
-![John Gage](john_gage.jpg "Partner, Kleiner, Perkins, Caulfield & Byers Member, Markle Foundation Board of Directors")
-
-John Gage
-
-Sun Microsystems, Partner, Kleiner, Perkins, Caulfield & Byers Member, Markle Foundation Board of Directors
