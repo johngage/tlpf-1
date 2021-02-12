@@ -17,6 +17,6 @@ It was an honour to receive IAAF President Seb Coe at our Athletes Refugee Camp 
 
 
 
-[IAAF President Sebastian Coe visits Ngong Training Camp](https://www.worldathletics.org/news/iaaf-news/world-u18-championships-athlete-refugee-team
+[IAAF President Sebastian Coe visits Ngong Training Camp](https://www.worldathletics.org/news/iaaf-news/world-u18-championships-athlete-refugee-team)
 
 [IAAF President meets with Tegla Loroupe](https://www.worldathletics.org/awards/news/athlete-refugee-team-international-peace-day)
