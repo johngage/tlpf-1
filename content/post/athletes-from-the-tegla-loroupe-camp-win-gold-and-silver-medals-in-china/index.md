@@ -1,6 +1,6 @@
 ---
 title: ATHLETES FROM THE TEGLA LOROUPE CAMP WIN GOLD AND SILVER MEDALS IN CHINA
-date: 2021-02-01T22:19:14.370Z
+date: 2018-11-05T22:19:14.370Z
 draft: false
 featured: false
 image:
