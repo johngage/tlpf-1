@@ -2,7 +2,7 @@
 title: "'No home, no flag and no national anthem' - the first refugee squad at
   the 2017 World Athletics Championships"
 subtitle: Five-strong squad in London
-date: 2021-02-01T22:11:29.389Z
+date: 2017-08-17T21:11:29.389Z
 summary: Report from Refugee Team in 2017 World Athletics Championship
 draft: false
 featured: false
@@ -14,8 +14,6 @@ image:
 ![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2017/08/wacrefugee1008ab-e1502716280601.jpg)
 
 Published: 2017/08/14
-
-Capture: November 21, 2018
 
 These are the refugees forced to flee their homelands due to war and persecution who make up the first ever team of displaced athletes to compete at the World Championships.
 
