@@ -1,7 +1,7 @@
 ---
 title: PODIUM FINISH FOR REFUGEE ATHLETE AT NAIROBI CHAMPIONSHIPS Our very
   athlete, Domnic Lokinyomo, continued his fine form when he finished at ...
-date: 2021-02-08T05:56:21.868Z
+date: 2017-07-13T04:56:21.868Z
 draft: false
 featured: false
 image:
