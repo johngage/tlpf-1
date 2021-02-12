@@ -14,3 +14,7 @@ image:
 ![](iaafngong.jpg)
 
 It was an Honour to receive IAAF President Seb Coe at our Athletes Refugee Camp in Ngong.
+
+
+
+!\[IAAF President Sebastian Coe visits Ngong Training Camp](https://www.worldathletics.org/awards/news/athlete-refugee-team-international-peace-day)
