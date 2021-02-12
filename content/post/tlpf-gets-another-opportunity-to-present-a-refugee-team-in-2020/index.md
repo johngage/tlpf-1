@@ -1,6 +1,6 @@
 ---
 title: TLPF GETS ANOTHER OPPORTUNITY TO PRESENT A REFUGEE TEAM IN 2020
-date: 2021-02-08T04:58:30.051Z
+date: 2018-10-10T03:58:30.051Z
 draft: false
 featured: false
 image:
@@ -14,7 +14,7 @@ Tegla Loroupe Peace Foundation will have yet another opportunity to present  a 
 
 The International Olympic Committee President Thomas Bach has approved the participation of the Refugee Olympic team in the event.
 
-The approval follows a request made by TLPF refugee Olympian Yiech Pur Biel in Buenos Aires, Argentina during the 133rd IOC session.
+The approval follows a request made by TLPF refugee Olympian Yiech Pur Biel in Buenos Aires, Argentina during the 133rd IOC session from 8-9 October, 2018.
 
 Pur Biel is training at the Tegla Loroupe refugee training centre in Ngong, Kenya
 
