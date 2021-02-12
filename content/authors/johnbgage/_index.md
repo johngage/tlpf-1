@@ -3,8 +3,8 @@
 title: John Burdette Gage
 
 # Username (this should match the folder name)
-# authors:
-# - johnbgage
+authors:
+- johnbgage
 
 # Is this the primary user of the site?
 superuser: false
@@ -85,11 +85,11 @@ social:
   icon_pack: fab
   link: https://www.strava.com/athletes//
   label: Follow me on Strava
-  
+
 organizations:
   - name: Kibera Town Centre
     url: kiberawater.com
-    
+
 interests:
 - Water Quality Testing and Treatment
 - Data Science
@@ -110,6 +110,6 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: 
+user_groups:
 - Board
 ---
