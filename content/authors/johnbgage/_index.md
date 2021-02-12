@@ -2,10 +2,9 @@
 # Display name
 title: John Burdette Gage
 
-
 # Username (this should match the folder name)
-authors:
-- johnbgage
+# authors:
+# - johnbgage
 
 # Is this the primary user of the site?
 superuser: false
