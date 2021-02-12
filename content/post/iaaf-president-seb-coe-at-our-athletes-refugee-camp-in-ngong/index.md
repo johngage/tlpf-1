@@ -1,8 +1,9 @@
 ---
 title: IAAF President Seb Coe at our Athletes Refugee Camp in Ngong
 date: 2021-02-08T06:15:04.209Z
-summary: \[IAAF President Sebastian Coe visits Ngong Training
-  Camp](https://www.worldathletics.org/awards/news/athlete-refugee-team-international-peace-day)
+summary: "!\\[IAAF President Sebastian Coe visits Ngong Training
+  Camp](https://www.worldathletics.org/awards/news/athlete-refugee-team-interna\
+  tional-peace-day)"
 draft: false
 featured: false
 image:
