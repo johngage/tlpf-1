@@ -33,7 +33,7 @@ George Cushen:     In this guide, you’ll learn **how to create a free website
 
 Read his [outline](https://georgecushen.com/create-your-website-with-hugo/) .  In what follows, I will expand on his statements, explaining what works, what is still under development, and what requires a deeper understanding of how the components interact.  I will point out the  pathways to build that deeper understanding through online tutorials on software development and developer tools.
 
-I have used his description to set up the recreation of **teglapeacefoundation.org** as it existed in mid-2019.  I recreated it from snapshots taken by the Webarchive Foundation. 
+I have used his set of tools to recreat the **teglapeacefoundation.org** website as it existed in mid-2019.  I recreated it from snapshots taken by the Webarchive Foundation. 
 
 ### Overall structure of the TLPF website
 
