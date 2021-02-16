@@ -28,7 +28,21 @@ draft: false
 ---
 ### How the Tegla Loroupe Peace Foundation website was rebuilt in January, 2021
 
-#### Quick Overviews
+#### Quick Overview
+
+The **Tegla Loroupe Peace Foundation** website is now built with content that is created with **Hugo** components, which are assembled in **Wowchemy** templates. All content is stored on **Github.** This content is published by **Netlify. Netlify** uses, or will soon use, the ***teglapeace.org*** domain name purchased from **Cheapnames.**
+
+Day-to-day content is edited using a cloud editor named **NetlifyCMS**, with a nice "WYSIWYG" or "what you see is what you get" interface.
+
+**For an overview of all of this, see *[Learn Enough Custom Domains To Be Dangerous](https://www.learnenough.com/custom-domains-tutorial/)***
+
+**Wowchemy** is a set of software programs or templates for creating and publishing a *static* website specialized for academic research and research groups. *Static* just means that the complete website is rebuilt each time you finish editing it; all your changes are turned into new HTML, and all the website pages, now in their final HTML form, are published on the Internet immediately. A *static* website doesn't need any backend data base, or complicated backend programs to run, as Wordpress, or Wix, or other costly services require.  There's no back-and-forth conversation across the Internet. It's just instantly accessible. And more secure, since there aren't any programs interacting with the user.
+
+The templates are built using **Hugo** components--pages, posts, books, biographies, events, images, galleries--pre-written software programs that convert various kinds of content into HTML pages ready to publish. **Hugo** establishes the framework for the website--the directories and subdirectories that contain text, images, bibliographic entries, biographical entries, and the software programs that control their appearance--Javascript programs, configuration files, CSS files, HTML files, scripting language programs.
+
+Interaction with these directory structures, templates, and software components can be very high-level, dealing only with editing text and uploading images, or can go deeper, allowing the fine-tuning of individual components.  
+
+This discussion begins at the high level, allowing immediate editing of an existing web site, and explores the expansion and modification of the web site (and troubleshooting any errors) by a series of examples.
 
 1. Here is a description by George Cushen of his project to build a framework for creating a static web site in a short [outline](https://georgecushen.com/create-your-website-with-hugo/) published in December, 2020.
 
@@ -56,7 +70,7 @@ The master copy of the content is held in the cloud, in a massive site called **
 
 The content is pulled from **Github** by the web publishing site named **Netlify.  Netlify** has an on-line editor, named **Netlify Content Management System,**  or **NetlifyCMS**, which allows you to edit all the text, upload images, change details of what is published for biographies, or posts, or blog entries, or events, and, generally, manage all of the site content.  This is where most of the day-to-day work will take place.  As you change the content on **NetlifyCMS**, it automatically updates the main repository at **Github**, so everything remains synchronized. 
 
-Editing in **NetlifyCMS** is simple---what you see is what you get. There are a few simple visual commands, almost exactly like editors used for email.
+Editing in **NetlifyCMS** is simple---what you see is what you get. There are a few simple visual commands, almost exactly like editors used for email.  The text files are called "markdown", and their names end in ".md".  **NetlifyCMS** stores them as ".md", but shows you what looks like rich text, like Microsoft Word.
 
 Occasionally, you will want to modify something that **Netlify CMS** does not let you change. There is a separate editor at **Github** that allows you to change almost everything. Editing is more complicated on **Github**, but all edits automatically synchronize with **NetlifyCMS**. 
 
@@ -81,5 +95,17 @@ If I make changes  across the network in the editor at **Github,** to the files 
 For greatest control of file names, directory names, and file content, **Atom** is easiest.  You can change file names, move files around, see the content of image files, and have a complete view of your entire site. In particular, you use **Atom** to edit the specialized "configuration" files that describe to **Hugo**  and **Wowchemy** how to make all the different components work with each other. With some effort, you can do most of that in the **Github** editor, except edit the "configuration" files.  In **NetlifyCMS,** you can't change file names or move files around, or even see the "configuration" files, but you do have the "what you see is what you get" interface.  Most content editing should take place in **NetlifyCMS.**
 
 #### Overall Site Maintenance
+
+#### What to do with the Hugo software that converts markdown files to HTML
+
+When you commit a change to **Github**, Hugo goes to work, updating everything, changing all the files from Markdown to HTML, inserting headers and links, and finally writing all the finished HTML pages to a directory you don't see, named "publish", which is sent to **Netlify** to publish.
+
+Hugo shortcodes
+
+Making sense of how a Hugo template works
+
+
+
+
 
 #### Possible Site Migration from Netlify to Cloudshare
