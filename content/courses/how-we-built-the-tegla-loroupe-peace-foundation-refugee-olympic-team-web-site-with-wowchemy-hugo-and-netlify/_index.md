@@ -25,15 +25,19 @@ summary: >-
   This discussion begins at the high level, allowing immediate editing of an existing web site, and explores the expansion and modification of the web site (and troubleshooting any errors) by a series of examples.
 draft: false
 ---
-Here is a description by George Cushen of his project to build a framework for creating a static web site in a short [outline](https://georgecushen.com/create-your-website-with-hugo/) published in December, 2020.
+### How the Tegla Loroupe Peace Foundation website was rebuilt in January, 2021
 
-Here's his promise: 
+#### Quick Overviews
 
-George Cushen:     In this guide, you’ll learn **how to create a free website for your online portfolio, resumé, or your team/organization using just your web browser**.
+1. Here is a description by George Cushen of his project to build a framework for creating a static web site in a short [outline](https://georgecushen.com/create-your-website-with-hugo/) published in December, 2020.
 
-Read his [outline](https://georgecushen.com/create-your-website-with-hugo/) .  In what follows, I will expand on his statements, explaining what works, what is still under development, and what requires a deeper understanding of how the components interact.  I will point out the  pathways to build that deeper understanding through online tutorials on software development and developer tools.
+Here's his promise: George Cushen:     *In this guide, you’ll learn **how to create a free website for your online portfolio, resumé, or your team/organization using just your web browser**.*
 
-I have used his set of tools to recreat the **teglapeacefoundation.org** website as it existed in mid-2019.  I recreated it from snapshots taken by the Webarchive Foundation. 
+Read his [outline](https://georgecushen.com/create-your-website-with-hugo/).  In what follows, I will describe how we use his Wowchemy elements, how they fit together,  what works, what is still under development, and what requires a deeper understanding of how the components are built and interact.  I will link to online tutorials on software development and developer tools.
+
+I have used his set of tools to recreate the **teglapeacefoundation.org** website as it existed in mid-2019, using snapshots taken by the Webarchive Foundation. 
+
+2. Read ***[Learn Enough Custom Domains To Be Dangerous](https://www.learnenough.com/custom-domains-tutorial/).***
 
 ### Overall structure of the TLPF website
 
@@ -47,12 +51,34 @@ The master copy of the content is held in the cloud, in a massive site called **
 
 ##### How can I edit the content?  
 
+###### Editing with the Netlify Content Management System: NetlifyCMS Editor
+
 The content is pulled from **Github** by the web publishing site named **Netlify.  Netlify** has an on-line editor, named **Netlify Content Management System,**  or **NetlifyCMS**, which allows you to edit all the text, upload images, change details of what is published for biographies, or posts, or blog entries, or events, and, generally, manage all of the site content.  This is where most of the day-to-day work will take place.  As you change the content on **NetlifyCMS**, it automatically updates the main repository at **Github**, so everything remains synchronized. 
 
 Editing in **NetlifyCMS** is simple---what you see is what you get. There are a few simple visual commands, almost exactly like editors used for email.
 
-Occasionally, you will want to modify something that **Netlify CMS** does not let you change. There is a separate editor at **Github** that allows you to change almost everything.  Here, however, editing is more complicated. 
+Occasionally, you will want to modify something that **Netlify CMS** does not let you change. There is a separate editor at **Github** that allows you to change almost everything. Editing is more complicated on **Github**, but all edits automatically synchronize with **NetlifyCMS**. 
 
-First, you need to understand the arrangement of directories that contain the content. Most content is in the directory ***content.*** Text files for posts or news entries are in the directory ***content/posts.*** Text files for biographies of people are in the directory ***content/authors.*** Text files for events are in ***content/events.***
+##### Editing at Github with the Github Editor
 
-Everything is arranged in directory and file hierarchies, as in any Unix system. You must be familiar with how that works.  There are two areas to be comfortable with: the **Command LIne**, and the **Development Environment.** For an overview, see *[Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics).* And The full course costs money--I'll try to get us scholarships--but you can read enough to get what you need.
+First, you need to understand the arrangement of directories at **Github** that contain the content. Most content is in the directory ***content.*** Text files for posts or news entries are in the directory ***content/posts.*** Text files for biographies of people are in the directory ***content/authors.*** Text files for events are in ***content/events.***
+
+Everything is arranged in directory and file hierarchies, as in any Unix system. You must be familiar with how that works.  There are two areas to be comfortable with: the **Command LIne**, and the **Development Environment.** For an overview, see *[Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics).* And the [Learn Enough Dev Environment to Be Dangerous](https://www.learnenough.com/dev-environment-tutorial) tutorial, but skip building the Amazon Cloud and the Ruby stuff. The full courses--and all of them are great---cost money--but you can read enough of each of them to get what you need. The editing course--*[Learn Enough Text Editor To Be Dangerous](https://www.learnenough.com/text-editor)--*teaches how to use an extremely powerful editor, ***Atom,*** which is integrated with the fundamental **Version Control** tool, **Git**, covered in the course, *[Learn Enough Git To Be Dangerous](https://www.learnenough.com/git)*.
+
+##### Editing locally, with Atom and Git
+
+Which brings us to the third way to edit all content: using the **Atom** editor on your local computer.
+
+I use Macintosh, which is a Unix computer.  I open **Atom** in the directory in my Unix file system that holds all of the sub-directories of my web site.  **Atom** calls this directory the "Project".  When you open the Project, you see all the subdirectories, and all their contents, all the files inside them. They are exactly the same as the directories on the **Github** site, with exactly the same contents.  What keeps them exactly the same is the **Git** **Version Control** software, that tracks every change to every file, assembles them into a "stage", then commits the changes to a master version, and pushes them across the network to update the **Github** version.
+
+After I make a change to the local content file on my local computer, using **Atom**, I save it.  **Atom** keeps track of the change, and asks me to "stage" it, or put it in a ready state to be saved across the network to its **Github** twin. After I save, and stage, any other changes I want, I "commit" all  to  the final set of changed files, locally, with a message documenting what I've done. Now, with my local changes all assembled, I "push" all the changes across the network to **Github.** 
+
+If I make changes  across the network in the editor at **Github,** to the files at **Github,** then I need to bring the new versions from **Github** to my local machine, to update the local files.  I tell **Atom**, locally,  to "pull" any changes from **Github.** **Atom** compares the timestamp of the local files to the timestamp of the remote files, and if the remote file version is newer, it pulls the remote version to the local computer, and makes all the necessary changes to ensure that the files are identical.
+
+**Git** always checks for the newest version, and won't allow an older version to overwrite a newer version.  It will tell you if you can or cannot "push" or "pull".
+
+For greatest control of file names, directory names, and file content, **Atom** is easiest.  You can change file names, move files around, see the content of image files, and have a complete view of your entire site. In particular, you use **Atom** to edit the specialized "configuration" files that describe to **Hugo**  and **Wowchemy** how to make all the different components work with each other. With some effort, you can do most of that in the **Github** editor, except edit the "configuration" files.  In **NetlifyCMS,** you can't change file names or move files around, or even see the "configuration" files, but you do have the "what you see is what you get" interface.  Most content editing should take place in **NetlifyCMS.**
+
+#### Overall Site Maintenance
+
+#### Possible Site Migration from Netlify to Cloudshare
