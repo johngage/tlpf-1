@@ -46,15 +46,15 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_types = "/publication-type/:slug/"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects" ]
+  home = [ "HTML", "RSS", "JSON" ]
   section = [ "HTML", "RSS" ]
 
-#[mediaTypes."application/manifest+json"]
-#  suffixes = ["webmanifest"]
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
 
-#[outputFormats.WebAppManifest]
-#  mediaType = "application/manifest+json"
-#  rel = "manifest"
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
 
 # Configure the Markdown renderer.
 [markup]
