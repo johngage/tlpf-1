@@ -4,10 +4,11 @@ title: How To Build the Tegla Loroupe Peace Foundation Refugee Olympic Team Web
 date: 2021-02-09T03:54:39.616Z
 subtitle: Overview of Major Components,  followed by Step By Step Guide
 summary: >-
-  **Tegla Loroupe Peace Foundation** website is now built with content created
-  with **Hugo** components assembled in **Wowchemy** templates,  content stored
-  on **Github,**  content published by **Netlify,** and the ***teglapeace.org***
-  domain name purchased from **Cheapnames.**
+  **Tegla Loroupe Peace Foundation** website is now built with content that is
+  created with **Hugo** components, which are assembled in **Wowchemy**
+  templates. All content is stored on **Github.** This content is published by
+  **Netlify. Netlify** uses, or will soon use, the ***teglapeace.org*** domain
+  name purchased from **Cheapnames.**
 
 
   **For an overview of all of this, see *[Learn Enough Custom Domains To Be Dangerous](https://www.learnenough.com/custom-domains-tutorial/)***
