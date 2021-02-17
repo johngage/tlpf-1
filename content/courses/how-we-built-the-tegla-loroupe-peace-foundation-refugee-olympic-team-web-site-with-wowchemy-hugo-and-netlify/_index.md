@@ -104,9 +104,9 @@ For greatest control of file names, directory names, and file content, **Atom** 
 
 #### How can I edit the configuration files that control the overall look? TOML and YAML?
 
-#### What to do with the Hugo software that converts markdown files to HTML
+#### What to do with the Hugo software that converts markdown files to HTML? 
 
-When you commit a change to **Github**, Hugo goes to work, updating everything, changing all the files from Markdown to HTML, inserting headers and links, and finally writing all the finished HTML pages to a directory you don't see, named "publish", which is sent to **Netlify** to publish.
+When you commit a change to **Github**, Hugo goes to work, updating everything, changing all the files from Markdown to HTML, inserting headers and links, and finally writing all the finished HTML pages to a directory you don't see, named "public", which is sent to **Netlify** to publish.
 
 Hugo shortcodes
 
