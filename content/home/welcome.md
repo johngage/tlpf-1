@@ -13,4 +13,4 @@ design:
   columns: "1"
 hero_media: tl.logo.png
 ---
-The Tegla Loroupe Peace Foundation creates peace initiatives in conflict areas since its founding in 2006.
+The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas since its founding in 2003 by World Champion Tegla Loroupe.
