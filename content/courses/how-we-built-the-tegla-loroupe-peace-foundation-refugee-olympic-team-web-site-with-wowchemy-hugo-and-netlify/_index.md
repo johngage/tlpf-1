@@ -28,7 +28,7 @@ draft: false
 ---
 # How the Tegla Loroupe Peace Foundation website was rebuilt in February, 2021
 
-{{toc}}
+{{ toc }}
 
 ## Quick Overview
 
