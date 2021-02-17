@@ -21,7 +21,13 @@ content:
 design:
   view: 2
 ---
-TLPF is a charitable organization that focuses on restoring peace and fostering economic empowerment among pastoralists. It was established in 2003 by Tegla Loroupe, a Kenyan marathon legend who is also the Foundation’s President. Essentially, TLPF focuses on rebuilding social relations and induce trust among the warring communities, showcase sports as an alternative economic livelihood factor, increase awareness on the girl child rights, foster education, champion for peace and change the perception of pastoralists towards cattle raiding as a form of livelihood. With a Vision of ‘A Peaceful, Prosperous and Just World in which Sports is a Unifying factor’, the Foundation’s goal is to restore peace among warring pastoralists through sports and create a difference in the lives of the less privileged. 
+TLPF is a charitable organization that focuses on **restoring peace and fostering economic empowerment among pastoralists**. It was established in 2003 by Tegla Loroupe, a Kenyan marathon legend and the Foundation’s President. Essentially, TLPF focuses on rebuilding social relations and developing trust among communities at war over scarce water, scarce pasture, and increasingly fragile and threatened vital resources for their herds and crops, in some of the world's most impoverished nomadic communities.
+
+Fifteen years of **Peace Races** showcase sports as an alternative economic livelihood pathway to the warrior's traditional practice of cattle rustling, with the creation of a Warrior's Training Center for those who put down their weapons and choose peace.
+
+The **Peace Races** gather a broad community, and are designed to increase awareness of girl child rights, to foster education, and champion peace and cooperation as the future for all tribes. Peace demands a fundamental change in the perception of pastoralists towards cattle raiding as a form of livelihood.
+
+With a vision of _A Peaceful, Prosperous and Just World In Which Sports is a Unifying Factor_, the Foundation’s continued activities restore peace among warring pastoralists through sports, and build a foundation on which to make a difference in the lives of the less privileged. 
 
 ### Our Mission
 
@@ -38,4 +44,3 @@ A peaceful prosperous and just world in which sports is the unifying and livelih
 ##### Amb., Dr., OGW, SS Tegla Loroupe
 
 President of the The Tegla Loroupe Peace Foundation 
-

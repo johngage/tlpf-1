@@ -4,6 +4,7 @@ date: 2017-07-12T05:15:04.209Z
 summary: ""
 draft: false
 featured: false
+tags: ["IAAF", "Olympics"]
 image:
   filename: featured
   focal_point: Smart
