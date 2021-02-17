@@ -27,25 +27,48 @@ summary: >-
 
   This discussion begins at the high level, allowing immediate editing of an existing web site, and explores the expansion and modification of the web site (and troubleshooting any errors) by a series of examples.
 draft: false
+diagram: true
 ---
 # How the Tegla Loroupe Peace Foundation website was rebuilt in February, 2021
 
-{{ toc }}
+{{< toc >}}
 
-```mermaid graph TD; A–>B; A–>C; B–>D; C–>D; ```
+
+  ```mermaid
+  graph TD;
+    Local-Computer -->Github;
+    Github-->Netlify;
+    LocalAtomEditor-->GithubEditor;
+    GithubEditor-->LocalAtomEditor;
+    GithubEditor-->NetlifyCMS;
+    NetlifyCMS-->GithubEditor;
+    All-Content-On-Local-Computer-->Mediated-and-Synchronized-By-Git;
+    Mediated-and-Synchronized-By-Git-->All-Content-on-Github;
+    All-Content-on-Github-->Rendered-Into-Final-HTML-Sent-To-Netlify;
+  ```
+
 ## Quick Overview
 
 The **Tegla Loroupe Peace Foundation** website is now built with content created with **Hugo** components, brought together in **Wowchemy** templates. All content is stored on **Github.** This content is published by **Netlify. Netlify** uses, or will soon use, the ***teglapeace.org*** domain name purchased from **Cheapnames.**
 
-Day-to-day content is edited using a cloud editor named **NetlifyCMS**, with a nice "WYSIWYG" or "what you see is what you get" interface.
+Day-to-day content is edited using a cloud editor named **NetlifyCMS**, with a nice "WYSIWYG" or "what you see is what you get" interface. Just log in to **NetlifyCMS**, and the web interface shows all the content. As you edit, it synchronizes with the content repository at **Github**.
 
-**For an overview of all of this, see *[Learn Enough Custom Domains To Be Dangerous](https://www.learnenough.com/custom-domains-tutorial/)***
+**For an overview of all of this, see *[Learn Enough Custom Domains To Be Dangerous](https://www.learnenough.com/custom-domains-tutorial/)***. In the example, it uses **Cloudflare** rather than **Netlify**; we may move to **Cloudflare** in the future.
 
 ## ***Components***
+### Wowchemy
 
-**Wowchemy** is a set of software programs or templates for creating and publishing a *static* website specialized for academic research and research groups. *Static* just means that the complete website is rebuilt each time you finish editing it; all your changes are turned into new HTML, and all the website pages, now in their final HTML form, are published on the Internet immediately. A *static* website doesn't need any backend data base, or complicated backend programs to run, as Wordpress, or Wix, or other costly services require.  There's no back-and-forth conversation across the Internet. It's just instantly accessible. And more secure, since there aren't any programs interacting with the user.
+**Wowchemy** is a set of software programs or templates for creating and publishing a *static* website specialized for research groups and teams. *Static* just means that the complete website is rebuilt each time you finish editing it; all your changes are turned into new HTML, and all the website pages, now in their final HTML form, are published on the Internet immediately.
 
-The templates are built using **Hugo** components--pages, posts, books, biographies, events, images, galleries--pre-written software programs that convert various kinds of content into HTML pages ready to publish. **Hugo** establishes the framework for the website--the directories and subdirectories that contain text, images, bibliographic entries, biographical entries, and the software programs that control their appearance--Javascript programs, configuration files, CSS files, HTML files, scripting language programs.
+1. Here is a description by George Cushen of his **Wowchemy** project to build a framework for creating a static web site in a short [outline](https://georgecushen.com/create-your-website-with-hugo/) published in December, 2020.
+
+    Here's his promise: *In this guide, you’ll learn **how to create a free website for your online portfolio, resumé, or your team/organization using just your web browser**.*
+
+Read his [outline](https://georgecushen.com/create-your-website-with-hugo/).  In what follows, I will describe how we use his Wowchemy elements, how they fit together,  what works, what is still under development, and what requires a deeper understanding of how the components are built and interact.  I will link to online tutorials on software development and developer tools.
+
+A *static* website doesn't need any backend data base, or complicated backend programs to run, as Wordpress, or Wix, or other costly services require.  There's no back-and-forth conversation across the Internet. It's just instantly accessible. And more secure, since there aren't any programs interacting with the user.
+
+The templates are built using **Hugo** components--programs that make pages, posts, books, biographies, events, images, galleries--pre-written software programs that convert various kinds of content into HTML pages ready to publish. **Hugo** establishes the framework for the website--the directories and subdirectories that contain text, images, bibliographic entries, biographical entries, and the software programs that control their appearance--Javascript programs, configuration files, CSS files, HTML files, scripting language programs.
 
 Interaction with these directory structures, templates, and software components can be very high-level, dealing only with editing text and uploading images, or can go deeper, allowing the fine-tuning of individual components.
 
@@ -53,11 +76,7 @@ This discussion begins at the high level, allowing immediate editing of an exist
 
 {{% callout note %}} Here's the full documentation for [Wowchemy](https://wowchemy.com/docs/){{% /callout %}}
 
-1. Here is a description by George Cushen of his project to build a framework for creating a static web site in a short [outline](https://georgecushen.com/create-your-website-with-hugo/) published in December, 2020.
 
-Here's his promise: George Cushen:     *In this guide, you’ll learn **how to create a free website for your online portfolio, resumé, or your team/organization using just your web browser**.*
-
-Read his [outline](https://georgecushen.com/create-your-website-with-hugo/).  In what follows, I will describe how we use his Wowchemy elements, how they fit together,  what works, what is still under development, and what requires a deeper understanding of how the components are built and interact.  I will link to online tutorials on software development and developer tools.
 
 I have used his set of tools to recreate the **teglapeacefoundation.org** website as it existed in mid-2019, using snapshots taken by the Webarchive Foundation.
 
