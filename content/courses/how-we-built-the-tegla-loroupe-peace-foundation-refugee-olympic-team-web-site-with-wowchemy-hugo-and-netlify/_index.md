@@ -36,6 +36,8 @@ Day-to-day content is edited using a cloud editor named **NetlifyCMS**, with a n
 
 **For an overview of all of this, see *[Learn Enough Custom Domains To Be Dangerous](https://www.learnenough.com/custom-domains-tutorial/)***
 
+## ***Components***
+
 **Wowchemy** is a set of software programs or templates for creating and publishing a *static* website specialized for academic research and research groups. *Static* just means that the complete website is rebuilt each time you finish editing it; all your changes are turned into new HTML, and all the website pages, now in their final HTML form, are published on the Internet immediately. A *static* website doesn't need any backend data base, or complicated backend programs to run, as Wordpress, or Wix, or other costly services require.  There's no back-and-forth conversation across the Internet. It's just instantly accessible. And more secure, since there aren't any programs interacting with the user.
 
 The templates are built using **Hugo** components--pages, posts, books, biographies, events, images, galleries--pre-written software programs that convert various kinds of content into HTML pages ready to publish. **Hugo** establishes the framework for the website--the directories and subdirectories that contain text, images, bibliographic entries, biographical entries, and the software programs that control their appearance--Javascript programs, configuration files, CSS files, HTML files, scripting language programs.
@@ -56,9 +58,9 @@ I have used his set of tools to recreate the **teglapeacefoundation.org** websit
 
 2. Read ***[Learn Enough Custom Domains To Be Dangerous](https://www.learnenough.com/custom-domains-tutorial/).***
 
-### Overall structure of the TLPF website
+## Overall structure of the TLPF website
 
-##### Where is the content?
+### Where is the content?
 
 The master copy of the content is held in the cloud, in a massive site called **Github.** Millions of developers keep their code and their content in **repositories** in **Github.**  Microsoft purchased **Github** in 2018, as a service to software developers. There are several rivals, but all use the same basic tools, named **Git,** to keep track of changing content.  These tools are called **Version Control** tools.  They allow software developers to keep track of every change in the text of what they write, with the power to revert to older versions if newer versions prove to contain mistakes. These **Git** tools allow teams of writers to work on a common text, editing together, discussing changes, and deciding what final text to adopt.
 
@@ -66,7 +68,9 @@ The master copy of the content is held in the cloud, in a massive site called **
 
 
 
-##### How can I edit the content?  
+### How can I edit the content?  
+
+
 
 ###### Editing with the Netlify Content Management System: NetlifyCMS Editor
 
@@ -96,7 +100,9 @@ If I make changes  across the network in the editor at **Github,** to the files 
 
 For greatest control of file names, directory names, and file content, **Atom** is easiest.  You can change file names, move files around, see the content of image files, and have a complete view of your entire site. In particular, you use **Atom** to edit the specialized "configuration" files that describe to **Hugo**  and **Wowchemy** how to make all the different components work with each other. With some effort, you can do most of that in the **Github** editor, except edit the "configuration" files.  In **NetlifyCMS,** you can't change file names or move files around, or even see the "configuration" files, but you do have the "what you see is what you get" interface.  Most content editing should take place in **NetlifyCMS.**
 
-#### Overall Site Maintenance
+### Overall Site Maintenance
+
+#### How can I edit the configuration files that control the overall look? TOML and YAML?
 
 #### What to do with the Hugo software that converts markdown files to HTML
 
@@ -110,4 +116,4 @@ Making sense of how a Hugo template works
 
 
 
-#### Possible Site Migration from Netlify to Cloudshare
+### Possible Site Migration from Netlify to Cloudshare
