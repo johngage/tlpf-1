@@ -10,7 +10,7 @@ title: Tegla Loroupe Peace Foundation
 subtitle: Building Peace Through Sports
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     color: "#7ac6f0"
 hero_media: tl.logo.png
