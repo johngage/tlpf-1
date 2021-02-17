@@ -11,7 +11,6 @@ summary: >-
   name purchased from **Cheapnames.**
 
 
-  \`\`\`mermaid graph TD; A-->B; A-->C; B-->D; C-->D; \`\`\`
 
 
   **For an overview of all of this, see *[Learn Enough Custom Domains To Be Dangerous](https://www.learnenough.com/custom-domains-tutorial/)***
@@ -32,6 +31,8 @@ draft: false
 # How the Tegla Loroupe Peace Foundation website was rebuilt in February, 2021
 
 {{ toc }}
+
+\`\`\`mermaid graph TD; A-->B; A-->C; B-->D; C-->D; \`\`\`
 
 ## Quick Overview
 
