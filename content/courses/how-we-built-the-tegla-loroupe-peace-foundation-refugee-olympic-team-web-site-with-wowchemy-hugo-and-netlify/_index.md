@@ -28,6 +28,8 @@ draft: false
 ---
 # How the Tegla Loroupe Peace Foundation website was rebuilt in February, 2021
 
+{{toc}}
+
 ## Quick Overview
 
 The **Tegla Loroupe Peace Foundation** website is now built with content created with **Hugo** components, brought together in **Wowchemy** templates. All content is stored on **Github.** This content is published by **Netlify. Netlify** uses, or will soon use, the ***teglapeace.org*** domain name purchased from **Cheapnames.**
