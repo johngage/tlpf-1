@@ -1,23 +1,26 @@
 ---
-title: Describe process of setting up teglapeace.org on Netlify as a static site
-  generated web site, or SSG
+title: Setting up teglapeace.org on Netlify as a static site generated web site,
+  or SSG
 date: 2021-01-25T22:07:45.581Z
 description: "try to see content in Academic "
 subtitle: Enable cloud editing using the Netlify CMS, a form-based editing tool
 summary: >-
-  1. Get domain name from Cheapnames
+  What we've done so far, as described in much greater detail in the Book under
+  "Courses"
 
 
-  2. Set up Github repository to hold content in johngage/tlpf-1.
+  Get domain name from Cheapnames: teglapeace.org
 
 
-  3. Generate content in a content framework using the Hugo website generator together with the free, open source Wowchemy Website Builder, either on local machine or on Github.
+  1. Set up Github repository to hold content in johngage/tlpf-1.
 
+  2. Generate content in a content framework using the Hugo website generator together with the free, open source Wowchemy Website Builder, either on local machine or on Github.
 
   3. Link Github repository to Netlify to  serve as web server. (could use Github Pages or Cloudflare) following the Wowchemy instructions.
 
-
   4. Link Github repository to local machine, to mirror development environments using Git.
+
+  5. Link the Netlify publishing site to the domain name teglapeace.org
 ---
 The first round of building the Netlify site used Wowchemy to create the Github repository, and to link it to Netlify.  Then, configuring the Netlify CMS editor, building a config.yml file in the Github site to allow the NetlifyCMS editor to see all the Academic content on the Github site.
 
