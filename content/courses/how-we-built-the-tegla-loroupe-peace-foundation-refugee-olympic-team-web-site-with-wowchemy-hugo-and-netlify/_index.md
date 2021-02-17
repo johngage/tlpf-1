@@ -4,7 +4,7 @@ title: How To Build the Tegla Loroupe Peace Foundation Refugee Olympic Team Web
 date: 2021-02-09T03:54:39.616Z
 subtitle: Overview of Major Components,  followed by Step By Step Guide
 summary: >-
-  **Tegla Loroupe Peace Foundation** website is now built with content that is
+  The **Tegla Loroupe Peace Foundation** website is now built with content
   created with **Hugo** components, which are assembled in **Wowchemy**
   templates. All content is stored on **Github.** This content is published by
   **Netlify. Netlify** uses, or will soon use, the ***teglapeace.org*** domain
@@ -26,11 +26,11 @@ summary: >-
   This discussion begins at the high level, allowing immediate editing of an existing web site, and explores the expansion and modification of the web site (and troubleshooting any errors) by a series of examples.
 draft: false
 ---
-### How the Tegla Loroupe Peace Foundation website was rebuilt in January, 2021
+# How the Tegla Loroupe Peace Foundation website was rebuilt in February, 2021
 
-#### Quick Overview
+## Quick Overview
 
-The **Tegla Loroupe Peace Foundation** website is now built with content that is created with **Hugo** components, which are assembled in **Wowchemy** templates. All content is stored on **Github.** This content is published by **Netlify. Netlify** uses, or will soon use, the ***teglapeace.org*** domain name purchased from **Cheapnames.**
+The **Tegla Loroupe Peace Foundation** website is now built with content created with **Hugo** components, brought together in **Wowchemy** templates. All content is stored on **Github.** This content is published by **Netlify. Netlify** uses, or will soon use, the ***teglapeace.org*** domain name purchased from **Cheapnames.**
 
 Day-to-day content is edited using a cloud editor named **NetlifyCMS**, with a nice "WYSIWYG" or "what you see is what you get" interface.
 
@@ -43,6 +43,8 @@ The templates are built using **Hugo** components--pages, posts, books, biograph
 Interaction with these directory structures, templates, and software components can be very high-level, dealing only with editing text and uploading images, or can go deeper, allowing the fine-tuning of individual components.  
 
 This discussion begins at the high level, allowing immediate editing of an existing web site, and explores the expansion and modification of the web site (and troubleshooting any errors) by a series of examples.
+
+{{% callout note %}} Here's the full documentation for [Wowchemy](https://wowchemy.com/docs/){{% /callout %}}
 
 1. Here is a description by George Cushen of his project to build a framework for creating a static web site in a short [outline](https://georgecushen.com/create-your-website-with-hugo/) published in December, 2020.
 
