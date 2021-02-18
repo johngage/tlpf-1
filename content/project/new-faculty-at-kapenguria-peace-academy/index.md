@@ -1,9 +1,11 @@
 ---
 title: New faculty at Kapenguria Peace Academy
 date: 2021-02-08T01:53:11.145Z
+page_type: project
 draft: false
 featured: false
 external_link: External
+tag: school
 image:
   filename: featured
   focal_point: Smart

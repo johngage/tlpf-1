@@ -28,9 +28,13 @@ content:
   - name: All
     tag: '*'
   - name: Athletic Training
-    tag: Athletic Training
-  - name: Other
-    tag: Demo
+    tag: 'training'
+  - name: School
+    tag: school
+  - name: Refugee Camp
+    tag: camp
+  - name: Peace Race
+    tag: race
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

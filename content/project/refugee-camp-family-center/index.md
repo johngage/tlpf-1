@@ -3,6 +3,7 @@ title: Refugee Camp Family Center
 date: 2021-02-08T01:47:51.591Z
 draft: false
 featured: false
+tag: camp
 external_link: Family Camp
 image:
   filename: featured

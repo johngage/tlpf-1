@@ -1,7 +1,7 @@
 ---
 title: Setting up teglapeace.org on Netlify as a static site generated web site,
   or SSG
-date: 2021-01-25T22:07:45.581Z
+date: 2021-01-27T22:07:45.581Z
 description: "try to see content in Academic "
 subtitle: Enable cloud editing using the Netlify CMS, a form-based editing tool
 summary: >-

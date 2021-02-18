@@ -3,6 +3,7 @@ title: The Tegla Loroupe Peace Race
 date: 2021-02-01T22:43:37.512Z
 draft: false
 featured: false
+tag: race
 external_link: https://web.archive.org/web/20200812024759/http://teglapeacefoundation.org/peace-races/
 image:
   filename: featured
