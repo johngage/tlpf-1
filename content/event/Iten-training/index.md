@@ -31,7 +31,7 @@ image:
     photographer**](Refugee-team-warms-up-before-the-start-of-the-Senior-Men-co\
     mpetition-in-Kisii-800x600.jpg)"
   focal_point: Right
-  filename: Refugee-team-warms-up-before-the-start-of-the-Senior-Men-competition-in-Kisii-800x600.jpg
+  filename: purbiel.jpg
 url_code: ""
 ---
 ### Refugee Team Members Interact with US University
