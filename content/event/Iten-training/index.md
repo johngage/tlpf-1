@@ -14,7 +14,7 @@ event: Olympic Refugee Team Training
 event_url: https://example.org
 featured: false
 authors:
-  - JohnGage
+  - John Gage
 url_video: ""
 url_slides: ""
 address:
@@ -26,14 +26,17 @@ address:
 publishDate: 2021-01-01T00:00:00Z
 tags: []
 projects: []
+
 image:
   caption: "Image credit: [**Kisii
     photographer**](Refugee-team-warms-up-before-the-start-of-the-Senior-Men-co\
     mpetition-in-Kisii-800x600.jpg)"
-  focal_point: Right
-  filename: Refugee-team-warms-up-before-the-start-of-the-Senior-Men-competition-in-Kisii-800x600.jpg
+  focal_point: Center
+  filename: purbiel.jpg
 url_code: ""
 ---
 ### Refugee Team Members Interact with US University
 
 Vanderbilt University Zoom session
+
+{{< figure src="Refugee-team-warms-up-before-the-start-of-the-Senior-Men-competition-in-Kisii-800x600.jpg" title="Team warmup" >}}
