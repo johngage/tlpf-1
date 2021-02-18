@@ -1,64 +1,39 @@
 ---
+abstract: Team is coached by Olympic coaches and IAAF coaches for two weeks in
+  the high-altitude camp
+slides: null
+url_pdf: ""
+summary: Two week intensive practice for distance and sprint runners; Prep for
+  Olympic Trials
 title: Iten, Kenya training for Olympic Refugee Team
-
+location: Iten, Kenya
+date: 2021-02-01T13:00:00Z
+date_end: 2021-02-14T15:00:00Z
+all_day: false
 event: Olympic Refugee Team Training
 event_url: https://example.org
-
-location: Iten, Kenya
+featured: false
+authors:
+  - JohnGage
+url_video: ""
+url_slides: ""
 address:
-  street:
+  street: null
   city: Iten
   region: Nandi
-  postcode:
+  postcode: null
   country: Kenya
-
-summary: Two week intensive practice for distance and sprint runners; Prep for Olympic Trials
-abstract: "Coached by Olympic coaches and IAAF coaches"
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-02-01T13:00:00Z"
-date_end: "2021-02-14T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-01-01T00:00:00Z"
-
-authors: []
+publishDate: 2021-01-01T00:00:00Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](Refugee-team-warms-up-before-the-start-of-the-Senior-Men-competition-in-Kisii-800x600.jpg)'
-  focal_point: Right
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
+image:
+  caption: "Image credit: [**Kisii
+    photographer**](Refugee-team-warms-up-before-the-start-of-the-Senior-Men-co\
+    mpetition-in-Kisii-800x600.jpg)"
+  focal_point: Right
+  filename: Refugee-team-warms-up-before-the-start-of-the-Senior-Men-competition-in-Kisii-800x600.jpg
+url_code: ""
 ---
+### Refugee Team Members Interact with US University
 
-### instructional text
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+Vanderbilt University Zoom session
