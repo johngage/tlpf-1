@@ -1,10 +1,11 @@
 ---
-title: "Blogs are for daily, or weekly, thoughts. "
+title: "Blogs are for longer thoughts or observations. "
 date: 2021-02-15T23:07:44.504Z
 summary: >-
+  18 Feb 2021
+
   News should be for announcements, new projects, things that happen to the
   team, the academy, the foundation.
-
 
   The Blog should be for short articles about what's going on, or reflections on the past, or longer pieces describing what the training program is for the Iten training session, or  a summary of what happened as a result of AirBnB making a video, or an article about what is needed to improve the training track in Ngong.
 draft: false
