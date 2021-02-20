@@ -26,3 +26,116 @@ design:
 ---
 
 Gallery of UNHCR, IOC, Safaricom, UNICEF
+
+IOC 
+
+
+ON RUNNING
+
+
+IAAF 
+
+ 
+
+
+UNHCR 
+
+ 
+
+
+USAID
+
+ 
+
+
+PACT
+
+ 
+
+
+United Nations Development Project
+
+
+NO FINISH LINE 
+
+ 
+
+
+Kid to Kids
+
+ 
+
+
+Sameer Group
+
+ 
+
+
+SAFARICOM
+
+
+KENGEN 
+
+
+NCCA
+
+ 
+
+
+CFM
+
+ 
+
+
+Kenya Civil Aviation Authority 
+
+ 
+
+
+National Olympic Committee 
+
+
+JAG FOUNDATION
+
+ 
+
+
+WADA
+
+
+PRINCE ALBERT 11 OF MONACO FOUNDATION
+
+
+Richard Attia &Associates
+
+
+Oxfam GB (Kenya)
+
+
+The United States Embassy-Kenya
+
+
+British High Commission-Kenya
+
+
+The Slovak Embassy-Kenya
+
+
+The Government of Kenya
+
+ 
+
+
+The Australian High Commission-Kenya
+
+
+The French Embassy-Kenya
+
+
+The Charitable Foundation 
+
+
+Kenya Airways 
+
+
+Peace and Sports
