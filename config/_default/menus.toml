@@ -35,17 +35,17 @@
 
 [[main]]
   name = "Talks"
-  url = "#talks"
+  url = "talks/"
   weight = 41
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "publications/"
   weight = 50
 
 [[main]]
   name = "Courses"
-  url = "#courses/"
+  url = "courses/"
   weight = 60
 
 
@@ -56,7 +56,7 @@
 
 [[main]]
   name = "Slides"
-  url = "slides"
+  url = "slides/"
   weight = 80
 
 
