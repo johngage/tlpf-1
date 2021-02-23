@@ -30,12 +30,12 @@
 
 [[main]]
   name = "Events"
-  url = "#event"
+  url = "event"
   weight = 40
 
 [[main]]
   name = "Talks"
-  url = "talks/"
+  url = "talks"
   weight = 41
 
 [[main]]
