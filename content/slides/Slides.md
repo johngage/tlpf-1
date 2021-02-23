@@ -17,7 +17,7 @@ slides:
 
 [Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
 
----
+/---
 
 ## Features
 
@@ -26,7 +26,7 @@ slides:
 - Supports speaker notes
 - Mobile friendly slides
 
----
+/---
 
 ## Controls
 
@@ -40,7 +40,7 @@ slides:
 - Zoom: `Alt + Click`
 - [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
 
----
+/---
 
 ## Code Highlighting
 
@@ -53,7 +53,7 @@ if porridge == "blueberry":
     print("Eating...")
 ```
 
----
+/---
 
 ## Math
 
@@ -65,7 +65,7 @@ $$
 f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$
 
----
+/---
 
 ## Fragments
 
