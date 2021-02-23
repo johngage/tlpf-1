@@ -11,6 +11,5 @@ image:
 ---
 ### First list: Kapenguria, Tana River, Uganda Moroto
 
-\---
 
 More in South Sudan
