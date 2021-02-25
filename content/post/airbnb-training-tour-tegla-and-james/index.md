@@ -12,4 +12,6 @@ Tegla Loroupe and James Chiengjiek
 
 
 
+A tour of our Ngong Training Camp, produced by Airbnb
+
 {{< youtube ZR2D3sFBGw8 >}}
