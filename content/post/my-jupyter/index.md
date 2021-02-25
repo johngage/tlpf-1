@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Jupyter"
+title: "Preparation for the next Airbnb visit to the Olympic Refugee Team training camp in Kenya"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,9 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-```python
-2+2
-```
+To further the [Airbnb partnership with the International Olympic committee](https://www.olympic.org/news/ioc-and-airbnb-announce-major-global-olympic-partnership), the International Olympic Refugee Team Training Center in Ngong, Kenya is happy to announce preparations for the second Airbnb virtual visit, an hour-long tour of the training facility led by World Marathon champion Ambassador Tegla Loroupe and Olympians from the team who participated in the Rio Olympics.
 
 
 
