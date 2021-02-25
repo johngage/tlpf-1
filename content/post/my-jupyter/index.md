@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Preparation for the next Airbnb visit to the Olympic Refugee Team training camp in Kenya"
+title: "Lam is busy with the Preparation for the next Airbnb visit to the Olympic Refugee Team training camp in Kenya"
 subtitle: ""
 summary: ""
 authors: []
