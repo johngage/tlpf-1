@@ -31,16 +31,3 @@ To further the [Airbnb partnership with the International Olympic committee](htt
 
 
 
-
-    4
-
-
-
-### This is the second cell of my notebook
-And this is text in the cell
-> with a codeblock
-
-
-```python
-
-```
