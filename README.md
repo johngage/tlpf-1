@@ -1,4 +1,4 @@
-# Wowchemy's New Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
+# This Tegla Loroupe Peace Foundation site is built using Wowchemy's New Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
@@ -29,7 +29,7 @@ To help us develop this template and software sustainably under the MIT license,
 
 Please replace the demo images with your own.
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
+- [Tegla Loroupe](tlhome.jpg)
 - [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
 - [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
 
