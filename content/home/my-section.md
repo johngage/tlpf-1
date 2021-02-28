@@ -32,7 +32,7 @@ design:
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
-    image_position: center
+    image_position: cover
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
@@ -41,77 +41,77 @@ design:
 
 Gallery of UNHCR, IOC, Safaricom, UNICEF
 
-IOC 
+IOC
 
 
 ON RUNNING
 
 
-IAAF 
-
- 
+IAAF
 
 
-UNHCR 
 
- 
+
+UNHCR
+
+
 
 
 USAID
 
- 
+
 
 
 PACT
 
- 
+
 
 
 United Nations Development Project
 
 
-NO FINISH LINE 
+NO FINISH LINE
 
- 
+
 
 
 Kid to Kids
 
- 
+
 
 
 Sameer Group
 
- 
+
 
 
 SAFARICOM
 
 
-KENGEN 
+KENGEN
 
 
 NCCA
 
- 
+
 
 
 CFM
 
- 
 
 
-Kenya Civil Aviation Authority 
 
- 
+Kenya Civil Aviation Authority
 
 
-National Olympic Committee 
+
+
+National Olympic Committee
 
 
 JAG FOUNDATION
 
- 
+
 
 
 WADA
@@ -137,7 +137,7 @@ The Slovak Embassy-Kenya
 
 The Government of Kenya
 
- 
+
 
 
 The Australian High Commission-Kenya
@@ -146,10 +146,10 @@ The Australian High Commission-Kenya
 The French Embassy-Kenya
 
 
-The Charitable Foundation 
+The Charitable Foundation
 
 
-Kenya Airways 
+Kenya Airways
 
 
 Peace and Sports
