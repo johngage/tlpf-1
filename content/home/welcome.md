@@ -9,7 +9,7 @@ weight: 1
 title: Tegla Loroupe Peace Foundation
 subtitle: Building Peace Through Sports
 active: true
-#design:
+design:
  # columns: "1"
   background:
    # color: "#7ac6f0"
