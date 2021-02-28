@@ -19,7 +19,19 @@ content:
   offset: 0
   order: desc
 design:
-  view: 2
+  background:
+    # Name of image in `static/media/`.
+    image: tlhome.jpg
+    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    image_darken: 0.6
+    #  Options are `cover` (default), `contain`, or `actual` size.
+    image_size: cover
+    # Options include `left`, `center` (default), or `right`.
+    image_position: center
+    # Use a fun parallax-like fixed background effect on desktop? true/false
+    image_parallax: true
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
 ---
 TLPF is a charitable organization that focuses on **restoring peace and fostering economic empowerment among pastoralists**. It was established in 2003 by Tegla Loroupe, a Kenyan marathon legend and the Foundation’s President. Essentially, TLPF focuses on rebuilding social relations and developing trust among communities at war over scarce water, scarce pasture, and increasingly fragile and threatened vital resources for their herds and crops, in some of the world's most impoverished nomadic communities.
 
