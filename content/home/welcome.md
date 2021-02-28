@@ -2,7 +2,7 @@
 advanced:
   ? css_style
   ? css_class
-widget: hero
+widget: blank
 widget_id: First-seen
 headless: true
 weight: 1
@@ -18,7 +18,7 @@ design:
     image_parallax: true
     text_color_light: true
 
-#hero_media: tl.logo.png
+hero_media: tl.logo.png
 ---
 The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
 
