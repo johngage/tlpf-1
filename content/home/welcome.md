@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    color: "#7ac6f0"
+   # color: "#7ac6f0"
     image: /static/media/tlhome.jpg
 hero_media: tl.logo.png
 ---
