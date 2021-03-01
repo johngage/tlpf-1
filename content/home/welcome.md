@@ -17,7 +17,7 @@ design:
     image: tlhome.jpg
     image_darken: 0.9
     image_size: contain
-    image_position: center
+    image_position: right
     image_parallax: true
     text_color_light: true
 hero_media: tl.logo.png
