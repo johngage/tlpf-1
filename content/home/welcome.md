@@ -2,7 +2,7 @@
 advanced:
   ? css_style
   ? css_class
-widget: blank
+widget: hero
 widget_id: First-seen
 headless: true
 weight: 1
@@ -19,6 +19,9 @@ design:
     text_color_light: true
 
 hero_media: tl.logo.png
+image:
+  placement: 2
+  focal_point: "left"
 ---
 The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
 
@@ -30,3 +33,4 @@ Since 2015, hundreds of refugee athletes from South Sudan, Congo, Ethiopia, Soma
 In 2016, Ambassador Tegla Loroupe led the International Refugee Olympic team to Rio, where five of the Ngong Training Camp athletes competed.
 
 Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.
+![TL](/media/tlhome.jpg)
