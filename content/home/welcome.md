@@ -9,19 +9,18 @@ weight: 1
 title: Tegla Loroupe Peace Foundation
 subtitle: Building Peace Through Sports
 active: true
+image:
+  placement: 2
+  focal_point: right
 design:
   background:
-    image: tlhome.jpg
+    image: /static/media/tlhome.jpg
     image_darken: 0.9
     image_size: contain
     image_position: left
     image_parallax: true
     text_color_light: false
-
 hero_media: tl.logo.png
-image:
-  placement: 2
-  focal_point: "right"
 ---
 The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
 
