@@ -14,12 +14,12 @@ image:
   focal_point: right
 design:
   background:
-    image: /static/media/tlhome.jpg
+    image: tlhome.jpg
     image_darken: 0.9
     image_size: contain
     image_position: left
     image_parallax: true
-    text_color_light: false
+    text_color_light: true
 hero_media: tl.logo.png
 ---
 The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
