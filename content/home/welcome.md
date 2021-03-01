@@ -16,7 +16,7 @@ design:
   background:
     image: tlhome.jpg
     image_darken: 0.9
-    image_size: contain
+    image_size: cover
     image_position: right
     image_parallax: true
     text_color_light: true
