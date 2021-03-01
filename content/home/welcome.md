@@ -5,6 +5,7 @@ advanced:
 widget: hero
 widget_id: First-seen
 headless: true
+column: 1
 weight: 1
 title: Tegla Loroupe Peace Foundation
 subtitle: Building Peace Through Sports
