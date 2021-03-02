@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Hi, this is a description of how Gofundme will work..
+Hi, this is a description of how Gofundme will work..and bring in millions (of Ksh)
