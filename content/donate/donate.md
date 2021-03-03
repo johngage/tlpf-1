@@ -2,7 +2,6 @@
 weight: 1
 title: How you can help us
 active: true
-
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

@@ -1,13 +1,13 @@
 backend:
  name: git-gateway #get personal authenticatiom from github
  branch: main
- #  squash_merges: true
+ squash_merges: true
  #  name: github
  repo: johngage/tlpf-1
  # This file controls what content Netlify CMS can see, and edit.
  # Each "Collection" corresponds to a directory
  # in the base content directory, e.g., "home", "authors", "blog",
-media_folder: 'static/media'
+media_folder: 'assets/media'
 public_folder: '/media'
 collections:
   - name: home
@@ -561,6 +561,23 @@ collections:
   - name: contact
     label: "Contact"
     folder: 'content/contact'
+    path: '{{slug}}/index'
+    create: true
+    filter: {field: "cms_exclude"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: false
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: donate
+    label: "Contact"
+    folder: 'content/donate'
     path: '{{slug}}/index'
     create: true
     filter: {field: "cms_exclude"}
