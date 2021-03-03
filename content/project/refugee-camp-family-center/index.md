@@ -1,13 +1,15 @@
 ---
-title: Refugee Camp Family Center
+title: Kakuma Refugee Camp Family Center
 date: 2021-02-08T01:47:51.591Z
 draft: false
 featured: false
 tag: camp
-external_link: Family Camp
+external_link: https://www.unhcr.org/ke/kakuma-refugee-camp
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-All families of refugee athletes participate in the in-camp center under UNHCR auspices.
+Families of International Refugee Olympic Team athletes participate in the in-camp center under UNHCR auspices.
+
+The Tegla Loroupe Peace Foundation sponsors educational material for the family members.

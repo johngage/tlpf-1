@@ -1,13 +1,13 @@
 ---
 title: New dormitory at Kapenguria Peace Academy
-subtitle: Show drawings and cost estimates to add new three-story dormitory
+subtitle: Drawings and cost estimates to add new three-story dormitory
 date: 2021-01-26T06:39:15.719Z
 draft: false
 featured: false
 tag: school
 authors:
   - Lam Joar
-external_link: https://web.archive.org/web/20190221072505/http://teglapeacefoundation.org/
+#external_link: https://web.archive.org/web/20190221072505/http://teglapeacefoundation.org/
 links: []
 image:
   filename: featured

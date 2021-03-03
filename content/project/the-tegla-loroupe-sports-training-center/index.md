@@ -5,7 +5,7 @@ date: 2021-02-02T01:53:15.664Z
 draft: false
 featured: false
 tag: 'training'
-external_link: https://teglaloroupepeacefoundation.netlify.app/#posts
+#external_link: https://teglaloroupepeacefoundation.netlify.app/#posts
 image:
   filename: featured
   focal_point: Smart
