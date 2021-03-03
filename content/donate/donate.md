@@ -26,3 +26,4 @@ design:
 #advanced:
 #  css_class: fullscreen
 ---
+Words for donate
