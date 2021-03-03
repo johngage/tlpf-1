@@ -20,5 +20,5 @@ design:
   view: 3
   columns: "2"
   background:
-    color: "#000000"
+    color: "#068ee7"
 ---
