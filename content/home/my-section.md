@@ -8,7 +8,7 @@ subtitle: Sports for Peace
 design:
   columns: "2"
   background:
-    image: /static/media/tl.at.un.jpg
+    image: /static/media/welcome.jpg
     image_darken: 0.6
     image_size: cover
     image_position: cover
