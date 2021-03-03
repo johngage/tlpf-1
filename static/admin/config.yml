@@ -576,7 +576,7 @@ collections:
         default: false
       - {label: "Body", name: "body", widget: "markdown"}
   - name: donate
-    label: "Contact"
+    label: "Donate"
     folder: 'content/donate'
     path: '{{slug}}/index'
     create: true
