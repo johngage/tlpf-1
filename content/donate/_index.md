@@ -8,4 +8,4 @@ design:
   columns: 2
   view: 3
 ---
-new appeal
+We support three interrelated projects: the Refugee Olympic Team Training Center; a K-8 School for orphans from the conflict areas in North Kenya; and a Warrior's Training Camp, for reformed warriors who have committed to live peacefully, developing skills in farming and ranching.
