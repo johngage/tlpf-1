@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: How you can help us now
+title: Refugee Olympic Team
 active: true
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
