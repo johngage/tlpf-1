@@ -1,6 +1,5 @@
 ---
-title: Donate One
-view: 2
+title: How You Can Help Us
 header:
   caption: ""
   image: ""
