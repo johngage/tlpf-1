@@ -16,4 +16,4 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-Here is the button for Airbnb donations throug GoFundMe
+Here is the button for Airbnb donations to the Refugee Olympic Team throug GoFundMe
