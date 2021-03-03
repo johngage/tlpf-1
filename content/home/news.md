@@ -19,4 +19,6 @@ content:
 design:
   view: 3
   columns: "2"
+  background:
+    color: "#000000"
 ---
