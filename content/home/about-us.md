@@ -26,6 +26,7 @@ design:
     image_position: center
     image_parallax: true
     text_color_light: true
+    color: "#7fe01b"
 ---
 TLPF is a charitable organization that focuses on **restoring peace and fostering economic empowerment among pastoralists**. It was established in 2003 by Tegla Loroupe, a Kenyan marathon legend and the Foundation’s President. Essentially, TLPF focuses on rebuilding social relations and developing trust among communities at war over scarce water, scarce pasture, and increasingly fragile and threatened vital resources for their herds and crops, in some of the world's most impoverished nomadic communities.
 
