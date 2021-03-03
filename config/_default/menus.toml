@@ -9,6 +9,11 @@
 #  weight = 10
 
 [[main]]
+  name = "Donate"
+  url = "donate"
+  weight = 15
+  
+[[main]]
   name = "News"
   url = "post"
   weight = 19
@@ -25,7 +30,7 @@
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "project"
   weight = 31
 
 [[main]]
