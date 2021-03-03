@@ -1,6 +1,6 @@
 ---
 title: Three Areas Where You Can Help
-view: 3
+view: 2
 header:
   caption: ""
   image: ""
