@@ -12,7 +12,7 @@
   name = "Donate"
   url = "donate"
   weight = 15
-  
+
 [[main]]
   name = "News"
   url = "post"
