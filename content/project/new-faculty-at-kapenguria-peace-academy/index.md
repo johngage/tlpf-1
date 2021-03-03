@@ -4,13 +4,17 @@ date: 2021-02-08T01:53:11.145Z
 page_type: project
 draft: false
 featured: false
-external_link: External
+external_link:
 tag: school
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-The  Kapenguria Peace Academy teaches classes for orphan, refugee, and local children.  Over three hundred students attend classes.  More than half reside in dormitories at the main campus in Kapenguria.
+The  Kapenguria Peace Academy teaches orphan, refugee, and local children at a residential campus in Kapenguria, Kenya, the County Seat for West Pokot County.  Founded originally for orphans of the conflicts between tribes in North Kenya, the Academy now provides a safe school for children from conflict areas in East Africa.
 
-Forty faculty, half employed by the National Teacher Union and the National Ministry of Education, the other half employed privately, teach Forms One through Six.
+Over three hundred students ranging in age from 5 to 15 attend classes.  More than half reside in dormitories at the main campus in Kapenguria.
+
+Classes are taught by thirty faculty, half employed by the National Teacher Union and the National Ministry of Education, the other half employed privately. The school follows the Kenya National Curriculum, and teaches Forms One through Six.
+
+During the pandemic, under strict curfew laws, local students have remained home.  Due to inadequate communication bandwidth, and few households possessing computers, remote instruction has proved challenging.
