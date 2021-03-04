@@ -23,6 +23,9 @@ design:
     text_color_light: true
 hero_media: tl.logo.png
 ---
+<a id='gfm-charity-donate-link' style='background-color:#ffff99
+; color: black; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/o/en/donate-widget/29892'>Click Here To Support The Olympic Refugee Team From Your Airbnb Virtual Visit</a>
+
 The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
 
 
