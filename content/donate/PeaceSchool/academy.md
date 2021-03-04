@@ -1,5 +1,6 @@
 ---
 title: Kapenguria Peace Academy K-8 School
+weight: 2
 #image: Kap.Academy.class.2018.jpg
 date: 2021-02-08T01:53:11.145Z
 ---
