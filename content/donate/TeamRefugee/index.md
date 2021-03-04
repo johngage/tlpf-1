@@ -1,7 +1,7 @@
 ---
-weight: 8
-title: Refugee Olympic Team v2
-date: 2021-03-18T01:53:11.145Z
+title: Refugee Olympic Team Training Camp
+weight: 1
+date: 2021-03-04T01:53:11.145Z
 ---
 
 ### Thanks to Airbnb for creating the Virtual Tour of the International Olympic Refugee Training with Tegla Loroupe
@@ -10,6 +10,6 @@ date: 2021-03-18T01:53:11.145Z
 
 
 Here is a button for Airbnb donations to the Refugee Olympic Team through GoFundMe
-### Here is a view of the Kakuma Refugee Camp in Kenya, home to many of the families of the Olympic Refugee Training Camp.
+### Here is a view of the Kakuma Refugee Camp in Kenya, home to many of the families of the Olympic Refugee Training Camp athletes.
 
 {{<figure src='Kalobeyei-Setlement-Aerial-Shot-1.jpg' >}}
