@@ -8,6 +8,10 @@ The  Kapenguria Peace Academy teaches orphan, refugee, and local children at a r
 
 Over three hundred students ranging in age from 5 to 15 attend classes.  More than half reside in dormitories at the main campus in Kapenguria.
 
+Mrs Alice Cherop Plelakan, Deputy Head Teacher;
+
+Mr Wilfred Choroke Omete, Senior Teacher
+
 {{< figure src= "Kap.Academy.class.jpg" caption= "Form 6 of 2018" >}}
 
 Race Day
