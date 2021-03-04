@@ -16,3 +16,8 @@ Mr Wilfred Choroke Omete, Senior Teacher
 
 Race Day
 {{< figure src= "Kap.Academy.3boyrace.jpg" caption= "Starting Line" >}}
+
+![West Pokot County Five Year Plan](https://www.devolution.go.ke/wp-content/uploads/2020/02/Westpokot-CIDP-2018-2022.pdf)
+
+![Tegla Loroupe Peace Center Elementary School](https://teacher.ac/tegla-loroupe-education-and-peace-centre-primary-school-population-location-and-kcpe-results/)
+School ID: 147017172007
