@@ -19,6 +19,10 @@ content:
 design:
   view: 3
   columns: "2"
+  foreground:
+    text_color_light: false
   background:
     color: "#068ee7"
+    text_color_light: true
+
 ---

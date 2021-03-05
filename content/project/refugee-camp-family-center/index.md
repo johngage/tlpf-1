@@ -3,7 +3,7 @@ title: Kakuma Refugee Camp Family Center
 date: 2021-02-08T01:47:51.591Z
 draft: false
 featured: false
-tag: camp
+tag: ["camp"]
 external_link: https://www.unhcr.org/ke/kakuma-refugee-camp
 image:
   filename: featured

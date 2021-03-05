@@ -5,7 +5,8 @@ page_type: project
 draft: false
 featured: false
 external_link:
-tag: school
+tag: ["school"]
+category: ["school"]
 image:
   filename: featured
   focal_point: Smart

@@ -4,7 +4,8 @@ subtitle: Drawings and cost estimates to add new three-story dormitory
 date: 2021-01-26T06:39:15.719Z
 draft: false
 featured: false
-tag: school
+tag: ["school"]
+category: ["school"]
 authors:
   - Lam Joar
 #external_link: https://web.archive.org/web/20190221072505/http://teglapeacefoundation.org/
