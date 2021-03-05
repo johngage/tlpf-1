@@ -10,7 +10,7 @@ image:
 ---
 ![](https://web.archive.org/web/20181118164522im_/http://teglapeacefoundation.org/wp-content/uploads/2018/10/5-800x600.jpg)
 
-Tegla Loroupe Peace Foundation will have yet another opportunity to present  a refugee team in the 2020 Olympics which will be held in Tokyo Japan
+Tegla Loroupe Peace Foundation will have yet another opportunity to present athletes for the Olympic Refugee Team for the 2020 Olympics to be held in Tokyo, Japan.
 
 The International Olympic Committee President Thomas Bach has approved the participation of the Refugee Olympic team in the event.
 
@@ -18,7 +18,7 @@ The approval follows a request made by TLPF refugee Olympian Yiech Pur Biel in B
 
 Pur Biel is training at the Tegla Loroupe refugee training centre in Ngong, Kenya
 
-This will be the second time the refugee Olympic team will participate after a ten member team show cased an exemplary performance in the 2016 Olympics in Rio De Janeiro, Brazil.
+This will be the second time the Refugee Olympic team will participate after a ten member team show cased an exemplary performance in the 2016 Olympics in Rio De Janeiro, Brazil.
 
 This initiative is a continuation of IOC commitment in playing its role in addressing global refugee crisis.
 
