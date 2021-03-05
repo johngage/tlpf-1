@@ -4,7 +4,7 @@ subtitle: International Olympic Refugee Team, Ngong, Kenya
 date: 2021-02-02T01:53:15.664Z
 draft: false
 featured: false
-tag: 'training'
+tag: ["training"]
 #external_link: https://teglaloroupepeacefoundation.netlify.app/#posts
 image:
   filename: featured
