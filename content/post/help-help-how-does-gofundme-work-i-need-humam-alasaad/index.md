@@ -11,6 +11,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In a few days, Tegla will lead a video team through the Ngong Training Camp.  And the web page will let people donate to support anything they like.
+In a few days, Tegla will lead a video team through the Ngong Training Camp. That video, and these web pages will help people understand the athletes’s dream of competing in Tokyo, how their training over the past four years has affected them, and what the impact has been on their families remaining  in the refugee camps. You may donate to support them.
 
-And Lam will help move donations from Airbnb to the TLPF bank account. We will have millions of Ksh come to help build the training track and a library and a computer center for the athletes.
+Lam will help move donations from Airbnb. Donations will help build the training track and a library and a computer center for the athletes.
