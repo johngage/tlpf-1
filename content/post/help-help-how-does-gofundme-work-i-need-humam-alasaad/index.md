@@ -1,5 +1,6 @@
 ---
-title: How Lam and Tegla can edit our website tonight, from anywhere
+title: The Refugee Athletes are preparing to host you on March 18 on a tour of
+  the Training Camp
 date: 2021-02-25T19:53:32.128Z
 draft: false
 featured: false
