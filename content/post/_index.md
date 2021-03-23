@@ -11,4 +11,4 @@ Tegla Loroupe is planning for participation of the International Refugee Team in
 
 Here's a story describing the trajectory of the Olympic Refugee Team.
 
-[From Rio 2016 to Tokyo 2020](https://tokyo2020.org/en/news/the-refugee-olympic-team-rio-2016-was-for-attention-tokyo-2020-is-for-our-full-)
+### [From Rio 2016 to Tokyo 2020](https://tokyo2020.org/en/news/the-refugee-olympic-team-rio-2016-was-for-attention-tokyo-2020-is-for-our-full-)
