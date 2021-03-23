@@ -1,5 +1,7 @@
 ---
 title: Heinz Heer
+role: Founder of Sports and Development, and of Kids-to-Kids, based in Zurich,
+  Switzerland
 avatar_filename: avatar
 social: []
 superuser: false
