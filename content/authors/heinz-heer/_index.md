@@ -6,7 +6,7 @@ superuser: false
 user_groups:
   - Board
 ---
-I grew up in a Swiss Alp valley, and attendede school and college in Zurich. At age 20 I started my first Tofu factory in Switzerland. 
+I grew up in a Swiss Alp valley, and attended school and college in Zurich. At age 20 I started my first Tofu factory in Switzerland. 
 
 Sport: I ran from 1983-2003 50 Marathons under 3 hours. Currently I organize sport events in Switzerland: track meets for master athletes and school children.\
 Development: Through my contacts with Paul Tergat and Tegla Loroupe I support orphaned children in Africa.
