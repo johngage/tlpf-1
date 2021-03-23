@@ -1,5 +1,6 @@
 ---
-title: Nashaud Merali, Sameer Group
+title: Nashaud Merali
+role: Founder and Chair of Sameer Group; Chair of Sameer Foundation
 avatar_filename: avatar
 social: []
 superuser: false
