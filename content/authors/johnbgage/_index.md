@@ -48,7 +48,7 @@ bio: Founder, Chief Science Officer, Sun Microsystems
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:john.gage@teglapeace.org"  # For a direct email link, use "mailto:test@example.org".
+  link: "john.gage@teglapeace.org"  # For a direct email link, use "mailto:test@example.org".
   label: Send me an email
   display:
     footer: true
