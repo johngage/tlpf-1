@@ -12,7 +12,7 @@ subtitle: Building Peace Through Sports
 active: true
 image:
   placement: 2
-  focal_point: right
+  focal_point: topleft
 design:
   background:
     image: tlhome.jpg
