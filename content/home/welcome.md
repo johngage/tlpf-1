@@ -1,6 +1,9 @@
 ---
 advanced:
-  ? css_style
+  css_style
+    img {
+  border-radius: 50%;
+}
   ? css_class
 widget: hero
 widget_id: First-seen
