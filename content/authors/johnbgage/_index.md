@@ -39,7 +39,7 @@ education:
 # avatar_filename: https://en.wikipedia.org/wiki/File:John_Gage.jpg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Founder, Sun Microsystems
+bio: Founder, Chief Science Officer, Sun Microsystems
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -88,7 +88,7 @@ social:
 
 organizations:
   - name: Kibera Town Centre
-    url: kiberawater.com
+    url: https://kiberawater.com
 
 interests:
 - Water Quality Testing and Treatment
