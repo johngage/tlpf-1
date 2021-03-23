@@ -4,7 +4,7 @@ avatar_filename: avatar
 social: []
 superuser: false
 user_groups:
-  - board
+  - Board
 ---
 I grew up in a Swiss Alp valley, and attendede school and college in Zurich. At age 20 I started my first Tofu factory in Switzerland. 
 
