@@ -35,4 +35,3 @@ Since 2015, hundreds of refugee athletes from South Sudan, Congo, Ethiopia, Soma
 In 2016, Ambassador Tegla Loroupe led the International Refugee Olympic team to Rio, where five of the Ngong Training Camp athletes competed.
 
 Tegla Loroupe describes who we are:  an organization dedicated to athletes who compete for themselves, for their families, for their societies, and for peace, honesty and justice among all peoples.
-![TL](/media/tlhome.jpg)
