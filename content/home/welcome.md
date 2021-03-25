@@ -1,7 +1,5 @@
 ---
 advanced:
-  ? css_style
-  ? css_class
 widget: hero
 widget_id: First-seen
 headless: true
