@@ -11,10 +11,7 @@ image:
 * **UNHCR**
 * **ON RUNNING**
 * **PACT WORLD**
-* **INTERNATIONAL OLYMPIC COMITTEE**
-
-  **\
-  IOC** 
+* **INTERNATIONAL OLYMPIC COMITTEE - IOC** 
 
   ![](https://web.archive.org/web/20200812030800im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/546/assets/images/iW=1380&iH=289&oX=490&oY=0&cW=400&cH=289/777572a29e615cb69f82052861cdd83f.png)
 
