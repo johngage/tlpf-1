@@ -20,7 +20,7 @@ content:
   order: desc
 design:
   background:
-    image: tlhome.jpg
+    image: tl.at.un.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
