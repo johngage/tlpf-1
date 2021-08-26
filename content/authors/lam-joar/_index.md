@@ -1,7 +1,7 @@
 ---
 title: Lam Joar
-role: Chief of Staff
-avatar_filename: lamjoar-avatar.jpg
+role: "Athlete's Camp Coordinator & Communications "
+avatar_filename: d1635340-936f-46c6-951b-ad8f3b6bb484_1_201_a.jpeg
 bio: South Sudan
 social: []
 organizations:
