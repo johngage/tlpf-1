@@ -9,7 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-### First list: Kapenguria, Tana River, Uganda Moroto
-
+#### First list: Kapenguria, Tana River, Moroto, Uganda
 
 More in South Sudan
