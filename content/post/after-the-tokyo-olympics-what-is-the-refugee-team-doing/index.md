@@ -1,5 +1,6 @@
 ---
 title: After the Tokyo Olympics, what is the Refugee Team doing?
+subtitle: How will the Kenya Training Camp develop?
 date: 2022-08-28T00:12:10.786Z
 draft: false
 featured: false
