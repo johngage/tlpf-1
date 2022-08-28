@@ -3,10 +3,10 @@ advanced: null
 widget: Hero
 widget_id: First-seen
 headless: true
-active: true
-column: 1
 weight: 1
 title: Tegla Loroupe Peace Foundation
+active: true
+column: 1
 subtitle: Peace Through Sports
 image:
   placement: 2
@@ -25,10 +25,9 @@ hero_media: tlpf.logo.new.jpg
 
 The Tegla Loroupe Peace Foundation creates peace initiatives in East African pastoralist conflict areas.
 
-
 Since its founding in 2003 by World Champion Tegla Loroupe, thousands of athletes have trained and competed in Peace Races held in conflict areas in Kenya, in Uganda, and in other conflict areas.
 
-Since 2015, hundreds of refugee athletes from South Sudan, Congo, Ethiopia, Somalia and other countries have trained at the [Tegla Loroupe International Olympic Refugee Training Camp in Ngong, Kenya](http://bit.ly/37Y0sc3), just  to the east of Nairobi.
+Since 2015, hundreds of refugee athletes from South Sudan, Congo, Ethiopia, Somalia and other countries have trained at the [Tegla Loroupe International Olympic Refugee Training Camp in Ngong, Kenya](http://bit.ly/37Y0sc3), just  to the west of Nairobi.
 
 In 2016, Ambassador Tegla Loroupe led the International Refugee Olympic team to Rio, where five of the Ngong Training Camp athletes competed.
 
