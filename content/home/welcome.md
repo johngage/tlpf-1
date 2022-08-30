@@ -13,7 +13,7 @@ image:
   focal_point: right
 design:
   background:
-    image: ""
+    image: tlhome.jpg
     image_darken: 0.9
     image_size: cover
     image_position: left
