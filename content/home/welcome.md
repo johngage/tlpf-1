@@ -1,6 +1,6 @@
 ---
 advanced: null
-widget: hero
+widget: Page
 widget_id: First-seen
 headless: true
 active: true
