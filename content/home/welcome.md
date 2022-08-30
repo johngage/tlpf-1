@@ -1,6 +1,6 @@
 ---
 advanced: null
-widget: Page
+widget: Pages
 widget_id: First-seen
 headless: true
 active: true
