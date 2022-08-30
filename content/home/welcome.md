@@ -3,17 +3,17 @@ advanced: null
 widget: Hero
 widget_id: First-seen
 headless: true
-weight: 1
-title: Tegla Loroupe Peace Foundation
 active: true
 column: 1
+weight: 1
+title: Tegla Loroupe Peace Foundation
 subtitle: Peace Through Sports
 image:
   placement: 2
   focal_point: right
 design:
   background:
-    image: mnglrd_58.jpg
+    image: ""
     image_darken: 0.9
     image_size: cover
     image_position: left
