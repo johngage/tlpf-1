@@ -37,6 +37,7 @@ Here's the video to watch, to get the overall idea of what's needed: [Web Develo
 And, as a practical matter, this could be the beginning of a course for the athletes who want to gain skills that can get them jobs.
 
 **Here's a tiny taste of how a page is built**
+
 Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ put words here  }}. Things  inside curly brackets can be very complicated and powerful.  They're called "shortcodes".   I'll find the complete listing of them.  They combine into "widgets".
 
 Here's an  example. Put the words below inside curly brackets: {{ words }}. When you do, it will make something happen.
@@ -44,10 +45,15 @@ Here's an  example. Put the words below inside curly brackets: {{ words }}. When
 words: < figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >
 
 This shortcode is the result: {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
+<hr>
 
-{{<figure src= /assets/media/kap.race.2019.png title="KRace in /assets/media" >}}
+{{<figure src= "/assets/media/kap.race.2019.png" title="KRace in /assets/media" >}}
+<hr>
   
-{{<figure src= media/kap.race.2019.png title="KRace in media" >}}
+{{<figure src= "media/kap.race.2019.png" title="KRace in media" >}}
+  
+  <hr>
+  {{% figure src= "./gallery/boxing.jpg" title="Box in KTC" %}}
 
 
 Another  image, putting < figure library="true" src="tl.logo.png" title="A caption" > inside {{ }}
