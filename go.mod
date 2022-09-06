@@ -1,5 +1,4 @@
 module github.com/wowchemy/starter-research-group
-module my-website
 
 go 1.15
 
