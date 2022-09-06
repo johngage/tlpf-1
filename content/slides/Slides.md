@@ -1,21 +1,21 @@
 ---
-title: Slides
+title: Example Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
-tags: []
+tags: ['Tutorials']
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: '2019-02-05'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
+  # Choose a code highlighting style (see Hugo docs on Chroma)
+  #   Light style: github-light. Dark style: dracula (default).
   highlight_style: dracula
 ---
 
 # Create slides in Markdown with Wowchemy
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
 
 ---
 
@@ -38,7 +38,7 @@ slides:
 - Speaker notes: `S`
 - Fullscreen: `F`
 - Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+- [PDF Export](https://revealjs.com/pdf-export/)
 
 ---
 
@@ -47,6 +47,7 @@ slides:
 Inline code: `variable`
 
 Code block:
+
 ```python
 porridge = "blueberry"
 if porridge == "blueberry":
@@ -72,16 +73,16 @@ $$
 Make content appear incrementally
 
 ```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
+{{</* fragment */>}} $\mathbf{y} =  $ {{</* /fragment */>}}
+{{</* fragment */>}} $X\boldsymbol\beta$ {{</* /fragment */>}}
+{{</* fragment */>}} $+ \boldsymbol\varepsilon$ {{</* /fragment */>}}
 ```
 
 Press `Space` to play!
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
+{{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
+{{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
 
 ---
 
@@ -98,16 +99,20 @@ Add speaker notes to your presentation
 
 ```markdown
 {{%/* speaker_note */%}}
+
 - Only the speaker can read these notes
 - Press `S` key to view
+
 {{%/* /speaker_note */%}}
 ```
 
 Press the `S` key to view the speaker notes!
 
 {{< speaker_note >}}
+
 - Only the speaker can read these notes
 - Press `S` key to view
+
 {{< /speaker_note >}}
 
 ---
@@ -129,14 +134,14 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{< slide background-image="boards.webp" >}}
 
 ## Custom Slide
 
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
+{{</* slide background-image="boards.webp" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
@@ -161,6 +166,6 @@ Create `assets/css/reveal_custom.css` with:
 
 # Questions?
 
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
+[Ask](https://discord.gg/z8wNYzb)
 
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+[Documentation](https://wowchemy.com/docs/content/slides/)
