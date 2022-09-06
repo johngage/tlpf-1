@@ -60,6 +60,8 @@ Another  image, putting < figure library="true" src="tl.logo.png" title="A capti
 Figure 4: {{< figure library="true" src="tl.logo.png" title="A test caption for image in assets/media" >}}
 <hr>
 Direct calls to images
+
+
 ![Nature](./gallery/nature.png "Nature")
 
 ![tl.logo](/assets/media/tl.logo.png)
