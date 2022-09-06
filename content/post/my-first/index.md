@@ -9,7 +9,6 @@ date: 2021-01-30
 
 Start comment
 
-<!-- 
 
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/
 
