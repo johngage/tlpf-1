@@ -49,15 +49,19 @@ This shortcode is the result: {{< figure library="true" src="kap.race.2019.png" 
 
 Figure one: 
 
-{{< figure src= "/assets/media/kap.race.2019.png" title="KRace in /assets/media" >}}
+{{% figure src="/assets/media/kap.race.2019.png"  title="KRace in /assets/media"  %}}
+
 <hr>
   
 Figure 2: 
 
-{{< figure src= "media/kap.race.2019.png" title="KRace in media" >}}
+{{< figure src= "/assets/media/kap.race.2019.png" title="KRace in media" >}}
+
  <hr>
 Figure 3:  
+
 {{% figure src="./gallery/boxing.jpg" title="Box in KTC" %}}
+
 <hr>
 
 Another  image, putting < figure library="true" src="tl.logo.png" title="A caption" > inside {{ }}
