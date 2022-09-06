@@ -51,7 +51,7 @@ Another  image, putting < figure library="true" src="tl.logo.png" title="A capti
 
 ![Nature](./gallery/nature.png "Nature")
 
-![tl.logo](/gallery/tl.logo.png)
+![tl.logo](/assets/media/tl.logo.png)
 
 The curly brackets are the magical commands that the Wowchemy software looks for to insert images, or create a gallery of photos, or create a link to a Twitter account, or a dozen other things.
 
