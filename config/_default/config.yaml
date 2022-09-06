@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Tegla Loroupe Peace Foundation # Website name
-baseURL: 'https:/teglapeace.org/' # Website URL
+baseURL: 'https://teglaloroupepeacefoundation.netlify.app//' # Website URL
 
 ############################
 ## LANGUAGE
