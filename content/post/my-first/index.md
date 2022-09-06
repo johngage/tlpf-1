@@ -1,11 +1,11 @@
 ---
-title: "How the TLPF website is built, and how Nairobi TLPF staff build and edit
-  it: Sun"
-subtitle: What our Webmaster needs to know
+title: "How the TLPF website is built, and how Nairobi TLPF staff build and edit"
+subtitle: "What our Webmaster needs to know"
 date: 2021-01-30
-authors:
 ---
-### How the **Tegla Loroupe Peace Foundation** website is structured
+
+
+# How the **Tegla Loroupe Peace Foundation** website is structured
 
 Start comment
 
@@ -93,7 +93,9 @@ The curly brackets are the magical commands that the Wowchemy software looks for
 
 The important thing for the Wowchemy software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
 
-{{% callout note %}} Found the source code for gallery. It's either local or static/media. Here's location. https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/wowchemy/layouts/shortcodes/gallery.html There's a second one: {{% /callout %}}
+{{% callout note %}} 
+
+Found the source code for gallery. It's either local or static/media. Here's location. https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/wowchemy/layouts/shortcodes/gallery.html There's a second one: {{% /callout %}}
 
 Here's an  illustration of the local "gallery" shortcode.  Images  are not the same size.
 
