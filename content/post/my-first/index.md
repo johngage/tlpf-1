@@ -47,18 +47,19 @@ words: < figure library="true" src="kap.race.2019.png" title="Kapenguria Peace R
 This shortcode is the result: {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
 <hr>
 
-{{<figure src= "/assets/media/kap.race.2019.png" title="KRace in /assets/media" >}}
+Figure one: {{< figure src= "/assets/media/kap.race.2019.png" title="KRace in /assets/media" >}}
 <hr>
   
-{{<figure src= "media/kap.race.2019.png" title="KRace in media" >}}
+Figure 2: {{< figure src= "media/kap.race.2019.png" title="KRace in media" >}}
  <hr>
-  {{% figure src="gallery/boxing.jpg" title="Box in KTC" %}}
+Figure 3:  {{% figure src="./gallery/boxing.jpg" title="Box in KTC" %}}
 <hr>
 
 Another  image, putting < figure library="true" src="tl.logo.png" title="A caption" > inside {{ }}
 
-{{< figure library="true" src="tl.logo.png" title="A test caption for image in assets/media" >}}
+Figure 4: {{< figure library="true" src="tl.logo.png" title="A test caption for image in assets/media" >}}
 <hr>
+Direct calls to images
 ![Nature](./gallery/nature.png "Nature")
 
 ![tl.logo](/assets/media/tl.logo.png)
