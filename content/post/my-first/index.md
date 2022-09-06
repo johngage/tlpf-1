@@ -37,7 +37,7 @@ Here's the video to watch, to get the overall idea of what's needed: [Web Develo
 And, as a practical matter, this could be the beginning of a course for the athletes who want to gain skills that can get them jobs.
 
 **Here's a tiny taste of how a page is built**
-
+<!-- 
 Write text in the text field for a page.  When you want to insert an image, put in this line, making the appropriate changes to the words inside the double curly brackets: {{ put words here  }}. Things  inside curly brackets can be very complicated and powerful.  They're called "shortcodes".   I'll find the complete listing of them.  They combine into "widgets".
 
 Here's an  example. Put the words below inside curly brackets: {{ words }}. When you do, it will make something happen.
@@ -59,6 +59,8 @@ The curly brackets are the magical commands that the Wowchemy software looks for
 {{< figure src="boxing.jpg" title="In folder" >}}
 
 {{< figure src="./gallery/china-podium.jpg" title="In subfolder" >}}
+
+-->
 
 ##### How are images displayed?
 
