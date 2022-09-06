@@ -44,7 +44,12 @@ Here's an  example. Put the words below inside curly brackets: {{ words }}. When
 
 words: < figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >
 
-This shortcode is the result: {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
+This shortcode is the result: 
+<hr>
+
+{{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
+
+
 <hr>
 
 Figure one: 
@@ -94,7 +99,12 @@ The important thing for the Wowchemy software to know is exactly where the image
 
 {{% callout note %}} 
 
-Found the source code for gallery. It's either local or static/media. Here's location. https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/wowchemy/layouts/shortcodes/gallery.html There's a second one: {{% /callout %}}
+Found the source code for gallery. It's either local or static/media. Here's location.
+
+https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/wowchemy/layouts/shortcodes/gallery.html There's a second one: 
+
+
+{{% /callout %}}
 
 Here's an  illustration of the local "gallery" shortcode.  Images  are not the same size.
 
@@ -102,7 +112,11 @@ This document is in content/post/my-first/index.md . As a "leaf bundle", used in
 
 gallery does not work with _index.md
 
+<!-- 
+
 [comment] # ( {{< gallery >}} )
+
+-->
 
 There is a directory "gallery" with six  images:  asia.group.jpg, boxing.jpg, and china-podium.jpg, and latimes, nature, and science.  The same three  are inside my-first directory at the same level as index.md.  How to show them  as a gallery?
 
