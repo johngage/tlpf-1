@@ -45,6 +45,11 @@ words: < figure library="true" src="kap.race.2019.png" title="Kapenguria Peace R
 
 This shortcode is the result: {{< figure library="true" src="kap.race.2019.png" title="Kapenguria Peace Race 2018" >}}
 
+{{<figure src= /assets/media/kap.race.2019.png title="KRace in /assets/media" >}}
+  
+{{<figure src= media/kap.race.2019.png title="KRace in media" >}}
+
+
 Another  image, putting < figure library="true" src="tl.logo.png" title="A caption" > inside {{ }}
 
 {{< figure library="true" src="tl.logo.png" title="A test caption for image in assets/media" >}}
