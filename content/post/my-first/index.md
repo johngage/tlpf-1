@@ -51,15 +51,14 @@ This shortcode is the result: {{< figure library="true" src="kap.race.2019.png" 
 <hr>
   
 {{<figure src= "media/kap.race.2019.png" title="KRace in media" >}}
-  
-  <hr>
-  {{% figure src= "./gallery/boxing.jpg" title="Box in KTC" %}}
-
+ <hr>
+  {{% figure src="gallery/boxing.jpg" title="Box in KTC" %}}
+<hr>
 
 Another  image, putting < figure library="true" src="tl.logo.png" title="A caption" > inside {{ }}
 
 {{< figure library="true" src="tl.logo.png" title="A test caption for image in assets/media" >}}
-
+<hr>
 ![Nature](./gallery/nature.png "Nature")
 
 ![tl.logo](/assets/media/tl.logo.png)
