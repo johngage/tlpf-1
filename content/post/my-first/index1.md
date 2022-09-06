@@ -128,7 +128,7 @@ Now, try this--find images in leaf folder.
 
 Since the front material is the  same, it's either one way or the other way. they do not coexist.
 
-{{% callout note %}} If you are not familiar with the International System of Units (SI) I recommend you to check out this page of the Bureau International des Poids et Mesures (BIPM). {{% /callout %}}
+{{% callout note %}} If you are not familiar with the International System of Units (SI) I recommend you to check out this page of the Bureau International des Poids et Mesures (BIPM). {{%  /callout  %}}
 
 end comment
 
