@@ -10,6 +10,10 @@ image:
 ---
 ### How the **Tegla Loroupe Peace Foundation** website is structured
 
+Start comment
+
+<!-- 
+
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/
 
 To access the editor, you log in to **Netlify**.  We'll set that up.
@@ -113,3 +117,7 @@ Now, try this--find images in leaf folder.
 Since the front material is the  same, it's either one way or the other way. they do not coexist.
 
 {{% callout note %}} If you are not familiar with the International System of Units (SI) I recommend you to check out this page of the Bureau International des Poids et Mesures (BIPM). {{% /callout %}}
+
+end comment
+
+-->
