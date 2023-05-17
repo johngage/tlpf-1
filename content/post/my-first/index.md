@@ -3,6 +3,7 @@ title: "How the TLPF website is built, and how Nairobi TLPF staff build and edit
 subtitle: "What our Webmaster needs to know"
 date: 2021-01-30
 ---
+<!-- Comment 17May23
 
 
 # How the **Tegla Loroupe Peace Foundation** website is structured
@@ -25,7 +26,6 @@ Each time we create a new post, for example, the CMS system creates a new folder
 **Wowchemy** sometimes refers to the online editing system as "*Wowchemy CMS*", because they designed the structure, the arrangement of directories and folders that hold the content, and the software tools to create the web pages.
 
 #### Here's the overall plan:
-<!-- Comment 17May23
 
 1. Editing content interacts with the pages visible in the *NetlifyCMS*.
 2. As content is added or changed, *NetlifyCMS* keeps track. Finally, when you are ready to "Publish", you click on the "Publish" button, and *NetlifyCMS* gathers everything together, and moves it to where is is permanently stored.
