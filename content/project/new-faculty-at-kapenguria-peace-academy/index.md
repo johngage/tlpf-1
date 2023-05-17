@@ -1,5 +1,5 @@
 ---
-title: New faculty at Kapenguria Peace Academy
+title: May 20223 Holidays at Kapenguria Peace Academy
 date: 2021-02-08T01:53:11.145Z
 page_type: project
 draft: false
