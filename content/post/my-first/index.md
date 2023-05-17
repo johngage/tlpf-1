@@ -77,6 +77,7 @@ Figure 4:
 
 <hr>
 Direct calls to images
+<!-- Comment 17May23
 
 
 ![Nature](./gallery/nature.png "Nature")
@@ -96,7 +97,6 @@ The curly brackets are the magical commands that the Wowchemy software looks for
 ##### How are images displayed?
 
 The important thing for the Wowchemy software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
-<!-- 
 {{% callout note %}} 
 
 Found the source code for gallery. It's either local or static/media. Here's location.
