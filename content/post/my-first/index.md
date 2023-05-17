@@ -25,6 +25,7 @@ Each time we create a new post, for example, the CMS system creates a new folder
 **Wowchemy** sometimes refers to the online editing system as "*Wowchemy CMS*", because they designed the structure, the arrangement of directories and folders that hold the content, and the software tools to create the web pages.
 
 #### Here's the overall plan:
+<!-- Comment 17May23
 
 1. Editing content interacts with the pages visible in the *NetlifyCMS*.
 2. As content is added or changed, *NetlifyCMS* keeps track. Finally, when you are ready to "Publish", you click on the "Publish" button, and *NetlifyCMS* gathers everything together, and moves it to where is is permanently stored.
@@ -77,7 +78,6 @@ Figure 4:
 
 <hr>
 Direct calls to images
-<!-- Comment 17May23
 
 
 ![Nature](./gallery/nature.png "Nature")
@@ -115,7 +115,6 @@ gallery does not work with _index.md
 
 [comment] # ( {{< gallery >}} )
 
--->
 
 There is a directory "gallery" with six  images:  asia.group.jpg, boxing.jpg, and china-podium.jpg, and latimes, nature, and science.  The same three  are inside my-first directory at the same level as index.md.  How to show them  as a gallery?
 
