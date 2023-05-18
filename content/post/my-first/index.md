@@ -3,12 +3,10 @@ title: "How the TLPF website is built, and how Nairobi TLPF staff build and edit
 subtitle: "What our Webmaster needs to know"
 date: 2021-01-30
 ---
-<!-- Comment 17May23
 
 
 # How the **Tegla Loroupe Peace Foundation** website is structured
 
-Start comment
 
 
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/
@@ -130,4 +128,3 @@ Since the front material is the  same, it's either one way or the other way. the
 
 end comment
 
--->

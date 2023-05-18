@@ -89,8 +89,8 @@ show_related = {post = true, project = true, publication = true, talk = true, bo
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lamjoar@gmail.com"
-phone = "+254 77777777"
+email = "brianwekesa99@gmail.com"
+phone = "+254 701286055"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -286,3 +286,6 @@ plugins_js  = []
 ################
 [breadcrumb]
   page_types = {book = true}
+##############
+[security.funcs]
+getenv = ["WC_POST_CSS"]

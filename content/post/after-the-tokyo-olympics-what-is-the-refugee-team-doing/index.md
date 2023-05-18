@@ -10,6 +10,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-As of August 29, the Kenyan elections are in a process of clarification. The outcome, whichever Presidential candidiate wins, will provide the Tegla Loroupe Refugee Training Camp in Karen with support of the Kenyan government.
+The Tegla Loroupe Refugee Training Camp in Karen benefits from the support of the Kenyan government.
 
 Tegla Loroupe served on the National Peace and Reconciliation Committee during the August 9, 2022 election, working to ensure the election was peaceful, and observing and reporting on how the election was managed.

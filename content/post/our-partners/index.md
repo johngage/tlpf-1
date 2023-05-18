@@ -7,19 +7,18 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
 ---
-* **UNHCR**
-* **ON RUNNING**
-* **PACT WORLD**
-* **INTERNATIONAL OLYMPIC COMITTEE - IOC** 
+
+
+- **UNHCR**
+- **ON RUNNING**
+- **PACT WORLD**
+- **INTERNATIONAL OLYMPIC COMITTEE - IOC** 
 
   ![](https://web.archive.org/web/20200812030800im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/546/assets/images/iW=1380&iH=289&oX=490&oY=0&cW=400&cH=289/777572a29e615cb69f82052861cdd83f.png)
 
   **ON RUNNING**
-
-  ![]()
-
-
 
   ![](https://web.archive.org/web/20200812030800im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/546/assets/images/iW=1356&iH=284&oX=478&oY=0&cW=400&cH=284/931b5f90b7d2aa75f9a45ca9cadf0abb.png)
 
@@ -126,7 +125,7 @@ image:
   ![](https://web.archive.org/web/20200812030800im_/http://teglapeacefoundation.org/wp-content/uploads/brizy/546/assets/images/iW=560&iH=287&oX=91&oY=0&cW=400&cH=287/827e3e6f7aadf03f34829e60685b039b.jpg)
 
   **Peace and Sports**
-* #### **Old Address**
+  **Old Address**
 
   Name: Tegla Loroupe Peace Foundation
 

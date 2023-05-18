@@ -7,5 +7,5 @@ image:
   filename: kap.race.2019.png
 ---
 
-Plans for 2021 Kapenguria Peace Race Are Underway. Past sponsors are Safaricom, International Olympic Committee, United Nations High Commissioner for Human Rights, Sameer Group, and many more.
+Plans for 2021 Kapenguria Peace Race Are underway. Past sponsors are Safaricom, International Olympic Committee, United Nations High Commissioner for Human Rights, Sameer Group, and many more.
 <!--more-->

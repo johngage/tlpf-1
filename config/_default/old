@@ -69,8 +69,12 @@ related:
   indices:
     - name: tags
       weight: 80
-    - name: categories
+    - name: categorieshug
       weight: 70
+security:
+  funcs:
+    getenv:
+      allow: ["WC_POST_CSS"]
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
