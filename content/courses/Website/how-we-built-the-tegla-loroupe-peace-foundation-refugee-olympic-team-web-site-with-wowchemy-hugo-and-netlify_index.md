@@ -31,8 +31,6 @@ diagram: true
 ---
 # How the Tegla Loroupe Peace Foundation website was rebuilt in February, 2021
 
-{{< toc >}}
-
 
   ```mermaid
   graph TD;
