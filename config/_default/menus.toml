@@ -18,10 +18,10 @@
   url = "post"
   weight = 19
 
-#[[main]]
-#  name = "Blog"
-#  url = "blog"
-#  weight = 20
+[[main]]
+  name = "Blog"
+  url = "blog"
+  weight = 20
 
 #[[main]]
 #  name = "People"
