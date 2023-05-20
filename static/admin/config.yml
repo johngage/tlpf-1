@@ -7,8 +7,8 @@ backend:
  # This file controls what content Netlify CMS can see, and edit.
  # Each "Collection" corresponds to a directory
  # in the base content directory, e.g., "home", "authors", "blog",
-media_folder: 'assets/media'
-public_folder: '/media'
+media_folder: 'static/images/uploads' #may23
+public_folder: '/images/uploads' #may23
 collections:
   - name: home
     label: "Homepage Elements"

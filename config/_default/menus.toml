@@ -48,10 +48,10 @@
 #  url = "publications/"
 #  weight = 50
 
-#[[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 60
+[[main]]
+  name = "Courses"
+  url = "courses/"
+  weight = 60
 
 
 [[main]]
