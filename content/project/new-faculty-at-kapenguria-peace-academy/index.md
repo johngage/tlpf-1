@@ -1,16 +1,19 @@
 ---
-title: May 20223 Holidays at Kapenguria Peace Academy
-date: 2021-02-08T01:53:11.145Z
-page_type: project
 draft: false
+page_type: project
+title: "May 2023: Holidays at Kapenguria Peace Academy"
+subtitle: During the pandemic, we closed the campus; we are reopening
+date: 2021-02-08T01:53:11.145Z
 featured: false
-external_link:
-tag: ["school"]
-category: ["school"]
+external_link: null
+tag:
+  - school
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+category:
+  - school
 ---
 The  Kapenguria Peace Academy teaches orphan, refugee, and local children at a residential campus in Kapenguria, Kenya, the County Seat for West Pokot County.  Founded originally for orphans of the conflicts between tribes in North Kenya, the Academy now provides a safe school for children from conflict areas in East Africa.
 
