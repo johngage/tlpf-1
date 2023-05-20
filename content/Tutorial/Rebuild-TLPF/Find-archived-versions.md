@@ -6,4 +6,4 @@ type: book
 ---
 
 
-### Wayback Machine
+### Wayback Machine was essential to find older versions of the Tegla Loroupe Peace Foundation website

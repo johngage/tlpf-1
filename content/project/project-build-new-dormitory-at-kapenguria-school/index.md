@@ -8,18 +8,23 @@ tag: ["school"]
 category: ["school"]
 authors:
   - Lam Joar
-#external_link: https://web.archive.org/web/20190221072505/http://teglapeacefoundation.org/
+external_link: https://web.archive.org/web/20190221072505/http://teglapeacefoundation.org/
 links: []
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-### 2021 State of the School
+### 2023 State of the School
 
 * Original design
 
-  Show plan, model, drawings
-* Italian kitchen
-* First dormitory
-* Second dormitory
+  - Show plan, model, drawings now in Lavington office
+
+* Italian kitchen: describe the process of building the new building, and the links to the Italian volunteers who came to Kapenguria
+
+* First dormitory construction:
+
+* Second dormitory construction:
+
+### Gardens that feed the school

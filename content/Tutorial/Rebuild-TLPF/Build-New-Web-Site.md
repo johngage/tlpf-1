@@ -13,4 +13,4 @@ type: book
 4. Get Static Site Builder: Hugo, through Wowchemy
 5. Get Github account
 6. Get git support
-7. Get local editor: Atom
+7. Get local editor: VSCodium
