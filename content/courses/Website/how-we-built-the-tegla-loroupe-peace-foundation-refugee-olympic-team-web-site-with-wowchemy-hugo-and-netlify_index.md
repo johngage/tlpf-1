@@ -36,7 +36,9 @@ graph LR;
     A-->B;
     B-->C;
     C-->A;
+{{< mermaid >}}
 
+```mermaid
 graph TD;
   subgraph Local Computer
     Local-Computer -->|Push| Github
@@ -54,8 +56,7 @@ graph TD;
     Netlify -->|Deploy| Rendered-Into-Final-HTML-Sent-To-Netlify
     NetlifyCMS -->|Edit| GithubEditor
   end
-{{< mermaid >}}
-
+```
 ## Quick Overview
 
 The **Tegla Loroupe Peace Foundation** website is now built with content created with **Hugo** components, brought together in **Wowchemy** templates. All content is stored on **Github.** This content is published by **Netlify. Netlify** uses, or will soon use, the ***teglapeace.org*** domain name purchased from **Cheapnames.**
