@@ -31,19 +31,25 @@ diagram: true
 ---
 # How the Tegla Loroupe Peace Foundation website was rebuilt in February, 2021
 
+```mermaid
+  graph TD;
+  subgraph Local Computer
+    Local-Computer -->|Push| Github
+    LocalAtomEditor -->|Edit| GithubEditor
+    All-Content-On-Local-Computer -->|Sync| Mediated-and-Synchronized-By-Git
+  end
 
-  ```mermaid
-    graph TD;
-    Local-Computer -->Github;
-    Github-->Netlify;
-    LocalAtomEditor-->GithubEditor;
-    GithubEditor-->LocalAtomEditor;
-    GithubEditor-->NetlifyCMS;
-    NetlifyCMS-->GithubEditor;
-    All-Content-On-Local-Computer-->Mediated-and-Synchronized-By-Git;
-    Mediated-and-Synchronized-By-Git-->All-Content-on-Github;
-    All-Content-on-Github-->Rendered-Into-Final-HTML-Sent-To-Netlify;
-  ```
+  subgraph GitHub
+    Github -->|Trigger Build| Netlify
+    GithubEditor -->|Edit| LocalAtomEditor
+    All-Content-on-Github -->|Trigger Build| Rendered-Into-Final-HTML-Sent-To-Netlify
+  end
+
+  subgraph Netlify
+    Netlify -->|Deploy| Rendered-Into-Final-HTML-Sent-To-Netlify
+    NetlifyCMS -->|Edit| GithubEditor
+  end
+```
 
 ## Quick Overview
 
