@@ -34,3 +34,17 @@ Separately, I downloaded an Academic site to my computer; installed Hugo, and ex
 
 There are occasional NetlifyCMS access errors. Fix them by looking at the config /_default/config.toml file to be sure the branch is "main". Then, go to the Netlify dashboard, find the Identity section, and update the Git Gateway token.
 Git Gateway Error: Please ask your site administrator to reissue the Git Gateway token.
+
+In Swahili:
+Ratiba ya kwanza ya kujenga tovuti ya Netlify iliyotumia Wowchemy kuunda repositori ya Github na kuilenga kwenye Netlify. Halafu, kwa kusanidi mhariri wa Netlify CMS, kujenga faili ya config.yml kwenye tovuti ya Github ili kuruhusu mhariri wa Netlify CMS kuona yaliyomo yote ya kitaaluma kwenye tovuti ya Github.
+
+Lakini faili hiyo ilikosekana.
+
+Kwa hivyo, niliipakua kutoka kwenye tovuti ya Github ya Wowchemy ambayo inaonyesha mfano wa tovuti. Ghafla, niliweza kuona ukurasa wa nyumbani, kuona waandishi, kuona watu. Faili ya YML ina sehemu zinazohusiana na kila saraka ya yaliyomo ndani ya saraka ya yaliyomo ndani ya repositori iliyopangiliwa na Wowchemy kwenye Github. Bila sehemu hiyo, CMS haiwezi kuona yaliyomo. Niliongeza sehemu katika faili ya config.yml kwa blogu, vitabu, n.k.
+
+Sasa ni kuongeza picha mpya kwenye kurasa zilizopo.
+
+Kando na hayo, nilipakua tovuti ya Academic kwenye kompyuta yangu; nikainstalli Hugo na kutekeleza "hugo server", ambayo iliumba tovuti na kuionyesha kwenye ukurasa wa wavuti kwa "localhost:49840". Inaonyesha ukurasa wa 2019, kwa hivyo ninatarajia faili yake ya config.yml kuwa ya zamani.
+
+Kuna makosa ya mara kwa mara ya ufikiaji wa Netlify CMS. Kuyatatua kwa kutazama faili ya config /_default/config.toml ili kuhakikisha tawi ni "main". Kisha, nenda kwenye jopo la Netlify, tafuta sehemu ya Utambulisho, na sasisha kitufe cha Git Gateway.
+Kosa la Git Gateway: Tafadhali mwombe msimamizi wako wa tovuti atoe upya kitufe cha Git Gateway.
