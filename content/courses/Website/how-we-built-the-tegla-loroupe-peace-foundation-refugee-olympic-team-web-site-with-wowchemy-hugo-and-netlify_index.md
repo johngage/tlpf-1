@@ -33,7 +33,7 @@ diagram: true
 
 
   ```mermaid
-  graph TD;
+    graph TD;
     Local-Computer -->Github;
     Github-->Netlify;
     LocalAtomEditor-->GithubEditor;
