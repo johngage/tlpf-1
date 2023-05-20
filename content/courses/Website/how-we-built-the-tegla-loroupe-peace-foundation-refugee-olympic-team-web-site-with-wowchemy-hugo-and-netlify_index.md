@@ -30,6 +30,8 @@ draft: false
 diagram: true
 ---
 # How the Tegla Loroupe Peace Foundation website was rebuilt in February, 2021
+```mermaid
+
 
 {{< mermaid >}}
 graph LR;
@@ -38,7 +40,6 @@ graph LR;
     C-->A;
 {{< mermaid >}}
 
-```mermaid
 graph TD;
   subgraph Local Computer
     Local-Computer -->|Push| Github
