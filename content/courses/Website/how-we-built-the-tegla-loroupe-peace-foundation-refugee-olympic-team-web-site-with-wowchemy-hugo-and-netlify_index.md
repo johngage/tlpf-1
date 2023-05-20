@@ -37,10 +37,9 @@ graph LR;
     B-->C;
     C-->A;
 {{< /mermaid >}}
-<hr>
 
 {{< mermaid >}}
-  graph TD;
+graph TD;
   subgraph Local Computer
     Local-Computer -->|Push| Github
     LocalAtomEditor -->|Edit| GithubEditor
