@@ -36,9 +36,7 @@ graph LR;
     A-->B;
     B-->C;
     C-->A;
-{{< /mermaid >}}
 
-{{< mermaid >}}
 graph TD;
   subgraph Local Computer
     Local-Computer -->|Push| Github
