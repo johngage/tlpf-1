@@ -1,7 +1,7 @@
 ---
-title: 📊 Learn Data Science
+title: 📊 Learn Data Science and Generative AI
 linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: "ChatGPT has ushered in a new world. We will use these tools to make Kapenguria a center of Kenyan innovation"
 date: '2021-01-24'
 type: book
 toc: true
@@ -12,16 +12,18 @@ toc: true
 {{< toc hide_on="xl" >}}
 
 ## What you will learn
-
+- How to use GPT-4, ChatGPT, and the new large language models to recreate education and engineering
+- How the old curriculum for IT and computing is completely out of date; how you can use GPT-4 to program for you
 - Fundamental {{<hl>}}Python programming skills{{</hl>}}
 - {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
 - Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
+The demand for skilled data science practitioners is rapidly growing. Now, with generative AI languge models, you can go much farther, much faster.
 ## Courses in this program
+- Creating intelligent queries in GPT-4
+- Writing all new materials in Swahili, English, French, Pokot, Nandi, and Marakwet
 
 {{< list_children >}}
 
