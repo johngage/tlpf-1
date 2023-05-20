@@ -31,7 +31,15 @@ diagram: true
 ---
 # How the Tegla Loroupe Peace Foundation website was rebuilt in February, 2021
 
-```mermaid
+{{< mermaid >}}
+graph LR;
+    A-->B;
+    B-->C;
+    C-->A;
+{{< /mermaid >}}
+<hr>
+
+{{< mermaid >}}
   graph TD;
   subgraph Local Computer
     Local-Computer -->|Push| Github
@@ -49,7 +57,7 @@ diagram: true
     Netlify -->|Deploy| Rendered-Into-Final-HTML-Sent-To-Netlify
     NetlifyCMS -->|Edit| GithubEditor
   end
-```
+{{< mermaid >}}
 
 ## Quick Overview
 

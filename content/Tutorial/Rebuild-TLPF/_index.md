@@ -1,5 +1,5 @@
 ---
-title: 📊 Course 1: Data Science and Generative AI
+title: 📊 Course 1- Data Science and Generative AI
 linkTitle: Data Science
 summary: "ChatGPT has ushered in a new world. We will use these tools to make Kapenguria a center of Kenyan innovation"
 date: '2021-01-24'
