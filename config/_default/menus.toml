@@ -3,40 +3,51 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-#[[main]]
-#  name = "Home"
-#  url = "/"
-#  weight = 10
-
 [[main]]
-  name = "Donations"
-  url = "donate"
-  weight = 15
+  name = "Home"
+  url = "/"
+  weight = 10
 
-[[main]]
-  name = "News"
-  url = "post"
-  weight = 19
-
-[[main]]
-  name = "Blog"
-  url = "blog"
+  [[main]]
+  name = "About Us"
+  url = "/"
   weight = 20
+
+  [[main]]
+  name = "Projects"
+  url = "project"
+  weight = 30
+
+[[main]]
+  name = "Media Center"
+  url = "post"
+  weight = 40
+
+  [[main]]
+  name = "Support/Join Us"
+  url = "donate"
+  weight = 50
+
+[[main]]
+  name = "Contact Us"
+  url = "contact"
+  weight = 60
+
+# [[main]]
+#  name = "Blog"
+#  url = "blog"
+#  weight = 20
 
 #[[main]]
 #  name = "People"
 #  url = "people"
 #  weight = 30
 
-[[main]]
-  name = "Projects"
-  url = "project"
-  weight = 31
 
-[[main]]
-  name = "Events"
-  url = "event"
-  weight = 40
+#[[main]]
+#  name = "Events"
+# url = "event"
+# weight = 40
 
 #[[main]]
 #  name = "Talks"
@@ -51,13 +62,8 @@
 [[main]]
   name = "Courses"
   url = "courses/"
-  weight = 60
-
-
-[[main]]
-  name = "Contact"
-  url = "contact"
   weight = 70
+
 
 #[[main]]
 #  name = "Slides"
@@ -67,7 +73,7 @@
 [[main]]
     name = "Tutorial"
     url = "Tutorial"
-    weight = 90
+    weight = 80
 
 
   # Link to a PDF of your resume/CV from the menu.
