@@ -7,6 +7,23 @@
   name = "Home"
   url = "/"
   weight = 10
+  
+  name = "Brief About Us" 
+  identifier = "Brief"
+  weight = 20
+
+  name = "Current Projects"
+  identifier = "Projects"
+  weight = 10
+
+  name = "Success Stories Highlights"
+  identifier = "Projects" 
+  weight = 10
+
+  name = "Partners"
+  identifier = "Partners"
+  weight = 10
+
 
   [[main]]
   name = "About Us"
