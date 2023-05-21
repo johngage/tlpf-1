@@ -9,19 +9,19 @@
   weight = 10
   
   name = "Brief About Us" 
-  identifier = "Brief"
+  identifier = "about-us"
   weight = 20
 
   name = "Current Projects"
-  identifier = "Projects"
+  identifier = "projects"
   weight = 10
 
   name = "Success Stories Highlights"
-  identifier = "Projects" 
+  identifier = "projects" 
   weight = 10
 
   name = "Partners"
-  identifier = "Partners"
+  identifier = "our-partners"
   weight = 10
 
 
