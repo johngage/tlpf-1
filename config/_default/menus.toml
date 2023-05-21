@@ -7,11 +7,6 @@
   url = "/"
   weight = 10
   
-  name = "Brief About Us" 
-  identifier = "post/my-first"
-  weight = 20
-
-
   [[main]]
   name = "About Us"
   url = "/about-us"
@@ -64,7 +59,7 @@
 #  weight = 50
 
 [[main_right]]
-  name = "Courses-"
+  name = "Courses"
   url = "courses/"
   weight = 70
 
