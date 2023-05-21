@@ -9,12 +9,12 @@
   
   [[main]]
   name = "About Us"
-  url = "home/about-us"
+  url = "about-us"
   weight = 20
 
   [[main]]
   name = "Projects"
-  url = "home/projects"
+  url = "projects"
   weight = 30
 
 [[main]]
