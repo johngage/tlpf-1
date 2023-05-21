@@ -8,20 +8,8 @@
   weight = 10
   
   name = "Brief About Us" 
-  identifier = "about-us"
+  identifier = "post/my-first"
   weight = 20
-
-  name = "Current Projects"
-  identifier = "projects"
-  weight = 10
-
-  name = "Success Stories Highlights"
-  identifier = "projects" 
-  weight = 10
-
-  name = "Partners"
-  identifier = "our-partners"
-  weight = 10
 
 
   [[main]]
