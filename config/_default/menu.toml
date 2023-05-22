@@ -1,4 +1,5 @@
-  [[main]]
+  [[menu]]
+  [[menu.main]]
     name = "Home"
 
     url = "/"
