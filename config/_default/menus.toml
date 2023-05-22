@@ -8,13 +8,13 @@
   url = "/"
   weight = 10
 
-  name = "Posts"
-  identifier = post
+  name = "Blogs"
+  identifier = blog
   weight= 20
   
   name = "Partners"
-  parent = post
-  url = post/our-partners
+  parent = blog
+  url = blog/_index
   weight = 10
   
   [[menu.main]]
