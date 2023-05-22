@@ -7,13 +7,23 @@
   name = "Home"
   url = "/"
   weight = 10
+[[menu.main]]
+  name = "Tags"
+  identifier = "tags"
+  weight = 20
 
-  [[menu.main]]
+[[menu.main]]
+  name = "Academic"
+  parent = "tags"
+  url = "tags/academic/"
+  weight = 10
+
+[[menu.main]]
   name = "About Us"
   url = "#about-us"
   weight = 20
 
-  [[menu.main]]
+[[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 30
@@ -23,7 +33,7 @@
   url = "post"
   weight = 40
 
-  [[menu.main]]
+[[menu.main]]
   name = "Support/Join Us"
   url = "donate"
   weight = 50
