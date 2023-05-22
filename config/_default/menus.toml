@@ -2,32 +2,33 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-[[main]]
+[[menu]]
+[[menu.main]]
   name = "Home"
   url = "/"
   weight = 10
   
-  [[main]]
+  [[menu.main]]
   name = "About Us"
   url = "#about-us"
   weight = 20
 
-  [[main]]
+  [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 30
 
-[[main]]
+[[menu.main]]
   name = "Media Center"
   url = "post"
   weight = 40
 
-  [[main]]
+  [[menu.main]]
   name = "Support/Join Us"
   url = "donate"
   weight = 50
 
-[[main]]
+[[menu.main]]
   name = "Contact Us"
   url = "contact"
   weight = 60
@@ -58,18 +59,18 @@
 #  url = "publications/"
 #  weight = 50
 
-[[main_right]]
+[[menu.main_right]]
   name = "Courses"
   url = "courses/"
   weight = 70
 
 
-#[[main]]
+#[[menu.main]]
 #  name = "Slides"
 #  url = "slides/slides"
 #  weight = 80
 
-[[main_right]]
+[[menu.main_right]]
     name = "Tutorial"
     url = "Tutorial"
     weight = 80
