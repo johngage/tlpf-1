@@ -13,19 +13,19 @@
   [[main]] 
     name = "Current Projects"
     identifier = "currentprojects"
-    parent = "home/briefabout"
+    parent = "home"
     url = "tags/academic/"
     weight = 12
   [[main]] 
     name = "Success Highlights"
     identifier = "success"
-    parent = "home/briefabout"
+    parent = "home"
     url = "tags/academic/"
     weight = 13
   [[main]] 
     name = "Partners"
     identifier = "partners"
-    parent = "home/briefabout"
+    parent = "home"
     url = "tags/academic/"
     weight = 14
   [[main]]
@@ -140,14 +140,14 @@
       url = "donate"
       weight = 50
   [[main]] 
-    name = "Current Project Highlights"
-    identifier = "currenthighlights"
-    parent = "support"
-    url = "tags/academic/"
-    weight = 51
+      name = "Current Project Highlights"
+      identifier = "currenthighlights"
+      parent = "support"
+      url = "tags/academic/"
+      weight = 51
   [[main]] 
     name = "Payment Details"
-    identifier = "currenthighlights"
+    identifier = "paymentdetails"
     parent = "support"
     url = "tags/academic/"
     weight = 52
