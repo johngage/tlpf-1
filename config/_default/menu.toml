@@ -2,13 +2,10 @@
     name = "Home"
     url = "/"
     weight = 10
-
-    name = "Tags"
-    identifier = "tags"
-    weight = 20
+    identifier = "h1"
 
     name = "Academic"
-    parent = "tags"
+    parent = "h1"
     url = "tags/academic/"
     weight = 10
 
