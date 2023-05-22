@@ -3,61 +3,63 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 [[menu]]
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 10
-[[menu.main]]
-  name = "Tags"
-  identifier = "tags"
-  weight = 20
 
-[[menu.main]]
-  name = "Academic"
-  parent = "tags"
-  url = "tags/academic/"
-  weight = 10
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
 
-[[menu.main]]
-  name = "About Us"
-  url = "#about-us"
-  weight = 20
+  [[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    weight = 20
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  [[menu.main]]
+    name = "Academic"
+    parent = "tags"
+    url = "tags/academic/"
+    weight = 10
 
-[[menu.main]]
-  name = "Media Center"
-  url = "post"
-  weight = 40
+  [[menu.main]]
+    name = "About Us"
+    url = "#about-us"
+    weight = 20
 
-[[menu.main]]
-  name = "Support/Join Us"
-  url = "donate"
-  weight = 50
+  [[menu.main]]
+    name = "Projects"
+    url = "#projects"
+    weight = 30
 
-[[menu.main]]
-  name = "Contact Us"
-  url = "contact"
-  weight = 60
+  [[menu.main]]
+    name = "Media Center"
+    url = "post"
+    weight = 40
+
+  [[menu.main]]
+    name = "Support/Join Us"
+    url = "donate"
+    weight = 50
+
+  [[menu.main]]
+    name = "Contact Us"
+    url = "contact"
+    weight = 60
 
 # [[main]]
 #  name = "Blog"
 #  url = "blog"
 #  weight = 20
 
-#[[main]]
+# [[main]]
 #  name = "People"
 #  url = "people"
 #  weight = 30
 
 
-#[[main]]
+# [[main]]
 #  name = "Events"
-# url = "event"
-# weight = 40
+#  url = "event"
+#  weight = 40
 
 #[[main]]
 #  name = "Talks"
@@ -69,10 +71,10 @@
 #  url = "publications/"
 #  weight = 50
 
-[[menu.main_right]]
-  name = "Courses"
-  url = "courses/"
-  weight = 70
+  [[menu.main_right]]
+    name = "Courses"
+    url = "courses/"
+    weight = 70
 
 
 #[[menu.main]]
@@ -80,7 +82,7 @@
 #  url = "slides/slides"
 #  weight = 80
 
-[[menu.main_right]]
+  [[menu.main_right]]
     name = "Tutorial"
     url = "Tutorial"
     weight = 80
