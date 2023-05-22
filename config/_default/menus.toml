@@ -7,6 +7,15 @@
   name = "Home"
   url = "/"
   weight = 10
+
+  name = "Home"
+  identifier = home
+  weight= 20
+  
+  name = "Partners"
+  parent = tags
+  url = post/our-partners
+  weight = 10
   
   [[menu.main]]
   name = "About Us"
