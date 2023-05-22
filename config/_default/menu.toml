@@ -3,12 +3,10 @@
     url = "/"
     weight = 10
 
-  [[main]]
     name = "Tags"
     identifier = "tags"
     weight = 20
 
-  [[main]]
     name = "Academic"
     parent = "tags"
     url = "tags/academic/"
