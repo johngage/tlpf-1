@@ -1,45 +1,53 @@
   [[main]]
     name = "Home"
+
     url = "/"
     weight = 10
-    identifier = "h1"
+    identifier = "home"
 
    # name = "Academic"
-    #parent = "h1"
+    #parent = "home"
     #url = "tags/academic/"
    # weight = 10
 
   [[main]]
     name = "About Us"
+    identifier = "about_us"
     url = "#about-us"
     weight = 20
 
   [[main]]
     name = "Projects"
+    identifier = "projects"
     url = "#projects"
     weight = 30
 
   [[main]]
     name = "Media Center"
+    identifier = "media_center"
     url = "post"
     weight = 40
 
   [[main]]
     name = "Support/Join Us"
+    identifier = "support"
     url = "donate"
     weight = 50
 
   [[main]]
     name = "Contact Us"
+    identifier = "contact"
     url = "contact"
     weight = 60
 
 [[main_right]]
   name = "Courses"
+  identifier = "courses"
   url = "courses/"
   weight = 70
 
 [[main_right]]
   name = "Tutorial"
+  identifier = "tutorial"
   url = "Tutorial"
   weight = 80
