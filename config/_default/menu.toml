@@ -111,7 +111,7 @@
     weight = 41
   [[main]] 
     name = "Gallery"
-    identifier = "newsletters"
+    identifier = "gallery"
     parent = "media_center"
     url = "tags/academic/"
     weight = 42
@@ -127,18 +127,55 @@
     parent = "media_center"
     url = "tags/academic/"
     weight = 44
+  [[main]] 
+    name = "Footer"
+    identifier = "footer"
+    parent = "reports"
+    url = "tags/academic/"
+    weight = 45
 
   [[main]]
       name = "Support/Join Us"
       identifier = "support"
       url = "donate"
       weight = 50
+  [[main]] 
+    name = "Current Project Highlights"
+    identifier = "currenthighlights"
+    parent = "support"
+    url = "tags/academic/"
+    weight = 51
+  [[main]] 
+    name = "Payment Details"
+    identifier = "currenthighlights"
+    parent = "support"
+    url = "tags/academic/"
+    weight = 52
 
   [[main]]
       name = "Contact Us"
       identifier = "contact"
       url = "contact"
       weight = 60
+  [[main]] 
+    name = "Contact Form"
+    identifier = "contactform"
+    parent = "contact"
+    url = "tags/academic/"
+    weight = 61
+  
+  [[main]] 
+    name = "Map"
+    identifier = "map"
+    parent = "contact"
+    url = "tags/academic/"
+    weight = 62
+  [[main]] 
+    name = "FAQ"
+    identifier = "faq"
+    parent = "contact"
+    url = "tags/academic/"
+    weight = 63
 
   [[main_right]]
     name = "Courses"
