@@ -91,7 +91,7 @@
     identifier = "success"
     parent = "projects"
     url = "tags/academic/"
-    weight = 31
+    weight = 34
   [[main]]
       name = "Media Center"
       identifier = "media_center"
