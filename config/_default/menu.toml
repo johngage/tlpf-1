@@ -5,27 +5,27 @@
     url = "/"
     weight = 10
   [[main]] 
-    name = "Brief About Us"
-    identifier = "brier"
+    name = "About Us"
+    identifier = "briefabout"
     parent = "home"
     url = "tags/academic/"
     weight = 11
   [[main]] 
     name = "Current Projects"
     identifier = "currentprojects"
-    parent = "home"
+    parent = "briefabout"
     url = "tags/academic/"
     weight = 12
   [[main]] 
     name = "Success Highlights"
     identifier = "success"
-    parent = "home"
+    parent = "briefabout"
     url = "tags/academic/"
     weight = 13
   [[main]] 
     name = "Partners"
     identifier = "partners"
-    parent = "home"
+    parent = "briefabout"
     url = "tags/academic/"
     weight = 14
   [[main]]
@@ -54,7 +54,7 @@
   [[main]] 
     name = "Foundation Values"
     identifier = "foundation"
-    parent = "about_us"
+    parent = "vision"
     url = "tags/academic/"
     weight = 24
   [[main]] 
@@ -66,7 +66,7 @@
   [[main]] 
     name = "Footer"
     identifier = "footer1"
-    parent = "about_us"
+    parent = "governance"
     url = "tags/academic/"
     weight = 26
   [[main]]
@@ -74,11 +74,59 @@
       identifier = "projects"
       url = "#projects"
       weight = 30
+  [[main]] 
+    name = "All Projects"
+    identifier = "allprojects"
+    parent = "projects"
+    url = "tags/academic/"
+    weight = 31
+  [[main]] 
+    name = "Current Projects"
+    identifier = "currentprojects"
+    parent = "projects"
+    url = "tags/academic/"
+    weight = 32
+  [[main]] 
+    name = "Our Success"
+    identifier = "success"
+    parent = "projects"
+    url = "tags/academic/"
+    weight = 31
   [[main]]
       name = "Media Center"
       identifier = "media_center"
       url = "post"
       weight = 40
+  [[main]] 
+    name = "Newsletters"
+    identifier = "newsletters"
+    parent = "media_center"
+    url = "tags/academic/"
+    weight = 41
+  [[main]] 
+    name = "Events/Activities"
+    identifier = "eventsactivities"
+    parent = "newsletters"
+    url = "tags/academic/"
+    weight = 41
+  [[main]] 
+    name = "Gallery"
+    identifier = "newsletters"
+    parent = "media_center"
+    url = "tags/academic/"
+    weight = 42
+  [[main]] 
+    name = "Recent Activities"
+    identifier = "recent"
+    parent = "media_center"
+    url = "tags/academic/"
+    weight = 43
+  [[main]] 
+    name = "Reports"
+    identifier = "reports"
+    parent = "media_center"
+    url = "tags/academic/"
+    weight = 44
 
   [[main]]
       name = "Support/Join Us"
