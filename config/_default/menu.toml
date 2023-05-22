@@ -4,10 +4,10 @@
     weight = 10
     identifier = "h1"
 
-    name = "Academic"
-    parent = "h1"
-    url = "tags/academic/"
-    weight = 10
+   # name = "Academic"
+    #parent = "h1"
+    #url = "tags/academic/"
+   # weight = 10
 
   [[main]]
     name = "About Us"
