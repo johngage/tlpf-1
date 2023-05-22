@@ -1,51 +1,50 @@
-[[menu]]
-  [[menu.main]]
+  [[main]]
     name = "Home"
     url = "/"
     weight = 10
 
-  [[menu.main]]
+  [[main]]
     name = "Tags"
     identifier = "tags"
     weight = 20
 
-  [[menu.main]]
+  [[main]]
     name = "Academic"
     parent = "tags"
     url = "tags/academic/"
     weight = 10
 
-  [[menu.main]]
+  [[main]]
     name = "About Us"
     url = "#about-us"
     weight = 20
 
-  [[menu.main]]
+  [[main]]
     name = "Projects"
     url = "#projects"
     weight = 30
 
-  [[menu.main]]
+  [[main]]
     name = "Media Center"
     url = "post"
     weight = 40
 
-  [[menu.main]]
+  [[main]]
     name = "Support/Join Us"
     url = "donate"
     weight = 50
 
-  [[menu.main]]
+  [[main]]
     name = "Contact Us"
     url = "contact"
     weight = 60
 
-[[menu.main_right]]
+[[main_right]]
   name = "Courses"
   url = "courses/"
   weight = 70
 
-[[menu.main_right]]
+[[main_right]]
   name = "Tutorial"
   url = "Tutorial"
   weight = 80
