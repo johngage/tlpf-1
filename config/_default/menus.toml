@@ -9,7 +9,7 @@
   
   [[main]]
   name = "About Us"
-  url = "content/home/about-us"
+  url = "/content/home/about-us"
   weight = 20
 
   [[main]]
