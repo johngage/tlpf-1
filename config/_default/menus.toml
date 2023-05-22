@@ -9,12 +9,13 @@
   weight = 10
 
   
-  name= Tags
-  identifier = tags
+  name= "Tags"
+  identifier = "tags"
   weight = 20
-  name = Academic
+
+  name = "Academic"
   parent = tags
-  url: tags/academic/
+  url: "tags/academic/"
   weight: 10
   
   [[menu.main]]
