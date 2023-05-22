@@ -13,19 +13,19 @@
   [[main]] 
     name = "Current Projects"
     identifier = "currentprojects"
-    parent = "briefabout"
+    parent = "home/briefabout"
     url = "tags/academic/"
     weight = 12
   [[main]] 
     name = "Success Highlights"
     identifier = "success"
-    parent = "briefabout"
+    parent = "home/briefabout"
     url = "tags/academic/"
     weight = 13
   [[main]] 
     name = "Partners"
     identifier = "partners"
-    parent = "briefabout"
+    parent = "home/briefabout"
     url = "tags/academic/"
     weight = 14
   [[main]]
