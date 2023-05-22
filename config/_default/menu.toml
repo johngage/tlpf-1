@@ -5,8 +5,26 @@
     url = "/"
     weight = 10
   [[main]] 
-    name = "Academic"
-    identifier = "academic"
+    name = "Brief About Us"
+    identifier = "brier"
+    parent = "home"
+    url = "tags/academic/"
+    weight = 11
+  [[main]] 
+    name = "Current Projects"
+    identifier = "currentprojects"
+    parent = "home"
+    url = "tags/academic/"
+    weight = 11
+  [[main]] 
+    name = "Success Highlights"
+    identifier = "success"
+    parent = "home"
+    url = "tags/academic/"
+    weight = 11
+  [[main]] 
+    name = "Partners"
+    identifier = "partners"
     parent = "home"
     url = "tags/academic/"
     weight = 11
