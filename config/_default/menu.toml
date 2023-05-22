@@ -5,11 +5,11 @@
     url = "/"
     weight = 10
   [[menu.main]] 
-     name = "Academic"
-     identifier = "academic"
-     parent = "home"
-     url = "tags/academic/"
-     weight = 11
+    name = "Academic"
+    identifier = "academic"
+    parent = "home"
+    url = "tags/academic/"
+    weight = 11
   [[menu.main]]
       name = "About Us"
       identifier = "about_us"
