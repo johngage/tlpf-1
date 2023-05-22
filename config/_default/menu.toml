@@ -1,16 +1,16 @@
 [[menu]]
-  [[menu.main]]
+  [[main]]
     name = "Home"
     identifier = "home"
     url = "/"
     weight = 10
-  [[menu.main]] 
+  [[main]] 
     name = "Academic"
     identifier = "academic"
     parent = "home"
     url = "tags/academic/"
     weight = 11
-  [[menu.main]]
+  [[main]]
       name = "About Us"
       identifier = "about_us"
       url = "#about-us"
