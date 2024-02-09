@@ -2,7 +2,7 @@
 title: "Blogs are for longer thoughts or observations. "
 date: 2021-02-15T23:07:44.504Z
 summary: >-
-  18 Feb 2021
+  8 Feb 2024
 
   News should be for announcements, new projects, things that happen to the
   team, the academy, the foundation.
