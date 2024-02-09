@@ -28,7 +28,7 @@ design:
     text_color_light: true
     color: "#7fe01b"
 ---
-TLPF is a charitable organization that focuses on **restoring peace and fostering economic empowerment among pastoralists**. It was established in 2003 by Tegla Loroupe, a Kenyan marathon legend and the Foundation’s President. Essentially, TLPF focuses on rebuilding social relations and developing trust among communities at war over scarce water, scarce pasture, and increasingly fragile and threatened vital resources for their herds and crops, in some of the world's most impoverished nomadic communities.
+TLPF is a charitable organization focused on **restoring peace and fostering economic empowerment among pastoralists**. It was established in 2003 by Tegla Loroupe, a Kenyan marathon legend and the Foundation’s President. Essentially, TLPF works to rebuild social relations and develop trust among communities at war over scarce water, scarce pasture, and resources for their herds and crops. Climate change threatens increasingly fragile livelihoods and families in some of the world's most impoverished nomadic communities.
 
 Fifteen years of **Peace Races** showcase sports as an alternative economic livelihood pathway to the warrior's traditional practice of cattle rustling, with the creation of a Warrior's Training Center for those who put down their weapons and choose peace.
 
