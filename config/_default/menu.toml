@@ -8,7 +8,7 @@
     name = "About Us"
     identifier = "briefabout"
     parent = "home"
-    url = "tags/academic/"
+    url = "'#about-us'/"
     weight = 11
   [[main]] 
     name = "Current Projects"
