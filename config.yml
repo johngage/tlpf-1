@@ -6,7 +6,8 @@ backend:
  repo: johngage/tlpf-1
  # This file controls what content Netlify CMS can see, and edit.
  # Each "Collection" corresponds to a directory
- # in the base content directory, e.g., "home", "authors", "blog",
+ # in the base content directory, e.g., "authors", "blog", "contact", "courses", "donate", "event", "home"
+ # "people", "post", "project", "publication", "slides", "talks"
 media_folder: 'static/images/uploads' #may23
 public_folder: '/images/uploads' #may23
 collections:
