@@ -1,0 +1,80 @@
+title = "Tegla Loroupe Peace Foundation"
+baseurl = "https://teglapeace.org/"
+copyright = "&copy; Research Group, {year}"
+enableGitInfo = false
+defaultContentLanguage = "en"
+hasCJKLanguage = false
+defaultContentLanguageInSubdir = false
+removePathAccents = true
+summaryLength = 30
+paginate = 20
+enableEmoji = true
+enableRobotsTXT = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+ignoreFiles = [
+    "\\.ipynb$",
+    ".ipynb_checkpoints$",
+    "\\.Rmd$",
+    "\\.Rmarkdown$",
+    "_files$",
+    "_cache$",
+]
+
+[permalinks]
+event = "/talk/:slug/"
+authors = "/author/:slug/"
+tags = "/tag/:slug/"
+categories = "/category/:slug/"
+publication_types = "/publication-type/:slug/"
+
+[outputs.home]
+formats = ["HTML", "RSS", "JSON", "WebAppManifest", "redirects", "headers"]
+
+[outputs.section]
+formats = ["HTML", "RSS"]
+
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+rel = "manifest"
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+codeFences = false
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 3
+
+[imaging]
+resampleFilter = "lanczos"
+quality = 75
+anchor = "smart"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+author = "authors"
+publication_type = "publication_types"
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = true
+indices = [
+{ name = "tags", weight = 80 },
+{ name = "categories", weight = 70 }
+]
+
+[security.funcs]
+getenv = ["WC_POST_CSS"]
+
+

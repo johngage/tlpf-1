@@ -6,16 +6,6 @@
 title: Tegla Loroupe Peace Foundation # Website name
 baseURL: 'https://teglapeace.org/' # Website URL
 
-##################
-cascade:
-  share: true
-  reading_time: true
-##################
-
-#sectionPagesMenu: main
-
-
-
 ############################
 ## LANGUAGE
 ############################
@@ -29,7 +19,7 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-enableGitInfo: true
+enableGitInfo: false
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -41,18 +31,15 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-  post: '/blog/:year/:month/:day/:slug'
-
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: Lanczos
+  resampleFilter: lanczos
   quality: 75
-  anchor: Smart
-timeout: '30s'
-
+  anchor: smart
+timeout: 600000
 taxonomies:
   tag: tags
   category: categories

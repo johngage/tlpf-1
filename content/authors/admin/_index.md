@@ -34,4 +34,4 @@ highlight_name: false
 ---
 
 
-Building peace through sports
+I am part of a team that manages Teglapeace.org

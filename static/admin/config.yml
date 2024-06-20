@@ -5,8 +5,10 @@ backend:
  #  name: github
  repo: johngage/tlpf-1
  # This file controls what content Netlify CMS can see, and edit.
+ #This yaml validated on June 20
  # Each "Collection" corresponds to a directory
- # in the base content directory, e.g., "home", "authors", "blog",
+ # in the base content directory, e.g., "authors", "blog", "contact", "courses", "donate", "event", "home"
+ # "people", "post", "project", "publication", "slides", "talks"
 media_folder: 'static/images/uploads' #may23
 public_folder: '/images/uploads' #may23
 collections:
@@ -158,7 +160,7 @@ collections:
         name: "user_groups"
         required: false
         widget: "list"
-  - name: posts
+  - name: post
     label: Posts
     label_singular: Post
     folder: 'content/post'
@@ -201,6 +203,7 @@ collections:
         name: "image"
         required: false
         widget: object
+        # This starts field definition
         fields:
           - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
@@ -212,9 +215,9 @@ collections:
                 multiple: false
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
-          - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
+          - {label: 'Where is focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight', name: focal_point, widget: string, required: false, default: "Smart",}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false, required: false}
-  - name: projects
+  - name: project
     label: Projects
     label_singular: Project
     folder: 'content/project'
@@ -286,7 +289,7 @@ collections:
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false, required: false}
-  - name: events
+  - name: event
     label: Events
     label_singular: Event
     folder: 'content/event'
@@ -367,7 +370,7 @@ collections:
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false, required: false}
       - {label: "Details", name: "body", widget: "markdown", required: false}
-  - name: publications
+  - name: publication
     label: Publications
     label_singular: Publication
     folder: 'content/publication'
@@ -493,23 +496,7 @@ collections:
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false, required: false}
-  - name: blogs
-    label: "Blogs"
-    folder: 'content/blog'
-    path: '{{slug}}/_index'
-    create: true
-    filter: {field: "cms_exclude"}
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-      - {label: "Summary", name: "summary", widget: "markdown", required: false}
-      - label: "Draft"
-        name: "draft"
-        required: false
-        widget: "boolean"
-        default: false
-      - {label: "Body", name: "body", widget: "markdown"}
+  
   - name: pages
     label: "Pages"
     files:
@@ -541,7 +528,7 @@ collections:
             widget: "boolean"
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
-  - name: books
+  - name: courses
     label: "Books"
     folder: 'content/courses'
     path: '{{slug}}/_index'
@@ -558,7 +545,7 @@ collections:
         widget: "boolean"
         default: false
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: blogs
+  - name: blog
     label: "Blogs"
     folder: 'content/blog'
     path: '{{slug}}/_index'
@@ -609,3 +596,40 @@ collections:
         widget: "boolean"
         default: false
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: people
+    label: "People"
+    folder: 'content/people'
+    path: '{{slug}}/index'
+    create: true
+    filter: {field: "cms_exclude"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: false
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: talks
+    label: "Talks"
+    folder: 'content/talks'
+    path: '{{slug}}/index'
+    create: true
+    filter: {field: "cms_exclude"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: false
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
