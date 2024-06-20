@@ -11,3 +11,18 @@ imports:
 #  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
 #  - path: github.com/HuboBlox/hugo-box-builder/modules/blox-bootstrap/layouts/partials
 #  - path: github.com/HugoBlox/hugo-blox-builder/tree/c3d23d929bc6eaa2d888baf81a535af9fb2cf039/modules/blox-bootstrap/layouts
+# Install any Hugo Blox within the `hugo-blox/blox/` folder
+mounts:
+  - source: hugo-blox/blox/community
+    target: layouts/partials/blox/community/
+    includeFiles: '**.html'
+  - source: hugo-blox/blox/all-access
+    target: layouts/partials/blox/
+    includeFiles: '**.html'
+  - source: hugo-blox/blox
+    target: assets/dist/community/blox/
+    includeFiles: '**.css'
+  - source: layouts
+    target: layouts
+  - source: assets
+    target: assets
