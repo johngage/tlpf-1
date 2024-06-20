@@ -201,6 +201,7 @@ collections:
         name: "image"
         required: false
         widget: object
+        # This starts field definition
         fields:
           - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
@@ -210,6 +211,9 @@ collections:
             media_library:
               config:
                 multiple: false
+
+
+                
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
