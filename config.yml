@@ -211,14 +211,11 @@ collections:
             media_library:
               config:
                 multiple: false
-
-
-                
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
-# I am 219
+# I am 216
           - {label: " Where is focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight", name: focal_point, widget: string, required: false, default: "Smart"}
-#I am 221        
+#I am 218       
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false, required: false}
   - name: projects
     label: Projects
