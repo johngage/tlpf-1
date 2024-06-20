@@ -1,4 +1,11 @@
 ---
+menu:
+  main:
+    name: "News"
+    weight: 1
+    identifier: "news"
+
+
 widget: pages
 widget_id: News Posts
 headless: true

@@ -1,23 +1,84 @@
 ---
-widget: contact
 title: Contact us in Nairobi or in Ngong
-date: 2021-03-03T02:07:43.031Z
-subtitle: null
-summary: ""
-weight: 10
-content:
-  autolink: true
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
-headless: true
-design:
-  columns: "1"
+date: 2024-02-03T02:07:43.031Z
+
+type: landing
+
+sections:
+  - block: contact
+    content: 
+      title: TLPF Administrator
+      text: |-
+        The Tegla Loroupe Peace Foundation main office is in Nairobi, in a new location in Lavington.  
+      email: test@example.org
+      phone: +254 888 88 88
+      address:
+        street: ''
+        city: Nairobi
+        region: ''
+        postcode: ''
+        country: Kenya
+        country_code: US
+      coordinates:
+        latitude: '-1.286389'
+        longitude: '36.817223'
+      directions: Enter Building 
+      office_hours:
+        - 'Monday 9:00 to 16:00'
+        - 'Wednesday 09:00 to 10:00'
+      appointment_url: 'https://calendly.com'
+      #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
+    
+      # Automatically link email and phone or display as text?
+      autolink: true
+    
+   # Email form provider
+    #  form:
+    #    provider: netlify
+    #    formspree:
+    #    id:
+    #    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+    #        captcha: false
+    #  design:
+    #    columns: '1'
+
+    #content:
+    #  autolink: true
+    #  form:
+    #    provider: netlify
+    #    formspree:
+    #       id
+    #    netlify:
+    #      captcha: false
+    #   headless: true
+    #   design:
+     #    columns: "1"
+
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: contact.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---
-The Tegla Loroupe Peace Foundation main office is in Nairobi, in a new location in Lavington.  
 
 <hr>
 

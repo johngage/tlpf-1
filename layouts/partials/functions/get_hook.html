@@ -1,0 +1,18 @@
+<!-- layouts/partials/functions/get_hook.html -->
+
+{{- define "functions/get_hook" -}}
+    {{- $hook := .hook -}}
+    {{- $context := .context -}}
+    
+    {{- if eq $hook "toc-start" -}}
+        {{- if eq $context "single" -}}
+            {{- partial "partials/toc_start_single.html" . -}}
+        {{- else if eq $context "list" -}}
+            {{- partial "partials/toc_start_list.html" . -}}
+        {{- else -}}
+            <!-- Handle other contexts or show default hook -->
+        {{- end -}}
+    {{- else -}}
+        <!-- Handle other hooks or show default behavior -->
+    {{- end -}}
+{{- end -}}

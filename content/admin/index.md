@@ -1,9 +1,8 @@
 ---
-# Generate Wowchemy CMS
-# Added Feb 18, 2021 : instructed to add this in 5.0 beta 3
-type: wowchemycms
+# Generate Decap CMS
+type: decap_cms
 private: true
 outputs:
-  - wowchemycms_config
+  - decap_cms_config
   - HTML
 ---

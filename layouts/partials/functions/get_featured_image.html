@@ -1,0 +1,8 @@
+<!-- layouts/partials/functions/get_featured_image.html -->
+
+{{- define "functions/get_featured_image" -}}
+    {{- $page := . -}}
+    {{- with .Params.featured_image -}}
+        <img src="{{ . }}" alt="{{ $page.Title }}" />
+    {{- end -}}
+{{- end -}}

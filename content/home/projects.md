@@ -1,6 +1,12 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+menu:
+  main:
+    name: "Projects"
+    weight: 1
+    identifier: "projects"
+    
 widget: portfolio
 
 # This file represents a page section.
@@ -43,7 +49,7 @@ design:
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
-  #   3 = Card
+  #   3 = Card 
   #   5 = Showcase
   view: 3
   background:
