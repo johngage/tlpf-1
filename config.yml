@@ -214,7 +214,7 @@ collections:
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
 # I am 216
-          - {label:  "Where is focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight", name: focal_point, widget: string, required: false, default: "Smart"}
+#         - {label: 'Where is focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight', name: focal_point, widget: string, required: false, default: "Smart",}
    
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false, required: false}
   - name: projects
