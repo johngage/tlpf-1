@@ -5,6 +5,7 @@ backend:
  #  name: github
  repo: johngage/tlpf-1
  # This file controls what content Netlify CMS can see, and edit.
+ #This yaml validated on June 20
  # Each "Collection" corresponds to a directory
  # in the base content directory, e.g., "authors", "blog", "contact", "courses", "donate", "event", "home"
  # "people", "post", "project", "publication", "slides", "talks"
