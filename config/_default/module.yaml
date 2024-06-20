@@ -9,3 +9,4 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+  - path: github.com/HuboBlox/hugo-box-builder/modules/blox-bootstrap/layouts
