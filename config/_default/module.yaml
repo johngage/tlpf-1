@@ -9,5 +9,5 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
 #  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
-  - path: github.com/HuboBlox/hugo-box-builder/modules/blox-bootstrap/layouts/partials
+#  - path: github.com/HuboBlox/hugo-box-builder/modules/blox-bootstrap/layouts/partials
 #  - path: github.com/HugoBlox/hugo-blox-builder/tree/c3d23d929bc6eaa2d888baf81a535af9fb2cf039/modules/blox-bootstrap/layouts
