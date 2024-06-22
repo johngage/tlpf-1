@@ -1,38 +1,38 @@
 menu:
   - {}
 main:
-  - name: HomeD
+  - name: HomeE
     identifier: home
     url: /
     weight: 10
-  - name: About Us
+  - name: About Time
     identifier: briefabout
     parent: home
-    url: /home/#about-us
+    url: about-us/
     weight: 11
   - name: Current Projects
     identifier: currentprojects
     parent: home
-    url: /#projects
+    url: projects/
     weight: 12
   - name: Success Highlights
     identifier: success
     parent: home
-    url: /#projects/success/
+    url: #projects
     weight: 13
-  - name: Partners
+  - name: Partners-Friends
     identifier: partners
     parent: home
-    url: /home/#partners/
+    url: partners/
     weight: 14
-  - name: About Us
+  - name: About UsE
     identifier: about_us
     url: '#about-us'
     weight: 20
   - name: Mission
     identifier: mission
     parent: about_us
-    url: tags/academic/
+    url: mission/
     weight: 21
   - name: Vision
     identifier: vision
