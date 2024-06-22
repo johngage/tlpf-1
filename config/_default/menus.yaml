@@ -8,7 +8,7 @@ main:
 
   - name: About Time
     parent: home
-    url: home/about-us
+    url: home/about-us/
     weight: 11
 
   - name: CurrentProjects
