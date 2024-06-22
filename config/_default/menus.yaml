@@ -1,29 +1,29 @@
 menu:
   - {}
 main:
-  - name: HomeC
+  - name: HomeD
     identifier: home
     url: /
     weight: 10
   - name: About Us
     identifier: briefabout
     parent: home
-    url: home/about-us/
+    url: /home/#about-us
     weight: 11
   - name: Current Projects
     identifier: currentprojects
     parent: home
-    url: home/projects/
+    url: /#projects
     weight: 12
   - name: Success Highlights
     identifier: success
     parent: home
-    url: /projects/success/
+    url: /#projects/success/
     weight: 13
   - name: Partners
     identifier: partners
     parent: home
-    url: partners/
+    url: /home/#partners/
     weight: 14
   - name: About Us
     identifier: about_us
