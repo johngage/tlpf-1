@@ -18,7 +18,7 @@ main:
     url: home/projects/
     weight: 12
 
-- name: Current Projects
+  - name: Current Projects
     parent: home
     url: home/projects
     weight: 12.5
