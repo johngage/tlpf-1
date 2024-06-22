@@ -1,19 +1,19 @@
 menu:
   - {}
 main:
-  - name: HomeE
+  - name: HomeF
     identifier: home
     url: /
     weight: 10
   - name: About Time
     identifier: briefabout
     parent: home
-    url: about-us/
+    url: home/about-us/
     weight: 11
-  - name: Current Projects
+  - name: CurrentProjects
     identifier: currentprojects
     parent: home
-    url: projects/
+    url: home/projects/
     weight: 12
   - name: Success Highlights
     identifier: success
@@ -23,8 +23,13 @@ main:
   - name: Partners-Friends
     identifier: partners
     parent: home
-    url: partners/
+    url: home/partners/
     weight: 14
+  - name: Welco
+    identifier: hithere
+    parent: home
+    url: home/welcome
+    weight: 15
   - name: About UsE
     identifier: about_us
     url: '#about-us'
