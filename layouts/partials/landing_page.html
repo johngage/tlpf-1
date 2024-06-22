@@ -2,7 +2,10 @@
 <!-- TODO: use data attribute on <body> instead if this is still required -->
 <span class="js-widget-page d-none"></span>
 
-{{/* Load Wowchemy blocks */}}
+{{/* Load Hugo Blox */}}
 {{ range $index, $block := .Params.sections }}
-  {{ partial "functions/parse_block_v2" (dict "page" $ "block" $block) }}
+  {{/* Do not show sections intended only for the demo site. */}}
+  {{ if or (not $block.demo) ($block.demo | and (eq (os.Getenv "WC_DEMO") "true")) }}
+    {{ partial "functions/parse_block_v2" (dict "page" $ "block" $block) }}
+  {{ end }}
 {{ end }}
