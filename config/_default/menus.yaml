@@ -1,7 +1,7 @@
 menu:
   - {}
 main:
-  - name: Home1
+  - name: Home20
     identifier: home
     url: /
     weight: 10
