@@ -1,7 +1,7 @@
 menu:
   - {}
 main:
-  - name: HomeA
+  - name: HomeB
     identifier: home
     url: /
     weight: 10
@@ -13,12 +13,12 @@ main:
   - name: Current Projects
     identifier: currentprojects
     parent: home
-    url: tags/academic/
+    url: /projects/
     weight: 12
   - name: Success Highlights
     identifier: success
     parent: home
-    url: tags/academic/
+    url: /projects/success/
     weight: 13
   - name: Partners
     identifier: partners
