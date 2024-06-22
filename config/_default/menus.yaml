@@ -1,13 +1,12 @@
 menu:
   - {}
 main:
-  - name: Home10
+  - name: Home11
     identifier: home
     url: home/
     weight: 10
 
   - name: About Time
-    identifier: briefabout
     parent: home
     url: home/about-us
     weight: 11
@@ -144,6 +143,11 @@ main:
     identifier: support
     url: donate/
     weight: 50
+  - name: Tokyo
+    parent: support
+    url: donate/_index
+    weight: 51
+
   - name: Current Project Highlights
     identifier: currenthighlights
     parent: support
