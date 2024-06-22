@@ -1,7 +1,7 @@
 menu:
   - {}
 main:
-  - name: Home9
+  - name: Home10
     identifier: home
     url: home/
     weight: 10
@@ -9,7 +9,7 @@ main:
   - name: About Time
     identifier: briefabout
     parent: home
-    url: home/about-us/
+    url: home/about-us
     weight: 11
 
   - name: CurrentProjects
@@ -17,6 +17,11 @@ main:
     parent:  home
     url: home/projects/
     weight: 12
+
+- name: Current Projects
+    parent: home
+    url: home/projects
+    weight: 12.5
 
   - name: Success Highlights
     identifier: success
@@ -35,15 +40,14 @@ main:
     url: home/welcome
     weight: 15
 
-  - name: Partners-2
+  - name: Partners-2.1
     parent: home
     url: home/partners/
     weight: 16
 
-  - name: Partners-3
-    identifier: partners
+  - name: Partners-3.1
     parent: home
-    url: home/partners/
+    url: home/partners
     weight: 17
 
   - name: About UsE
@@ -103,7 +107,7 @@ main:
 
   - name: Media Center
     identifier: media_center
-    url: post
+    url: post/
     weight: 40
   - name: Newsletters
     identifier: newsletters
@@ -113,12 +117,12 @@ main:
   - name: Events/Activities
     identifier: eventsactivities
     parent: newsletters
-    url: tags/academic/
+    url: slides/
     weight: 41
   - name: Gallery
     identifier: gallery
     parent: media_center
-    url: tags/academic/
+    url: assets/media/albums/
     weight: 42
   - name: Recent Activities
     identifier: recent
@@ -144,6 +148,10 @@ main:
     identifier: currenthighlights
     parent: support
     url: donate/PeaceSchool
+    weight: 51
+  - name: Current Project Relights
+    parent: support
+    url: donate/WarriorTrain
     weight: 51
   - name: Payment Details
     identifier: paymentdetails
