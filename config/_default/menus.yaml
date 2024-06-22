@@ -1,7 +1,7 @@
 menu:
   - {}
 main:
-  - name: Home8
+  - name: Home9
     identifier: home
     url: home/
     weight: 10
@@ -31,13 +31,11 @@ main:
     weight: 14
 
   - name: Welco
-    identifier: hithere
     parent: home
     url: home/welcome
     weight: 15
 
   - name: Partners-2
-    identifier: partners
     parent: home
     url: home/partners/
     weight: 16
@@ -69,7 +67,7 @@ main:
     weight: 23
   - name: Foundation Values
     identifier: foundation
-    parent: vision
+    parent: about-us
     url: tags/academic/
     weight: 24
   - name: Governance and Management
@@ -82,6 +80,7 @@ main:
     parent: governance
     url: tags/academic/
     weight: 26
+
   - name: Projects
     identifier: projects
     url: '#projects'
@@ -101,6 +100,7 @@ main:
     parent: projects
     url: tags/academic/
     weight: 34
+
   - name: Media Center
     identifier: media_center
     url: post
@@ -135,20 +135,22 @@ main:
     parent: reports
     url: tags/academic/
     weight: 45
+
   - name: Support/Join Us
     identifier: support
-    url: donate
+    url: donate/
     weight: 50
   - name: Current Project Highlights
     identifier: currenthighlights
     parent: support
-    url: tags/academic/
+    url: donate/PeaceSchool
     weight: 51
   - name: Payment Details
     identifier: paymentdetails
     parent: support
     url: tags/academic/
     weight: 52
+
   - name: Contact Us
     identifier: contact
     url: contact
