@@ -8,7 +8,7 @@ main:
   - name: About Us
     identifier: briefabout
     parent: home
-    url: tags/academic/
+    url: /
     weight: 11
   - name: Current Projects
     identifier: currentprojects
