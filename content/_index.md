@@ -138,7 +138,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: jg.jpg
+          filename: 'tl.young.girl.jpg'
           filters:
             brightness: 1
           parallax: false
