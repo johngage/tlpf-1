@@ -1,14 +1,14 @@
 menu:
   - {}
 main:
-  - name: Home11
+  - name: HomeT
     identifier: home
-    url: home/
+    url: /home/
     weight: 10
 
   - name: About Time
     parent: home
-    url: home/about-us/
+    url: /home/about-us/
     weight: 11
 
   - name: CurrentProjects
@@ -39,7 +39,7 @@ main:
     url: home/welcome
     weight: 15
 
-  - name: Partners-2.1
+  - name: Partners-test
     parent: home
     url: home/partners/
     weight: 16
