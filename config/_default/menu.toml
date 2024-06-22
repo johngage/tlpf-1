@@ -1,6 +1,6 @@
 [[menu]]
   [[main]]
-    name = "Home"
+    name = "HomeA"
     identifier = "home"
     url = "/"
     weight = 10
