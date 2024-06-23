@@ -2,18 +2,18 @@ menu:
   - {}
 main:
   - name: Home-test-3
-    identifier: /#home
+    identifier: home
     url: home
     weight: 10
 
   - name: About Us
     parent: home
-    url: /#home/about-us
+    url: home/about-us
     weight: 11
 
   - name: CurrentProjects
     parent:  home
-    url: /home/projects/
+    url: home/projects/
     weight: 12
 
   - name: Current Projects
