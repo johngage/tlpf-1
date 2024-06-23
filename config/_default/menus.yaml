@@ -1,20 +1,19 @@
 menu:
   - {}
 main:
-  - name: HomeT
+  - name: HomeSun-1
     identifier: home
     url: /home/
     weight: 10
 
-  - name: About Time
+  - name: About Us
     parent: home
-    url: /home/about-us/
+    url: home/about-us/
     weight: 11
 
   - name: CurrentProjects
-    identifier: currentprojects
     parent:  home
-    url: home/projects/
+    url: /home/projects/
     weight: 12
 
   - name: Current Projects
