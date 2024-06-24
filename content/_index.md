@@ -40,7 +40,7 @@ sections:
   - block: collection
     id: 3-latest
     content:
-      title: Updating in 2024: Latest News
+      title: Updating in 2024 - Latest News
       subtitle:
       text:
       count: 5
