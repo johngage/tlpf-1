@@ -12,4 +12,4 @@ image:
 ---
 # Families of International Refugee Olympic Team athletes participate in the in-camp center under UNHCR auspices.
 
-The Tegla Loroupe Peace Foundation sponsors educational material for the family members.
+The Tegla Loroupe Peace Foundation sponsors educational material for the family members of Olympic trainees.

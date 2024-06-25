@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The Tegla Loroupe Peace Race is an annual 10-kilometre road running event which takes place in November in Kapenguria, West Pokot County, Kenya. First held in 2003, the race was created by Kenyan runner Tegla Loroupe to bring together warriors of rival tribes to reduce conflict in the region. The event features separate 10K races for elite long-distance runners and local warriors. There is also a race for children and a VIP race for politicians and dignitaries. The race raises funds for the Tegla Loroupe Peace Foundation, a charitable body focused education, sports and medical issues.
+The Tegla Loroupe Peace Race is an annual 10-kilometre road running event which takes place in November in Kapenguria, West Pokot County, Kenya. First held in 2003, the race was created by Kenyan runner Tegla Loroupe to bring together warriors from rival tribes to reduce conflict in the region. The event features separate 10K races for elite long-distance runners and local warriors. There is also a race for children and a VIP race for politicians and dignitaries. The race raises funds for the Tegla Loroupe Peace Foundation, a charitable body focused education, sports and medical issues.
 
 The event, created in 2003, was first held in conjunction with the launch of the Tegla Loroupe Peace Foundation. The Peace Race marked an effort by Tegla Loroupe, a prominent long-distance runner and world recordholder, to use athletics as a way of promoting unity between rival tribes in the area. Severe droughts and high levels of poverty in the region brought with them increased conflict and cattle rustling, further compounding the population’s problems.
 

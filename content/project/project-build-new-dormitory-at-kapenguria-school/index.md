@@ -19,12 +19,13 @@ image:
 
 * Original design
 
-  - Show plan, model, drawings now in Lavington office
+  - Show the original plan, the models of the buildings, the dining hall, and the training facility. The drawings are now in the Lavington office, in the file archives.
 
-* Italian kitchen: describe the process of building the new building, and the links to the Italian volunteers who came to Kapenguria
+* Italian kitchen: describe the process of building the new building; show the links to the dozens of Italian volunteers who came to Kapenguria in 2018 to build the facility.
 
 * First dormitory construction:
 
 * Second dormitory construction:
 
 ### Gardens that feed the school
+- Show the garden plans, and the community and parental volunteers.
