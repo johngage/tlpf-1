@@ -1,9 +1,17 @@
 menu:
   - {}
 main:
-  - name: Home-test-4
+  - name: Hugo
+    params: 
+      rel:  external
+    pre: <i class="fa fa-home"></i>
+    url: https://gohugo.io/
+    weight: 5
+
+  - name: Home-test-5
     identifier: home
-    url: /
+    # url: /
+    pageRef:  /
     weight: 10
 
   - name: About Us-1
@@ -17,7 +25,8 @@ main:
 
   - name: CurrentProjects
     parent:  home
-    url: home/projects/
+    # url: home/projects/
+    pageRef: home/projects/
     weight: 12
 
   - name: Current Projects
@@ -34,12 +43,12 @@ main:
   - name: Partners-Friends
     identifier: partners
     parent: home
-    url: post/our-partners/
+    pageRef: post/our-partners/
     weight: 14
 
-  - name: Welco
+  - name: Welcome
     parent: home
-    url: home/welcome
+    pageRef: home/welcome
     weight: 15
 
   - name: Partners-test
@@ -89,23 +98,31 @@ main:
 
   - name: Projects
     identifier: projects
-    url: '#projects'
+    url: project/
     weight: 30
   - name: All Projects
-    identifier: allprojects
-    parent: projects
-    url: tags/academic/
+    parent: project
+    url: project/
     weight: 31
-  - name: Current Projects
-    identifier: currentprojects
-    parent: projects
-    url: tags/academic/
+  - name: Peace Academy
+    parent: project
+    url: project/new-faculty-at-kapenguria-peace-academy/
     weight: 32
-  - name: Our Success
+  - name: Refugee Camp
     identifier: success
-    parent: projects
-    url: tags/academic/
+    parent: project
+    url: project/refugee-camp-family-center/
     weight: 34
+  - name: Peace Races
+    identifier: peace-races
+    parent: project
+    url: project/the-tegla-loroupe-peace-race/
+    weight: 35
+  - name: Warrior Training Centre
+    identifier: warrior-training-centre
+    parent: project
+    url: project/the-tegla-loroupe-sports-training-center/
+    weight: 36
 
   - name: Media Center
     identifier: media_center
