@@ -8,7 +8,7 @@ main:
     url: https://gohugo.io/
     weight: 5
 
-  - name: Home-test-5
+  - name: Home-test-6
     identifier: home
     # url: /
     pageRef:  /
