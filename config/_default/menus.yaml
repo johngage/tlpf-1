@@ -6,7 +6,7 @@ main:
       rel:  external
     pre: <i class="fa fa-home"></i>
     url: https://gohugo.io/
-    weight: 5
+    weight: 19
 
   - name: Home-test-6
     identifier: home

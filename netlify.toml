@@ -4,7 +4,7 @@
   base = ""
 
 [build.environment]
-  HUGO_VERSION = "0.125.7"
+  HUGO_VERSION = "0.128.0"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]

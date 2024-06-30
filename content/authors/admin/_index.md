@@ -1,12 +1,23 @@
 ---
+#  Display name
 title: Tegla Loroupe Peace Foundation Editor
+#  Full Name
+first_name:  TLPF Editor
+last_name:  Family Name
+
+name_pronunciation:  Lo Ru Pay
+
 role: Web Site Editor
 avatar_filename: ./img_0918-2.jpg
+
+
 bio: I am dedicated to bringing peace through sports to refugee camps, conflict
   areas, and nomadic areas.
+  
+# Interests to show in About widget
 interests:
-  - PeaceRaces
-  - ChildrenSports
+  - Peace Races for warring tribes
+  - Sports for Children
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,9 +36,12 @@ organizations:
     url: ""
 education:
   courses:
+skills: 
+  editing: ChatGPT
+  writing:
     
 email: ""
-superuser: false
+superuser: true
 user_groups:
   - Management
 highlight_name: false
